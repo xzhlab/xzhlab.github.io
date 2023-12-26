@@ -19,8 +19,8 @@ EDUCATION
 APPOINTMENTS
 ======
 * 06/2018- : Chang'an University, Xi'an, China
-  * Associate professor of Mechanics/Physics(11/2023-)
-  * Assistant Professor of Physics(06/2018-11/2023)
+  * Associate professor of Mechanics/Physics (11/2023- )
+  * Assistant Professor of Physics (06/2018-11/2023)
 
 
 PUBLICATIONS
