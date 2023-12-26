@@ -84,11 +84,11 @@ author:
   avatar           : "xz1.png"
   bio              : "Principal Investigator"
   location         : "South Chang'an Road, Xi'an, China"
-  employer         : #
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #employer         : #
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=CkKOtVIAAAAJ&hl=en"
   email            : “xzh_wang@chd.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
