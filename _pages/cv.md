@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,11 +19,11 @@ EDUCATION
 APPOINTMENTS
 ======
 * 06/2018- : Chang'an University, Xi'an, China
-          * Associate professor of Mechanics/Physics(11/2023-)
-          * Assistant Professor of Physics(06/2018-11/2023)
+  * Associate professor of Mechanics/Physics(11/2023-)
+  * Assistant Professor of Physics(06/2018-11/2023)
 
 
-Publications
+PUBLICATIONS
 ======
  
 [1] Wang, Y., W. Huang, J. Che, Wang, X.*, Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation. Computational Materials Science, 2023. 229: p. 112435
