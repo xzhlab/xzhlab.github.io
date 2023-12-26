@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Beihang University, Instrument, 2010
+* M.S. in Xi'an Jiaotong University, Environmental Engineering, 2013
+* Visiting Ph.D in Clemson University, CUICAR, 2015-2017
+* Ph.D in Xi'an Jiaotong University, Materials Science and Engineering, 2018 
 
 Work experience
 ======
