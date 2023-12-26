@@ -1,5 +1,8 @@
 ---
+title: "Publications"
+collection: publications
 
+excerpt: 
 [1] Wang, Y., W. Huang, J. Che, Wang, X.*, Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation. Computational Materials Science, 2023. 229: p. 112435
 
 [2] Huang, W., J. Che, X. Wang*, N. Peng*, Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19. Journal of Alloys and Compounds, 2023: p. 170245.
