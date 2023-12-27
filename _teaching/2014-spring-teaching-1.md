@@ -1,20 +1,35 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+ Fall 2023: University Physics I (English)
 
-Heading 1
-======
+ Spring 2023: University Physics I (English)
 
-Heading 2
-======
+ Fall 2022: University Physics II (Bilingual)
 
-Heading 3
-======
+ Spring 2023: University Physics II (Bilingual)
+
+ Fall 2021: University Physics I
+
+ Spring 2021: University Physics I
+
+ Fall 2020: University Physics I
+
+ Spring 2020: University Physics I
+
+ Fall 2019: University Physics I
+
+              University Physics Experiment
+
+ Spring 2019: University Physics II
+
+              University Physics Experiment
+
+ Fall 2018: University Physics II
+
+            University Physics Experiment
