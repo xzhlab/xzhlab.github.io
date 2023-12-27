@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Xuezhi's Lab"
+title                    : "Xuezhi's Lab"
 #title_separator          : "-"
 #name                     : &name "Your Name"
 description              : &description "personal description"
