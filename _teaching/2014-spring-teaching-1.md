@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+
 collection: teaching
 
 
@@ -23,11 +23,11 @@ collection: teaching
 
  Fall 2019: University Physics I
 
-              University Physics Experiment
+            University Physics Experiment
 
  Spring 2019: University Physics II
 
-              University Physics Experiment
+            University Physics Experiment
 
  Fall 2018: University Physics II
 
