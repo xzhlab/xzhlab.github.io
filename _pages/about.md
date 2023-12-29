@@ -17,6 +17,4 @@ We aim to uncover fundamental molecular mechanisms of physics in materials. The 
 
 
 
-<span id="busuanzi_container_site_pv">
- Total visit<span id="busuanzi_value_site_pv"></span>
-</span>
+
