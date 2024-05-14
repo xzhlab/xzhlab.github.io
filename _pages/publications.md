@@ -6,7 +6,7 @@ author_profile: true
 ---
 2024
 ======
-[1] J. Che*, W. Huang, G. Ren, J. Linghu, X. Wang*, Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, Volume 50, Issue 13, Part A,
+[1] J. Che, W. Huang, G. Ren, J. Linghu, X. Wang*, Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, Volume 50, Issue 13, Part A,
 2024, Pages 22865-22873
 
 2023
