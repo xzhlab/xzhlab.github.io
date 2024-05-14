@@ -28,8 +28,16 @@ Talks
 2. Workshop on Urban Surface Thermo-Environmental Discussion, The University of Tokyo, Japan, July 2012;
 3. Xuezhi Wang et al., Poster: <Construction of the Urban Thermo-Environmental Monitoring System>, AOGS-AGU(WPGM) Joint Assembly, Sentosa, Singapore, August 2012.
   
-Jiajun Linghu 
-Co-investigator
+---
+layout: archive
+title: #"CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 EDUCATION
 ======
