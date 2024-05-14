@@ -6,7 +6,7 @@ author_profile: true
 ---
 2024
 ======
-[1] J. Che, W. Huang, G. Ren, J. Linghu, X. Wang*, Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, Volume 50, Issue 13, Part A,
+[1] J. Che * , W. Huang, G. Ren, J. Linghu, X. Wang * , Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, Volume 50, Issue 13, Part A,
 2024, Pages 22865-22873
 
 2023
@@ -14,7 +14,7 @@ author_profile: true
 
 [1] Wang, Y., W. Huang, J. Che, Wang, X.*, Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation. Computational Materials Science, 2023. 229: p. 112435
 
-[2] Huang, W., J. Che, X. Wang*, N. Peng*, Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19. Journal of Alloys and Compounds, 2023: p. 170245.
+[2] Huang, W., J. Che, X. Wang * , N. Peng * , Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19. Journal of Alloys and Compounds, 2023: p. 170245.
 
 [3] Wang, X.*, Tang Yu-Ting, Che Jun-Wei, Linghu Jia-Jun, Hou Zhao-Yang. Mechanism of amorphous-like thermal conductivity in binary oxide Yb3TaO7. Acta Phys. Sin., 2023, 72(5): 056101.
 
