@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] J. Che*, W. Huang, G. Ren, J. Linghu, X. Wang*, Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, online.
+[1] J. Che*, W. Huang, G. Ren, J. Linghu, X. Wang*, Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, Volume 50, Issue 13, Part A,
+2024, Pages 22865-22873
 
 [2] Wang, Y., W. Huang, J. Che, Wang, X.*, Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation. Computational Materials Science, 2023. 229: p. 112435
 
