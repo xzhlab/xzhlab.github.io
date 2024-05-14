@@ -5,6 +5,8 @@ collection: teaching
 
 ---
 
+ Spring 2023: University Physics I (Bilingual)
+ 
  Fall 2023: University Physics I (English)
 
  Spring 2023: University Physics I (English)
