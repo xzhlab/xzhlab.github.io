@@ -29,23 +29,4 @@ Talks
 3. Xuezhi Wang et al., Poster: <Construction of the Urban Thermo-Environmental Monitoring System>, AOGS-AGU(WPGM) Joint Assembly, Sentosa, Singapore, August 2012.
   
 ---
-layout: archive
-title: #"CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
-
-EDUCATION
-======
-B.S. in Xi'an Jiaotong University, Materials Physics, Xi'an, China, 06/2010
-M.S. in Xi'an Jiaotong University, Materials Physics Engineering, Xi'an, China, 06/2013
-Ph.D in National University of Singapore, Singapore, 8/2013-2/2018
-
-APPOINTMENTS
-======
-* 09/2018- : Chang'an University, Xi'an, China
-  * Assistant Professor of Physics (09/2018-11/2023)
