@@ -24,10 +24,13 @@ APPOINTMENTS
   
 Visits
 ======
-Abdus Salam ICTP, Trieste, Italy, Sep-Oct 2024;
-<Construction of the Urban Thermo-Environmental Monitoring System>, International Workshop on Subsurface Warming and Geothermal Energy, RIHN, Kyoto, Japan, July 2012;
-Workshop on Urban Surface Thermo-Environmental Discussion, The University of Tokyo, Japan, July 2012;
- <Construction of the Urban Thermo-Environmental Monitoring System>, AOGS-AGU(WPGM) Joint Assembly, Sentosa, Singapore, August 2012.
+* Abdus Salam ICTP, Trieste, Italy, Sep-Oct 2024;
+* International Workshop on Subsurface Warming and Geothermal Energy, RIHN, Kyoto, Japan, July 2012;
+* Workshop on Urban Surface Thermo-Environmental Discussion, The University of Tokyo, Japan, July 2012;
+* AOGS-AGU(WPGM) Joint Assembly, Sentosa, Singapore, August 2012.
+ 
+
+
   
 ---
 
