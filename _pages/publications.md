@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+2025
+======
+[1] Chen, Z., Linghu, J., Zhang, Q., Che, J., Wang, X *. and Wei, S., 2025. A Highly Polarization-sensitive Near-infrared Photodetector Based on Two-dimensional Germanane/α-CdS Heterostructure. 2D Materials.
+
 2024
 ======
 [1] J. Che * , W. Huang, G. Ren, J. Linghu, X. Wang * , Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, Volume 50, Issue 13, Part A, Pages 22865-22873
