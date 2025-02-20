@@ -17,7 +17,7 @@ We aim to uncover fundamental molecular mechanisms of physics in materials. The 
 News
 =====
 **Jan 2025**  
-<span style="font-size:16px">Congratulations on Zhengwang's first publication *<A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure>* on *2D Materials*. Way to go Zhengwang!</span>
+<span style="font-size:16px">Congratulations on *Zhengwang*'s first publication ***<A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure>*** on ***2D Materials***. Way to go *Zhengwang*!</span>
 
 **Oct 2024**  
-<span style="font-size:16px">Xuezhi attend *School and Workshop on Frontiers of Nanomechanics* host by ICTP at Triest, Italy</span>
+<span style="font-size:16px">*Xuezhi* attend ***School and Workshop on Frontiers of Nanomechanics*** host by ICTP at Triest, Italy</span>
