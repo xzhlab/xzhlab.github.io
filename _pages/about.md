@@ -16,7 +16,7 @@ We aim to uncover fundamental molecular mechanisms of physics in materials. The 
 
 News
 =====
-Jan 2025  
-Congratulations on Zhengwang's first publication * *<A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure>* on * *2D Materials*. Way to go Zhengwang!
+**Jan 2025**  
+<span style="font-size:10px">Congratulations on Zhengwang's first publication * *<A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure>* on * *2D Materials*. Way to go Zhengwang!</span>
 
 
