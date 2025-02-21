@@ -34,5 +34,5 @@ We aim to uncover fundamental molecular mechanisms of physics in materials. Our 
 <span style="font-size:16px">Welcome *Zhengwang Chen* joins the lab as a master student!</span>
 
 <span style="font-size:16px">**Jul 2024**    </span>  
-<span style="font-size:16px">*Xuezhi* collaboration work *Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7* is published on *Ceramics International*</span>
+<span style="font-size:16px">*Xuezhi* collaboration work *Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7* is published on *Ceramics International*.</span>
 
