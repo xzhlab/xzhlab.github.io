@@ -7,10 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<img src="../images/xz1.png" alt="Person's Name">
+<img src="../images/lh.png" alt="Jiajun Linghu" width="150" height="200" />
 <img src="../images/zw.jpg" alt="Zhengwang Chen" width="150" height="200" />  
 
-![Zhengwang Chen](../images/zw.jpg)
 
   
 Visits
