@@ -26,7 +26,7 @@ News
 <span style="font-size:16px">*Xuezhi* gets a funding from Lin Corp.</span>
 
 **Oct 2024**  
-<span style="font-size:16px">*Xuezhi* attend ***School and Workshop on Frontiers of Nanomechanics*** host by **the Abdus Salam International Centre for Theoretical Physics (ICTP)** at Trieste, Italy</span>
+<span style="font-size:16px">*Xuezhi* attend ***School and Workshop on Frontiers of Nanomechanics*** host by **the Abdus Salam International Centre for Theoretical Physics (ICTP)** at Trieste, Italy.</span>
 
 **Jul 2024**  
 <span style="font-size:16px">*Xuezhi* collaboration work *Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7* is published on *Ceramics International*</span>
