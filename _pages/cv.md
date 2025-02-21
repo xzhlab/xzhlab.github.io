@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="margin-left: 150px;">  
-Co-PI<br />
+<h1 style="color:	#1E90FF;">Co-PI</h1> <br />
 <img src="../images/lh.jpg" alt="Dr.Jiajun Linghu" width="150" height="155" />  
  <p class="name">Dr. Jiajun Linghu</p>  
   <br /> 
