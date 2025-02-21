@@ -9,7 +9,6 @@ redirect_from:
 
 <div style="margin-left: 150px;">
 Co-PI<br />  
-===
 <img src="../images/lh.jpg" alt="Dr.Jiajun Linghu" width="150" height="155" />  
  <p class="name">Dr.Jiajun Linghu</p>  
   
