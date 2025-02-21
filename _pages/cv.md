@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<img src="../assets/images/xz1.png" alt="Person's Name">
-<img src="../assets/images/xz1.png" alt="Person's Name" width="150" height="200" />
+<img src="images/xz1.png" alt="Person's Name">
+<img src="images/xz1.png" alt="Person's Name" width="150" height="200" />
 
 {% include base_path %}
 
