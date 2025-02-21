@@ -10,7 +10,7 @@ redirect_from:
 <img src="images/xz1.png" alt="Person's Name">
 <img src="images/xz1.png" alt="Person's Name" width="150" height="200" />
 
-
+![Person's Name](images/xz1.png)
 
   
 Visits
