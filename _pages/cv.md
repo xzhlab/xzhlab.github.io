@@ -11,14 +11,14 @@ redirect_from:
 Co-PI<br />  
 <img src="../images/lh.jpg" alt="Dr.Jiajun Linghu" width="150" height="155" />  
  <p class="name">Dr.Jiajun Linghu</p>  
+  <br /> 
   
-  
-Students<br />   
-===
+Master Students<br />   
+
 
 <img src="../images/zw.jpg" alt="Zhengwang Chen" width="150" height="150" />  
 <p class="name">Zhengwang Chen</p>  
-Master
+
 </div>
 
 
