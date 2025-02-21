@@ -16,7 +16,7 @@ redirect_from:
 Visits
 ======
 body {
-  font-size: 1rem;
+  font-size: 16px;
 * University of Virginia, VA, United States, Feb 2025;
 * Abdus Salam ICTP, Trieste, Italy, Sep-Oct 2024;
 * Cornell University, NY, United States, Jan 2024;
