@@ -11,9 +11,10 @@ redirect_from:
 <span style="line-height: 1; font-size:18px"> <h1 style="color:	#1E90FF;">Co-PI</h1> </span> <br />
 <img src="../images/lh.jpg" alt="Dr.Jiajun Linghu" width="150" height="155" />  
  <p class="name">Dr. Jiajun Linghu</p>  
-  <br /> 
+  <br /> <br /> 
+
   
-<span style="line-height: 1; font-size:18px"> <h1 style="color:	#1E90FF;">Master Students</h1> </span> <br />  <br />   
+<span style="line-height: 1; font-size:18px"> <h1 style="color:	#1E90FF;">Master Students</h1> </span> <br /> 
 
 
 <img src="../images/zw.png" alt="Zhengwang Chen" width="150" height="150" />  
