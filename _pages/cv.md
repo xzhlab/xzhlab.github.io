@@ -16,7 +16,7 @@ Co-PI<br />
 Master Students<br />  <br />   
 
 
-<img src="../images/zw.jpg" alt="Zhengwang Chen" width="150" height="150" />  
+<img src="../images/zw.png" alt="Zhengwang Chen" width="150" height="150" />  
 <p class="name">Zhengwang Chen</p>  
 
 </div>
