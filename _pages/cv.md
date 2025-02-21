@@ -27,6 +27,8 @@ APPOINTMENTS
   
 Visits
 ======
+body {
+  font-size: 1rem;
 * University of Virginia, VA, United States, Feb 2025;
 * Abdus Salam ICTP, Trieste, Italy, Sep-Oct 2024;
 * Cornell University, NY, United States, Jan 2024;
@@ -38,6 +40,7 @@ Visits
 * International Workshop on Subsurface Warming and Geothermal Energy, RIHN, Kyoto, Japan, July 2012;
 * Workshop on Urban Surface Thermo-Environmental Discussion, The University of Tokyo, Japan, July 2012;
 * AOGS-AGU(WPGM) Joint Assembly, Sentosa, Singapore, August 2012.
+* }
  
 
 
