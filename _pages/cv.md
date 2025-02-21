@@ -10,13 +10,12 @@ redirect_from:
 <img src="images/xz1.png" alt="Person's Name">
 <img src="images/zw.jpg" alt="Zhengwang Chen" width="150" height="200" />  
 
-![Person's Name](images/xz1.png)
+![Zhengwang Chen](images/zw.jpg)
 
   
 Visits
 ======
-body {
-  font-size: 16px;
+
 * University of Virginia, VA, United States, Feb 2025;
 * Abdus Salam ICTP, Trieste, Italy, Sep-Oct 2024;
 * Cornell University, NY, United States, Jan 2024;
@@ -28,7 +27,7 @@ body {
 * International Workshop on Subsurface Warming and Geothermal Energy, RIHN, Kyoto, Japan, July 2012;
 * Workshop on Urban Surface Thermo-Environmental Discussion, The University of Tokyo, Japan, July 2012;
 * AOGS-AGU(WPGM) Joint Assembly, Sentosa, Singapore, August 2012.
-* }
+
  
 
 
