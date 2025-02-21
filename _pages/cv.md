@@ -13,7 +13,7 @@ redirect_from:
  <p class="name">Dr. Jiajun Linghu</p>  
   <br /> 
   
-<span style="font-size:18px"> <h1 style="color:	#1E90FF;">Master Students</h1> </span> <br />  <br />   
+<span style="line-height: 1; font-size:18px"> <h1 style="color:	#1E90FF;">Master Students</h1> </span> <br />  <br />   
 
 
 <img src="../images/zw.png" alt="Zhengwang Chen" width="150" height="150" />  
