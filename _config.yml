@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuezhi's Lab"
+title                    : "<h1 style="color:#1E90FF;">Xuezhi's Lab</h1>"
 #title_separator          : "-"
 #name                     : &name "Your Name"
 description              : #&description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuezhi Wang"
+  name             : "<h1 style="color:#1E90FF;">Xuezhi Wang</h1>"
   avatar           : "xz1.png"
   bio              : "Principal Investigator"
   location         : "South Chang'an Road, Xi'an, China"
