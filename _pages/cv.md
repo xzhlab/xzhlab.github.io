@@ -10,22 +10,8 @@ redirect_from:
 <img src="images/xz1.png" alt="Person's Name">
 <img src="images/xz1.png" alt="Person's Name" width="150" height="200" />
 
-{% include base_path %}
 
 
-
-EDUCATION
-======
-* B.S. in Beihang University, Measurement and Instrument, Beijing, China, 06/2010
-* M.S. in Xi'an Jiaotong University, Environmental Engineering, Xi'an, China, 06/2013
-* Visiting Ph.D in Clemson University, CUICAR, SC, United States, 10/2015-10/2017
-* Ph.D in Xi'an Jiaotong University, Materials Science and Engineering, Xi'an, China, 06/2018 
-
-APPOINTMENTS
-======
-* 06/2018- : Chang'an University, Xi'an, China
-  * Associate Professor of Mechanics/Physics (12/2023- )
-  * Assistant Professor of Physics (06/2018-11/2023)
   
 Visits
 ======
