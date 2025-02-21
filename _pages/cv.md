@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<img src="xzhlab.github.io/images/xz1.png" alt="Person's Name">
-<img src="xzhlab.github.io/images/zw.jpg" alt="Zhengwang Chen" width="150" height="200" />  
+<img src="../images/xz1.png" alt="Person's Name">
+<img src="../images/zw.jpg" alt="Zhengwang Chen" width="150" height="200" />  
 
-![Zhengwang Chen](xzhlab.github.io/images/zw.jpg)
+![Zhengwang Chen](../images/zw.jpg)
 
   
 Visits
