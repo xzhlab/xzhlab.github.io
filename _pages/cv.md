@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-<img src="assets/images/person-photo.jpg" alt="Person's Name" />
-<img src="assets/images/person-photo.jpg" alt="Person's Name" width="150" height="200" />
+
+<img src="assets/images/zhengwang.jpg" alt="Person's Name" />
+<img src="assets/images/zhengwang.jpg" alt="Person's Name" width="150" height="200" />
+
 EDUCATION
 ======
 * B.S. in Beihang University, Measurement and Instrument, Beijing, China, 06/2010
