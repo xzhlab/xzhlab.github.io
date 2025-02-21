@@ -2,18 +2,19 @@
 permalink: /
 <div style="margin-left: 400px;">
 title: "About"
-excerpt: "About me"
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 
 
 
 
-We aim to uncover fundamental molecular mechanisms of physics in materials. The lab studies how the thermal transportation behavior happens in microstructures and the role that phonon plays in the mechanism. Our research team values a wide diversity of views and major backgrounds that brings new thinking into how nature works. We aim to foster an inclusive environment that maximizes student development and team building. 
+We aim to uncover fundamental molecular mechanisms of physics in materials. The lab studies how the thermal transportation behavior happens in microstructures and the role that phonon plays in the mechanism. Our research team values a wide diversity of views and major backgrounds that brings new thinking into how nature works. We aim to foster an inclusive environment that maximizes student development and team building. </div>
 
 <h1 style="color:	#1E90FF;">News</h1>
 
@@ -34,4 +35,4 @@ We aim to uncover fundamental molecular mechanisms of physics in materials. The 
 
 <span style="font-size:16px">**Jul 2024**    </span>  
 <span style="font-size:16px">*Xuezhi* collaboration work *Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7* is published on *Ceramics International*</span>
-</div>
+
