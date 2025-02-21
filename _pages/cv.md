@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="assets/images/zhengwang.jpg" alt="Person's Name" />
-<img src="assets/images/zhengwang.jpg" alt="Person's Name" width="150" height="200" />
+<img src="assets/images/xz1.png" alt="Person's Name" />
+<img src="assets/images/xz1.png" alt="Person's Name" width="150" height="200" />
 
 EDUCATION
 ======
