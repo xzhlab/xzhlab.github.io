@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-  <p>Dr. Linghu gets her Ph.D degree from National University of Singapore at 2018. She is an expert in First principle calculation in Physics. She works on various topics in Computational Physics.</p>
+  <em>Dr. Linghu gets her Ph.D degree from National University of Singapore at 2018. She is an expert in First principle calculation in Physics. She works on various topics in Computational Physics.</em>
 </div>
  <p class="name" style="font-weight: bold;"> Dr. Jiajun Linghu </p>  
  
@@ -26,7 +26,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; align-items: center; margin-right: 20px;">
     <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <p>Zhengwang Chen graduates from Xi'an University of Science and Technology at June 2024, then he joins the lab to persuit his master degree in Mechanics. </p>
+    <em>Zhengwang Chen graduates from Xi'an University of Science and Technology at June 2024, then he joins the lab to persuit his master degree in Mechanics. </em>
 
   </div>
  
