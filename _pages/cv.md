@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="margin-left: 90px;">  
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#1E90FF;">Co-PI</h1> </span> 
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Co-PI</h1> </span> 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
@@ -26,7 +26,7 @@ redirect_from:
   <br /> <br /> 
 
   
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#1E90FF;">Master Students</h1> </span> 
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Master Students</h1> </span> 
 
 
 <div style="display: flex; justify-content: center;">
