@@ -36,3 +36,29 @@ redirect_from:
 <span style="font-size:17px; color:	#7a2b2b;">Jul 2024    </span>  
 <span style="font-size:17px">***Xuezhi*** collaboration work *Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7* is published on *Ceramics International*.</span>
 
+<table style="width:100%; font-size:17px;">
+  <tr>
+    <td style="color:#7a2b2b; width:20%;">Jan 2025</td>
+    <td>Congratulations on <strong>Zhengwang</strong>'s first publication <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> on <em>2D Materials</em>.</td>
+  </tr>
+  <tr>
+    <td style="color:#7a2b2b;">Dec 2024</td>
+    <td><strong>Xuezhi</strong> receives a grant from <strong>NSFC</strong>. The <strong>THIRD ONE</strong>! YEAH!</td>
+  </tr>
+  <tr>
+    <td style="color:#7a2b2b;">Nov 2024</td>
+    <td><strong>Xuezhi</strong> gets funding from <em>Lin Corp</em>.</td>
+  </tr>
+  <tr>
+    <td style="color:#7a2b2b;">Oct 2024</td>
+    <td><strong>Xuezhi</strong> attends <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.</td>
+  </tr>
+  <tr>
+    <td style="color:#7a2b2b;">Sep 2024</td>
+    <td>Welcome <strong>Zhengwang Chen</strong> joins the lab as a master student!</td>
+  </tr>
+  <tr>
+    <td style="color:#7a2b2b;">Jul 2024</td>
+    <td><strong>Xuezhi</strong> collaboration work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> is published on <em>Ceramics International</em>.</td>
+  </tr>
+</table>
