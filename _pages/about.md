@@ -18,24 +18,6 @@ redirect_from:
 
 <h1 style="color:	#000080; font-size: 20px;">Lab News</h1>
 
-<span style="font-size:17px; color:	#7a2b2b;">Jan 2025  </span>  
-<span style="font-size:17px">Congratulations on ***Zhengwang***'s first publication *A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure* on *2D Materials*.</span>
-
-<span style="font-size:17px; color:	#7a2b2b;">Dec 2024  </span>  
-<span style="font-size:17px">***Xuezhi*** recieves a grant from **NSFC**. The **THIRD ONE**! YEAH! </span>  
-
-<span style="font-size:17px; color:	#7a2b2b;">Nov 2024  </span>  
-<span style="font-size:17px">***Xuezhi*** gets a funding from *Lin Corp*.</span>
-
-<span style="font-size:17px; color:	#7a2b2b;">Oct 2024  </span>  
-<span style="font-size:17px">***Xuezhi*** attend *School and Workshop on Frontiers of Nanomechanics* host by **the Abdus Salam International Centre for Theoretical Physics (ICTP)** at Trieste, Italy.</span>
-
-<span style="font-size:17px; color:	#7a2b2b;">Sep 2024  </span>  
-<span style="font-size:17px">Welcome ***Zhengwang Chen*** joins the lab as a master student!</span>
-
-<span style="font-size:17px; color:	#7a2b2b;">Jul 2024    </span>  
-<span style="font-size:17px">***Xuezhi*** collaboration work *Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7* is published on *Ceramics International*.</span>
-
 <table style="width:100%; font-size:17px; border-collapse: collapse; border: none;">
   <tr>
     <td style="color:#7a2b2b; width:20%; border: none; vertical-align: top;">Jan 2025</td>
