@@ -1,7 +1,7 @@
 ---
 permalink: /
 <div style="margin-left: 400px;">
-title: "About"
+title: "Welcome"
 #excerpt: "About me"
 author_profile: true
 redirect_from: 
