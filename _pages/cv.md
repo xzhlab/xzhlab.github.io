@@ -11,14 +11,21 @@ redirect_from:
 <span style="line-height: 1; font-size:18px"> <h1 style="color:	#1E90FF;">Co-PI</h1> </span> 
 <img src="../images/lh.png" alt="Dr.Jiajun Linghu" width="150" height="155" />  
  <p class="name">Dr. Jiajun Linghu</p>  
+ 
+    
   <br /> <br /> 
 
   
-<span style="line-height: 1; font-size:18px"> <h1 style="color:	#1E90FF;">Master Students</h1> </span> <br /> 
+<span style="line-height: 1; font-size:18px"> <h1 style="color:	#1E90FF;">Master Students</h1> </span> 
 
 
 <img src="../images/zw.png" alt="Zhengwang Chen" width="150" height="150" />  
 <p class="name">Zhengwang Chen</p>  
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/zw.png" alt="zw" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+  <p>这是照片的说明文字，描述图片内容或相关信息。</p>
+</div>
 
 </div>
 
