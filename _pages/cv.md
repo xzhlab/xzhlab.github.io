@@ -27,11 +27,12 @@ redirect_from:
   <div style="display: flex; align-items: center; margin-right: 20px;">
     <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
     <p>Zhengwang Chen graduates from Xi`an University Of Science and Technology at June 2024, then he joins the lab to persuit his master degree in Mechanics. </p>
-     <p class="name" style="font-weight: bold;">Zhengwang Chen</p>  
+
   </div>
  
 
 </div>
+     <p class="name" style="font-weight: bold;">Zhengwang Chen</p>  
 </div>
 
 
