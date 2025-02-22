@@ -22,7 +22,7 @@ Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-
 <span style="font-size:16px">Congratulations on *Zhengwang*'s first publication *A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure* on *2D Materials*.</span>
 
 <span style="font-size:16px">**Dec 2024**  </span>  
-<span style="font-size:16px">*Xuezhi* recieves a grant from **NSFC**. The **third one**! YEAH! </span>  
+<span style="font-size:16px">*Xuezhi* recieves a grant from **NSFC**. The **THIRD ONE**! YEAH! </span>  
 
 <span style="font-size:16px">**Nov 2024**  </span>  
 <span style="font-size:16px">*Xuezhi* gets a funding from *Lin Corp*.</span>
