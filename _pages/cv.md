@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-  <p>Dr. Linghu graduated from National University of Singapore at 2018. She is an expert in First principle calculation in Physics.</p>
+  <p>Dr. Linghu gets her Ph.D degree from National University of Singapore at 2018. She is an expert in First principle calculation in Physics.</p>
 </div>
  <p class="name">Dr. Jiajun Linghu</p>  
  
@@ -26,13 +26,10 @@ redirect_from:
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; align-items: center; margin-right: 20px;">
     <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <p>这是第二张图片的说明文字，描述图片内容或相关信息。</p>
+    <p>Zhengwang Chen graduates from Xi`an University Of Science And Technology at June 2024, then he joins the lab to persuit his master degree in Mechanics. </p>
   </div>
   
-   <div style="display: flex; align-items: center;">
-    <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <p>这是第三张图片的说明文字，描述图片内容或相关信息。</p>
-  </div>
+
 </div>
 </div>
 
