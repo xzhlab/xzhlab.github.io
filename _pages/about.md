@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-We aim to uncover fundamental molecular mechanisms of physics in materials. Our team values a wide diversity of views and major backgrounds that brings new thinking into how nature works.
+We aim to uncover the fundamental mechanisms of physics. Our lab conducts state-of-the-art research in calculation physics or related. We value a wide diversity of views and major backgrounds that brings new thinking into how nature works.
 
 <h1 style="color:	#1E90FF;">Lab News</h1>
 
