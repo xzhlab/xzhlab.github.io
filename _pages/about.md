@@ -1,6 +1,6 @@
 ---
 permalink: /
-<div style="width: 100%;">
+<div style="margin-left: 400px;">
 title: "Welcome"
 #excerpt: "About me"
 author_profile: true
