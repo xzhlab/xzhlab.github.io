@@ -4,8 +4,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-2025
-======
+<h1 style="color:	#000080; font-size: 20px;">2025</h>
+
 <span style="font-size:16px">[1] *Chen, Z., Linghu, J., Zhang, Q., Che, J., Wang, X. and Wei, S., 2025. A Highly Polarization-sensitive Near-infrared Photodetector Based on Two-dimensional Germanane/α-CdS Heterostructure. 2D Materials*. <span>
 
 2024
