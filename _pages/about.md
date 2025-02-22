@@ -16,7 +16,7 @@ redirect_from:
 
 Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in calculation physics or related. And we value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.
 
-<h1 style="color:	#1E90FF;">Lab News</h1>
+<h1 style="color:	#191970; font-size: 20px;">Lab News</h1>
 
 <span style="font-size:16px">**Jan 2025**  </span>  
 <span style="font-size:16px">Congratulations on *Zhengwang*'s first publication *A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure* on *2D Materials*.</span>
