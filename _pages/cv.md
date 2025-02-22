@@ -14,7 +14,7 @@ redirect_from:
   <img src="../images/lh.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
   <p>Dr. Linghu gets her Ph.D degree from National University of Singapore at 2018. She is an expert in First principle calculation in Physics.</p>
 </div>
- <p class="name">Dr. Jiajun Linghu</p>  
+ <p class="name" style="font-weight: bold;"> Dr. Jiajun Linghu </p>  
  
     
   <br /> <br /> 
@@ -28,7 +28,7 @@ redirect_from:
     <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
     <p>Zhengwang Chen graduates from Xi`an University Of Science And Technology at June 2024, then he joins the lab to persuit his master degree in Mechanics. </p>
   </div>
-  
+   <p class="name" style="font-weight: bold;">Zhengwang Chen</p>  
 
 </div>
 </div>
