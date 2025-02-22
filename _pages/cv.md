@@ -34,6 +34,23 @@ redirect_from:
 </div>
 
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+  <p>这是第一张图片的说明文字，描述图片内容或相关信息。</p>
+</div>
+
+
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; align-items: center; margin-right: 20px;">
+    <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+    <p>这是第二张图片的说明文字，描述图片内容或相关信息。</p>
+  </div>
+  
+  <div style="display: flex; align-items: center;">
+    <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+    <p>这是第三张图片的说明文字，描述图片内容或相关信息。</p>
+  </div>
+</div>
 
 
   
