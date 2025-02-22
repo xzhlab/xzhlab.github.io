@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-  <p>Dr. Linghu gets her Ph.D degree from National University of Singapore at 2018. She is an expert in First principle calculation in Physics. She works on various topics in Physics with VASP and MDs.</p>
+  <p>Dr. Linghu gets her Ph.D degree from National University of Singapore at 2018. She is an expert in First principle calculation in Physics. She works on various topics in Computational Physics with VASP and MDs.</p>
 </div>
  <p class="name" style="font-weight: bold;"> Dr. Jiajun Linghu </p>  
  
