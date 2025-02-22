@@ -18,7 +18,7 @@ Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-
 
 <h1 style="color:	#191970; font-size: 20px;">Lab News</h1>
 
-<span style="font-size:16px">**Jan 2025**  </span>  
+<span style="font-size:16px; color:	#7a2b2b;">Jan 2025  </span>  
 <span style="font-size:16px">Congratulations on *Zhengwang*'s first publication *A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure* on *2D Materials*.</span>
 
 <span style="font-size:16px">**Dec 2024**  </span>  
