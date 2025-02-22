@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-  <em>Dr. Linghu gets her Ph.D degree from National University of Singapore at 2018. She is an expert in First principle calculation in Physics. She works on various topics in Computational Physics.</em>
+  <em>Dr. Linghu gets her Ph.D degree from National University of Singapore at 2018.  She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. By combining computational modeling with AI-driven approaches, she aims to advance the development of next-generation materials for energy, electronics, and beyond.</em>
 </div>
  <p class="name" style="font-weight: bold;"> Dr. Jiajun Linghu </p>  
  
