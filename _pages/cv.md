@@ -26,7 +26,9 @@ redirect_from:
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; align-items: center; margin-right: 20px;">
     <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <em>Zhengwang Chen graduated from Xi'an University of Science and Technology (XUST) in June 2024. Then he joined the lab to pursue his Master's degree in Mechanics. His research focuses on investigating the mechanisms of crack growth in materials from an atomic perspective. </em>
+    <em style="font-size: 15px;">
+  Zhengwang Chen graduated from Xi'an University of Science and Technology (XUST) in June 2024. Then he joined the lab to pursue his Master's degree in Mechanics. His research focuses on investigating the mechanisms of crack growth in materials from an atomic perspective.
+</em>
 
   </div>
  
