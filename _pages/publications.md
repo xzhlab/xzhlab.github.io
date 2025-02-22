@@ -4,16 +4,16 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<h1 style="color:	#000080; font-size: 20px;">2025</h>
+2025
 
 <span style="font-size:16px">[1] *Chen, Z., Linghu, J., Zhang, Q., Che, J., Wang, X. and Wei, S., 2025. A Highly Polarization-sensitive Near-infrared Photodetector Based on Two-dimensional Germanane/α-CdS Heterostructure. 2D Materials*. <span>
 
 2024
-======
+
 <span style="font-size:16px">[1] *J. Che, W. Huang, G. Ren, J. Linghu, X. Wang, Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, Volume 50, Issue 13, Part A, Pages 22865-22873*. <span>
 
 2023
-======
+
 
 <span style="font-size:16px">[1] *Wang, Y., W. Huang, J. Che, Wang, X., Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation. Computational Materials Science, 2023. 229: p. 112435* <span>
 
@@ -26,7 +26,7 @@ author_profile: true
 <span style="font-size:16px">[5] *Linghu, J., T. Song, T. Yang, X. Wang, et al., Computational prediction of stable semiconducting Zn-C binary compounds. Materials Science in Semiconductor Processing, 2023. 155: p. 107237.* <span>
 
 2022
-======
+
 
 <span style="font-size:16px">[1] *Wang, X., J. Che, and X. Liu, Effect of yttria on thermal transport and vibrational modes in yttria-stabilized hafnia. Ceramics International, 2022. 48(21): p. 31705-31713.* <span>
 
@@ -39,7 +39,7 @@ author_profile: true
 <span style="font-size:16px">[5] *Che, J., X. Wang, X. Liu, et al., Thermal transport property in pyrochlore-type and fluorite-type A2B2O7 oxides by molecular dynamics simulation. International Journal of Heat and Mass Transfer, 2022. 182: p. 122038.* <span>
 
 Before 2021
-======
+
 
 <span style="font-size:16px">[1] *Ai, T., J. Liu, H. Qiu, X. Wang, et al., Removal behavior and performance analysis of defective silicon carbide in nano-grinding. Precision Engineering, 2021. 72: p. 858-869.* <span>
 
