@@ -35,6 +35,10 @@ redirect_from:
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2024</td>
       <td style="border: none;">Welcome <strong><i>Zhengwang Chen</i></strong> joins the lab as a master student!</td>
     </tr>
+        <tr>
+      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> is invited to give a talk at the 2nd World Materials Conference, Guangzhou</td>
+    </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
       <td style="border: none;"> <strong><i>Xuezhi</i></strong> collaboration work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> is published on <em>Ceramics International</em>.</td>
