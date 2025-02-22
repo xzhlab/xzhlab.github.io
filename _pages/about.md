@@ -21,7 +21,7 @@ redirect_from:
 <table style="width:100%; font-size:17px; border-collapse: collapse; border: none;">
   <tr>
     <td style="color:#7a2b2b; width:20%; border: none; vertical-align: top;">Jan 2025</td>
-    <td style="border: none;">Congratulations on <strong><i>Zhengwang<i></strong>'s first publication <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> on <em>2D Materials</em>.</td>
+    <td style="border: none;">Congratulations on <strong> <i>Zhengwang<i> </strong>'s first publication <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> on <em>2D Materials</em>.</td>
   </tr>
   <tr>
     <td style="color:#7a2b2b; border: none; vertical-align: top;">Dec 2024</td>
@@ -33,7 +33,7 @@ redirect_from:
   </tr>
   <tr>
     <td style="color:#7a2b2b; border: none; vertical-align: top;">Oct 2024</td>
-    <td style="border: none;"><strong><i>Xuezhi<i></strong> attends <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.</td>
+    <td style="border: none;"><strong><i> Xuezhi <i></strong> attends <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.</td>
   </tr>
   <tr>
     <td style="color:#7a2b2b; border: none; vertical-align: top;">Sep 2024</td>
