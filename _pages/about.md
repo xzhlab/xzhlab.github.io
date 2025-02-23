@@ -24,7 +24,7 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2025</td>
-      <td style="border: none; word-wrap: break-word;"> <strong><i>Zhengwang</i></strong>'s first publication <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> is published on <em>2D Materials</em>.</td> Congratulations!
+      <td style="border: none; word-wrap: break-word;"> <strong><i>Zhengwang</i></strong>'s first publication <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> is published on <em>2D Materials</em>. Congratulations!</td> 
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Dec 2024</td>
@@ -49,6 +49,10 @@ redirect_from:
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
       <td style="border: none;"> <strong><i>Xuezhi</i></strong> collaboration work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> is published on <em>Ceramics International</em>.</td>
+    </tr>
+     <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
+      <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong>'s collaboration work <em>Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19</em> is published on <em>Journal of Alloys and Compounds</em>. Congratulations!</td> 
     </tr>
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
