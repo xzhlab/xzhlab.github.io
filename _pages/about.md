@@ -36,16 +36,18 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> attended <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.<br>
-      <td style="border: none;"><strong><i>Linghu<strong></i> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td></td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> attended <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.
     </tr>
+     <tr>
+     <td style="border: none;"><strong><i>Linghu<strong></i> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td></td>
+      </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2024</td>
       <td style="border: none;">Welcome <strong><i>Zhengwang Chen</i></strong> joined the lab as a master student!</td>
     </tr>
         <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
-      <td style="border: none;"><strong><i>Linghu<strong></i> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference</em>, Guangzhou.</td>
+      <td style="border: none;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference</em>, Guangzhou.</td>
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
