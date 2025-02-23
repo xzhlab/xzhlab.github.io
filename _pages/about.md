@@ -24,7 +24,7 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2025</td>
-      <td style="border: none; word-wrap: break-word;"> <strong><i>Zhengwang</i></strong> and <strong><i>Linghu</i></strong> have the paper <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> got published on <em>2D Materials</em>. Congratulations!</td> 
+      <td style="border: none; word-wrap: break-word;"> <strong><i>Zhengwang</i></strong> and <strong><i>Jiajun</i></strong> have the paper <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> got published on <em>2D Materials</em>. Congratulations!</td> 
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Dec 2024</td>
@@ -40,7 +40,7 @@ redirect_from:
     </tr>
     <tr>
      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"> </td>
-     <td style="border: none;"><strong><i>Linghu</i></strong> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td>
+     <td style="border: none;"><strong><i>Jiajun</i></strong> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td>
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2024</td>
@@ -48,7 +48,7 @@ redirect_from:
     </tr>
         <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
-      <td style="border: none;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference</em>, Guangzhou.</td>
+      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference</em>, Guangzhou.</td>
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
@@ -64,7 +64,7 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2023</td>
-      <td style="border: none;"> <strong><i>Linghu</i></strong> has her work <em>Computational prediction of stable semiconducting Zn-C binary compounds</em> got published on <em>Materials Science in Semiconductor Processing</em>.</td>
+      <td style="border: none;"> <strong><i>Jiajun</i></strong> has her work <em>Computational prediction of stable semiconducting Zn-C binary compounds</em> got published on <em>Materials Science in Semiconductor Processing</em>.</td>
     </tr>
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
