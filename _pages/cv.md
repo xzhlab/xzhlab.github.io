@@ -33,7 +33,7 @@ redirect_from:
   <div style="display: flex; align-items: center; margin-right: 20px;">
     <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
     <em style="font-size: 16px;">
-  Zhengwang Chen graduated from Xi'an University of Science and Technology (XUST) in June 2024. He is pursuing his Master's degree in mechanics.
+  Zhengwang Chen graduated from Xi'an University of Science and Technology (XUST) in June 2024. He focus on crack growth mechanics.
 </em>
 
   </div>
