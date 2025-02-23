@@ -54,6 +54,10 @@ redirect_from:
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
       <td style="border: none;"> <strong><i>Junwei</i></strong> has his work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> got published on <em>Ceramics International</em>.</td>
     </tr>
+       <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2023</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>The Cornell University</em>, NY, United States.</td>
+    </tr>
      <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
       <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong>'s collaboration work <em>Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19</em> is published on <em>Journal of Alloys and Compounds</em>. Congratulations!</td> 
