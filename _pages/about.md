@@ -44,7 +44,7 @@ redirect_from:
     </tr>
         <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> is invited to give a talk at the 2nd World Materials Conference, Guangzhou.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> is invited to give a talk at <em>the 2nd World Materials Conference</em>, Guangzhou.</td>
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
