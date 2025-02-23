@@ -7,8 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<div style="margin-left: 90px; text-align: center;">  
+<div style="margin-left: 90px;">  
+  <div style="margin-left: 90px; text-align: center;">  
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Co-PI</h1> </span> 
+  </div>div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
