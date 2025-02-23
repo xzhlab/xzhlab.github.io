@@ -56,6 +56,6 @@ Before 2022
 
 <span style="font-size:16px"> *Liu, X.Y., X.Z. Wang, A. Javed, et al., The effect of sintering temperature on the microstructure and phase transformation in tetragonal YSZ and LZ/YSZ composites. Ceramics International, 2016. 42(2): p. 2456-2465.* <span>
 
-<span style="font-size:16px"> *Wang, X.Z., X.Y. Liu, Q.Y. Chen, et al., Understanding the effect of porosity on thermal properties of yttria-stabilized zirconia using molecular dynamics simulation. Journal of Molecular Liquids, 2016. 222: p. 88-93* <span>
+<span style="font-size:16px"> *Wang, X.Z., X.Y. Liu, Q.Y. Chen, et al., Understanding the effect of porosity on thermal properties of yttria-stabilized zirconia using molecular dynamics simulation. Journal of Molecular Liquids, 2016. 222: p. 88-93.* <span>
 
-<span style="font-size:16px"> *Wang, X.Z., X.Y. Liu, A. Javed, et al., Phase transition behavior of yttria-stabilized zirconia from tetragonal to monoclinic in the lanthanum zirconate/yttria-stabilized zirconia coupled-system using molecular dynamics simulation. Journal of Molecular Liquids, 2015. 207: p. 309-314* <span>
+<span style="font-size:16px"> *Wang, X.Z., X.Y. Liu, A. Javed, et al., Phase transition behavior of yttria-stabilized zirconia from tetragonal to monoclinic in the lanthanum zirconate/yttria-stabilized zirconia coupled-system using molecular dynamics simulation. Journal of Molecular Liquids, 2015. 207: p. 309-314.* <span>
