@@ -32,7 +32,7 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Nov 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> got industry-sponsored project from <em>Lin Corp</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> signed a industry-sponsored project from <em>Lin Corp</em>.</td>
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2024</td>
