@@ -58,6 +58,14 @@ redirect_from:
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. </td>
     </tr>
+    <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2021</td>
+      <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong>'s paper <em>Outstanding sintering resistance in pyrochlore-type La2 (Zr0. 7Ce0. 3) 2O7 for thermal barrier coatings material</em> is published on <em>Ceramics International.</em>.</td> 
+    </tr>
+     <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2020</td>
+      <td style="border: none; word-wrap: break-word;"> <strong><i>Xuezhi</i></strong> has two paper <em>The effects of interface layer in LZ/YSZ coupled system during thermal transportation at elevated temperatures: A molecular dynamics simulation study</em> and <em>Porous effects on heat transfer and ions distribution in YSZ using molecular dynamics simulation</em> get published on <em>Chemical Physics Letters.</em>.</td> 
+    </tr>
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2019</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. The <strong>FIRST ONE</strong>! </td>
