@@ -56,7 +56,7 @@ redirect_from:
     </tr>
        <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2023</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>The Cornell University</em>, NY, United States.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>Cornell University</em>, NY, United States.</td>
     </tr>
      <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
