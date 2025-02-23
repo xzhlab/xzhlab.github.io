@@ -38,10 +38,10 @@ redirect_from:
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2024</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> attended <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.
     </tr>
-     <tr>
+    <tr>
      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"> </td>
-     <td style="border: none;"><strong><i>Linghu</i></strong> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td></td>
-      </tr>
+     <td style="border: none;"><strong><i>Linghu</i></strong> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td>
+    </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2024</td>
       <td style="border: none;">Welcome <strong><i>Zhengwang Chen</i></strong> joined the lab as a master student!</td>
