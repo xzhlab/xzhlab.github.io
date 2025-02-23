@@ -36,7 +36,7 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> attended <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> attended <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.</td>
     </tr>
     <tr>
      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"> </td>
