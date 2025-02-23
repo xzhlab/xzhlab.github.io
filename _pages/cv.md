@@ -14,13 +14,13 @@ redirect_from:
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
   <em style="font-size: 16px;">Dr. Linghu gets her Ph.D degree from National University of Singapore (NUS) in 2018.  She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
 </div>
- <p class="name" style="font-weight: bold; font-size:16px;"> Dr. Jiajun Linghu </p>    <br />
+ <p class="name" style="font-weight: bold; font-size:18px;"> Dr. Jiajun Linghu </p>    <br />
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/jw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
   <em style="font-size: 16px;">Dr. Che received his Ph.D. degree in Physics from Xi'an Jiaotong University in 2022. He was a visiting scholar at Technische Universität Hamburg (TUH), Germany. His research interests include high-temperature ceramics, phonon thermal transport, first-principles calculations, molecular dynamics simulations, and machine learning. </em>
 </div>
- <p class="name" style="font-weight: bold; font-size:16px;"> Dr. Junwei Che </p>  
+ <p class="name" style="font-weight: bold; font-size:18px;"> Dr. Junwei Che </p>  
  
     
   <br /> <br /> 
@@ -40,7 +40,7 @@ redirect_from:
  
 
 </div>
-     <p class="name" style="font-size:16px;">Zhengwang Chen</p>  
+     <p class="name" style="font-size:18px;">Zhengwang Chen</p>  
 </div>
 
 
