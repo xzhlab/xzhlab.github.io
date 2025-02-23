@@ -54,6 +54,10 @@ redirect_from:
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
       <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong>'s collaboration work <em>Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19</em> is published on <em>Journal of Alloys and Compounds</em>. Congratulations!</td> 
     </tr>
+    <tr>
+      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2023</td>
+      <td style="border: none;"> <strong><i>Linghu</i></strong> has her work <em>Computational prediction of stable semiconducting Zn-C binary compounds</em> got published on <em>Materials Science in Semiconductor Processing</em>.</td>
+    </tr>
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. </td>
