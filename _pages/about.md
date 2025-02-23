@@ -48,7 +48,7 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
-      <td style="border: none;"> <strong><i>Junwei</i></strong> has his work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> published on <em>Ceramics International</em>.</td>
+      <td style="border: none;"> <strong><i>Junwei</i></strong> has his work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> got published on <em>Ceramics International</em>.</td>
     </tr>
      <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
@@ -64,7 +64,7 @@ redirect_from:
     </tr>
      <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2020</td>
-      <td style="border: none; word-wrap: break-word;"> <strong><i>Xuezhi</i></strong> has two paper <em>The effects of interface layer in LZ/YSZ coupled system during thermal transportation at elevated temperatures: A molecular dynamics simulation study</em> and <em>Porous effects on heat transfer and ions distribution in YSZ using molecular dynamics simulation</em> get published on <em>Chemical Physics Letters.</em>.</td> 
+      <td style="border: none; word-wrap: break-word;"> <strong><i>Xuezhi</i></strong> has two paper <em>The effects of interface layer in LZ/YSZ coupled system during thermal transportation at elevated temperatures: A molecular dynamics simulation study</em> and <em>Porous effects on heat transfer and ions distribution in YSZ using molecular dynamics simulation</em> got published on <em>Chemical Physics Letters.</em>.</td> 
     </tr>
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2019</td>
