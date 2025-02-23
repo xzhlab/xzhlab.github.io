@@ -18,6 +18,10 @@ redirect_from:
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
       
     </tr>
+      <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>the University of Virginia</em>, VA, United States.</td>
+    </tr>
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2025</td>
       <td style="border: none; word-wrap: break-word;">Congratulations on <strong><i>Zhengwang</i></strong>'s first publication <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> on <em>2D Materials</em>.</td>
