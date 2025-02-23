@@ -40,7 +40,7 @@ redirect_from:
  
 
 </div>
-     <p class="name" style="font-weight: bold; font-size:16px;">Zhengwang Chen</p>  
+     <p class="name" style="font-size:16px;">Zhengwang Chen</p>  
 </div>
 
 
