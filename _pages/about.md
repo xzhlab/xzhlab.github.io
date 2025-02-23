@@ -60,7 +60,7 @@ redirect_from:
     </tr>
      <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
-      <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong>'s collaboration work <em>Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19</em> is published on <em>Journal of Alloys and Compounds</em>. Congratulations!</td> 
+      <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong>'s collaboration work <em>Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19</em> is published on <em>Journal of Alloys and Compounds</em>. </td> 
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2023</td>
