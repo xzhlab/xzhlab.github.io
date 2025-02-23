@@ -20,7 +20,7 @@ redirect_from:
     </tr>
       <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>the University of Virginia</em>, VA, United States.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>The University of Virginia</em>, VA, United States.</td>
     </tr>
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2025</td>
