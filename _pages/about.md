@@ -39,7 +39,7 @@ redirect_from:
       <td style="border: none;"><strong><i>Xuezhi</i></strong> attended <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.
     </tr>
      <tr>
-     <td style="border: none;"><strong><i>Linghu<strong></i> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td></td>
+     <td style="border: none;"><strong><i>Linghu</i></strong> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td></td>
       </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2024</td>
