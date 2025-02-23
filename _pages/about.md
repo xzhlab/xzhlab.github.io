@@ -48,7 +48,7 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
-      <td style="border: none;"> <strong><i>Xuezhi</i></strong> collaboration work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> is published on <em>Ceramics International</em>.</td>
+      <td style="border: none;"> <strong><i>Junwei</i></strong> has his work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> published on <em>Ceramics International</em>.</td>
     </tr>
      <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
