@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div style="margin-left: 80px;">  
+<div style="margin-left: 70px;">  
   <div style="margin-left: 90px; text-align: center;">  
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Co-PI</h1> </span> 
   </div>
@@ -27,7 +27,7 @@ redirect_from:
     
   <br /> <br /> 
 
-<div style="margin-left: 80px; text-align: center;">    
+<div style="margin-left: 70px; text-align: center;">    
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Master Students</h1> </span> 
  </div>
 
