@@ -21,9 +21,11 @@ redirect_from:
   <p class="name" style="font-size:17px; margin:0; line-height:1.2">
     <em>Dr. Jiajun Linghu</em>
   </p>
-  <p class="name" style="font-size:14px; margin:0; line-height:1.2">
+  <p class="name" style="font-size:14px; margin:0; line-height:1.2; 
+                        position: relative; left: 80px;">
     <em>Co-PI</em>
   </p>
+
 </div><br>
 
 
