@@ -84,15 +84,16 @@ redirect_from:
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2020</td>
       <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both got supports from Natural Science Basic Research Program of Shaanxi Province. </td>
     </tr>
-     <tr><br>
-
-     ---
-<div style="text-align: center; font-size: 18px; color: #7a2b2b;">
-  <i>We do new things.</i>
-</div>
----
+     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2019</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. The <strong>FIRST ONE</strong>! </td>
     </tr>
   </table>
 </div>
+<br>
+
+---
+<div style="text-align: center; font-size: 18px; color: #7a2b2b;">
+  <i>We do new things.</i>
+</div>
+---
