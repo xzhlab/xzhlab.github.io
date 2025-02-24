@@ -22,7 +22,7 @@ redirect_from:
     <em>Dr. Jiajun Linghu</em>
   </p>
   <p class="name" style="font-size:14px; margin:0; line-height:1.2; 
-                        position: relative; left: 35px;">
+                        position: relative; left: 40px;">
     <strong><em>Co-PI</em></strong>
   </p>
 
