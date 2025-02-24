@@ -17,7 +17,7 @@ redirect_from:
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
   <em style="font-size: 16px;">Dr. Linghu received her Ph.D degree from National University of Singapore.  She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
 </div>
- <p class="name" style="font-size:17px;"> <em>Dr. Jiajun Linghu<br></em> </p>    <br />
+ <p class="name" style="font-size:17px;"> <em>Dr. Jiajun Linghu<br></em> </p> 
   <p class="name" style="font-size:14px;"> <em>Co-PI</em> </p>
 
 
