@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 <tr>
-      <td style="font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong style="color: #000080;">Overview</strong></td>  
+      <td style="font-size: 23px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong style="color: #000080;">Welcome</strong></td>  
       
 </tr>
 *Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. And we value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works*.
