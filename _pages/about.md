@@ -97,6 +97,6 @@ redirect_from:
 
 ---
 <div style="text-align: center; font-size: 18px; color: #7a2b2b;">
-  <i>We do something new.</i>
+  <strong><i>We do something new.</i></strong>
 </div>
 
