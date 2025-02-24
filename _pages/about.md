@@ -80,7 +80,7 @@ redirect_from:
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2020</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> got support from Natural Science Basic Research Program of Shaanxi Province. </td>
+      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both got supports from Natural Science Basic Research Program of Shaanxi Province. </td>
     </tr>
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2019</td>
