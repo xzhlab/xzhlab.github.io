@@ -12,8 +12,8 @@ redirect_from:
 *Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. And we value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works*.
 
 ---
-<div style="text-align: center; font-size: 20px; color: blue;">
-  *We do new things.*
+<div style="text-align: center; font-size: 18px; color: #7a2b2b;">
+  <i>We do new things.</i>*
 </div>
 ---
 
