@@ -90,7 +90,7 @@ redirect_from:
     </tr>
   </table>
 </div>
-<br>
+
 
 ---
 <div style="text-align: center; font-size: 18px; color: #7a2b2b;">
