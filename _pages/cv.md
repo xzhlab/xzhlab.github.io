@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="margin-left: 70px;">  
   <div style="margin-left: 90px; text-align: center;">  
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;"></h1> Co-PI</span> 
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Co-PI</h1> </span> 
   </div>
 
 
@@ -17,8 +17,14 @@ redirect_from:
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
   <em style="font-size: 16px;">Dr. Linghu received her Ph.D degree from National University of Singapore.  She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
 </div>
- <p class="name" style="font-size:17px;"> <em>Dr. Jiajun Linghu</em> </p> 
-  <p class="name" style="font-size:14px;"> <em>Co-PI</em> </p>
+<div style="text-align: center;">
+  <p class="name" style="font-size:17px; margin:0; line-height:1.2">
+    <em>Dr. Jiajun Linghu</em>
+  </p>
+  <p class="name" style="font-size:14px; margin:0; line-height:1.2">
+    <em>Co-PI</em>
+  </p>
+</div>
 
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
