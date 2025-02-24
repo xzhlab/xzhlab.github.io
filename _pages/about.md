@@ -11,11 +11,7 @@ redirect_from:
 
 *Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. And we value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works*.
 
----
-<div style="text-align: center; font-size: 18px; color: #7a2b2b;">
-  <i>We do new things.</i>*
-</div>
----
+
 
 
 <div style="width: 100%; overflow-x: auto;">
@@ -88,7 +84,13 @@ redirect_from:
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2020</td>
       <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both got supports from Natural Science Basic Research Program of Shaanxi Province. </td>
     </tr>
-     <tr>
+     <tr><br>
+
+     ---
+<div style="text-align: center; font-size: 18px; color: #7a2b2b;">
+  <i>We do new things.</i>
+</div>
+---
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2019</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. The <strong>FIRST ONE</strong>! </td>
     </tr>
