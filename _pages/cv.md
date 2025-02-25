@@ -68,34 +68,24 @@ redirect_from:
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Undergraduates</h1> </span> 
  </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <!-- 第一张图片和说明文字 -->
   <div style="display: flex; align-items: center; margin-right: 20px;">
     <img src="../images/bj.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <em style="font-size: 16px;">
-  member1
-</em>
-
+    <em style="font-size: 16px;">member1</em>
   </div>
- 
-
-</div>
-     <p class="name" style="font-size:17px;"><em>m1</em></p>  
-
+  <p class="name" style="font-size: 17px;"><em>m1</em></p>
 </div>
 
-<div></div>
-<img src="../images/zx.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <em style="font-size: 16px;">
-  member2
-</em>
-
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <!-- 第二张图片和说明文字 -->
+  <div style="display: flex; align-items: center; margin-right: 20px;">
+    <img src="../images/zx.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+    <em style="font-size: 16px;">member2</em>
   </div>
- 
-
+  <p class="name" style="font-size: 17px;"><em>m2</em></p>
 </div>
-     <p class="name" style="font-size:17px;"><em>m2</em></p>  
 
-</div>
 
   
 ---
