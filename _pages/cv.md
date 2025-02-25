@@ -67,10 +67,10 @@ redirect_from:
 
 
 </div>
+</div>
 
 
-
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;">
   <div style="display: flex; align-items: center; margin-right: 0px;">
     <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
       <img src="../images/mark.png" alt="Ssegawa Raymond Mark" style="width: 150px; height: 150px; border-radius: 50%;">
@@ -80,4 +80,4 @@ redirect_from:
   </div>
 </div>
 </div>
-</div>
+
