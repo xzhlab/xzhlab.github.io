@@ -27,6 +27,10 @@ ___
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>The University of Virginia</em>, VA, United States.</td>
     </tr>
+     <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> join in our lab for internship. Welcome!</td>
+    </tr>
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2025</td>
       <td style="border: none; word-wrap: break-word;"> <strong><i>Zhengwang</i></strong> and <strong><i>Jiajun</i></strong> have the paper <em>A highly polarization-sensitive near-infrared photodetector based on two-dimensional germanane/a-CdS heterostructure</em> got published on <em>2D Materials</em>.</td> 
@@ -86,6 +90,10 @@ ___
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2020</td>
       <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both got supports from Natural Science Basic Research Program of Shaanxi Province. </td>
+    </tr>
+      <tr>
+      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2020</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> visited <em>The University of Tulsa</em>, OK, United States.</td>
     </tr>
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2019</td>
