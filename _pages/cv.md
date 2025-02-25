@@ -70,19 +70,13 @@ redirect_from:
 </div>
 
 
-<div style="margin-left: 70px;">  
-</div>
-
-
-  <div style="margin-left: 70px; text-align: center;">  
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Undergraduates</h1> </span> 
-  </div>     
-
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <div style="display: flex; align-items: center; margin-right: 0px;">
-    <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <p><em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em></p><br>
-
-     <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
+    <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
+      <img src="../images/mark.png" alt="Ssegawa Raymond Mark" style="width: 150px; height: 150px; border-radius: 50%;">
+      <p class="name" style="font-size:17px; margin:10px 0 0 0;"><em>Ssegawa Raymond Mark </em></p>
+    </div>
+    <p style="margin:0;"><em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em></p>
+  </div>
 </div>
 </div>
