@@ -45,7 +45,7 @@ redirect_from:
 </div>
 <hr style="border: 0; 
           height: 1px; 
-          background: #C0C0C0; 
+          background: #f8f8ff; 
           margin: 20px 0;">
   <br /> <br /> 
 
