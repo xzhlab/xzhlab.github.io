@@ -12,8 +12,8 @@ redirect_from:
       <td style="font-size: 32px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong style="color: #000080;">Welcome</strong><br>
       </td>
 </tr>
-<i>Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. And we value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.</i>
----
+<i>Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. And we value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.&mdash;</i>
+
 
 
 
