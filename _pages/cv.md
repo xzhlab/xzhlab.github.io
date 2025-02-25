@@ -47,41 +47,39 @@ redirect_from:
 
   
 
+<!-- Master Students Section -->
 <div style="margin-left: 70px; text-align: center;">    
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Master Students</h1> </span> 
- </div>
-
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; align-items: center; margin-right: 20px;">
-    <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <em style="font-size: 16px;">
-  Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
-</em>
-
- <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
- </div>   
+  <h1 style="color: #000080; font-size: 14px; line-height: 1;">Master Students</h1>
 </div>
 
-
-<div style="margin-left: 70px;">  
-</div>
-
-
-  <div style="margin-left: 70px; text-align: center;">  
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Undergraduates</h1> </span> 
-  </div>     
-
-<div style="display: flex;">
-  <div style="display: flex; align-items: center; margin-right: 0px;">
-    <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <!-- Zhengwang Chen -->
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
+    <img src="../images/zw.png" alt="Zhengwang Chen" style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
     <em style="font-size: 16px;">
-  Mark is a sophomore in infomation. He is interested in thereotical physics.
-</em>
-
+      Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
+    </em>
+    <p class="name" style="font-size: 17px; text-align: center;">
+      <em>Zhengwang Chen</em>
+    </p>  
   </div>
- 
+</div>
 
+<!-- Undergraduates Section -->
+<div style="margin-left: 70px; text-align: center;">  
+  <h1 style="color: #000080; font-size: 14px; line-height: 1;">Undergraduates</h1>
+</div> 
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <!-- Mark -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../images/mark.png" alt="Ssegawa Raymond Mark" style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+    <em style="font-size: 16px;">
+      Mark is a sophomore in information. He is interested in theoretical physics.
+    </em>
+    <p class="name" style="font-size: 17px; text-align: center;">
+      <em>Ssegawa Raymond Mark</em>
+    </p>
+  </div>
 </div>
-     <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
-</div>
-</div>
+
