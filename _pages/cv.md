@@ -78,10 +78,6 @@ redirect_from:
 </div>     
 
 
-
-</div><br>
-
-
 </div>
 
 
