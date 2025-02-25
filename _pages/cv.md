@@ -45,6 +45,8 @@ redirect_from:
     
   <br /> <br /> 
 
+  
+
 <div style="margin-left: 70px; text-align: center;">    
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Master Students</h1> </span> 
  </div>
@@ -61,6 +63,7 @@ redirect_from:
 
 </div>
      <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
+
 <div style="margin-left: 70px;">  
 
     
@@ -71,7 +74,7 @@ redirect_from:
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Undergraduates</h1> </span> 
   </div>     
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;">
   <div style="display: flex; align-items: center; margin-right: 0px;">
     <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
     <em style="font-size: 16px;">
