@@ -94,7 +94,7 @@ redirect_from:
   <div style="display: flex; align-items: start; width: 48%;">
     <div style="margin-right: 20px;">
       <div style="display: flex; flex-direction: column;">
-        <img src="../images/zw.png" 
+        <img src="../images/zx.png" 
              alt="Second Person"
              style="width: 150px; 
                     height: 150px;
