@@ -69,7 +69,7 @@ redirect_from:
 
     
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 80px;">
  
   
 
@@ -81,7 +81,7 @@ redirect_from:
     <p class="name" style="font-size:17px; margin:0;">
        <em>Beijie Hu</em> <!-- 修改第1个名字 -->
     </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+    <em style="font-size: 16px; margin-top: 20px; text-align: left; gap: 60px;">
       Beijie is a freshman in physics. He is interested in computational physics.<!-- 修改第1个描述 -->
     </em>
   </div>
@@ -113,7 +113,7 @@ redirect_from:
       <em>Xuan Zeng</em> <!-- 修改第3个名字 -->
     </p>
     <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      Xuan is a freshman in physics. He is interested in <!-- 修改第1个描述 -->
+      Xuan is a freshman in physics. He is interested in computational physics<!-- 修改第1个描述 -->
     </em>
   </div>
 </div>
