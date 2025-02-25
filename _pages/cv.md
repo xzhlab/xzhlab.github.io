@@ -67,7 +67,7 @@ redirect_from:
 
 
 </div>
-</div>
+
 
 
 <div style="display: flex; justify-content: center;">
@@ -78,5 +78,6 @@ redirect_from:
     </div>
     <p style="margin:0;"><em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em></p>
   </div>
+</div>
 </div>
 </div>
