@@ -52,7 +52,7 @@ redirect_from:
  </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/zw.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+  <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
   <em style="font-size: 16px;">Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics. </em>
 </div>
 <div>
