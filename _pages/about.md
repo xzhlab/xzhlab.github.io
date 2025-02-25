@@ -29,7 +29,7 @@ ___
     </tr>
      <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> join in our lab for internship. Welcome!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> joined in our lab for internship. Welcome!</td>
     </tr>
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2025</td>
@@ -53,7 +53,7 @@ ___
     </tr>
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2024</td>
-      <td style="border: none;">Welcome <strong><i>Zhengwang Chen</i></strong> joined the lab as a master student!</td>
+      <td style="border: none;"><strong><i>Zhengwang Chen</i></strong> joined in the lab as a master student. Welcome aboard!</td>
     </tr>
         <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
