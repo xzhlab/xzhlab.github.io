@@ -71,7 +71,7 @@ redirect_from:
 
 <div style="display: flex; align-items: start; margin-bottom: 20px; gap: 40px;">
   <!-- 第一个成员 -->
-  <div style="display: flex; align-items: start; width: 48%;">
+   <div style="display: flex; align-items: start; width: 100%; max-width: 500px;">
     <div style="margin-right: 20px;">
       <div style="display: flex; flex-direction: column;">
         <img src="../images/mark.png" 
@@ -91,7 +91,7 @@ redirect_from:
   </div>
 
   <!-- 第二个成员 -->
-  <div style="display: flex; align-items: start; width: 48%;">
+ <div style="display: flex; align-items: start; width: 100%; max-width: 500px;">
     <div style="margin-right: 20px;">
       <div style="display: flex; flex-direction: column;">
         <img src="../images/zx.png" 
