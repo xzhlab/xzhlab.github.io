@@ -13,7 +13,7 @@ redirect_from:
       </td>
 </tr>
 <i>Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. And we value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.</i>
-
+---
 
 
 
