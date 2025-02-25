@@ -82,7 +82,7 @@ redirect_from:
       Mark is a sophomore in information. He is interested in theoretical physics.
     </em>
   </div>
-
+</div>
 
 <!-- 名字 -->
 <p class="name" style="font-size: 17px;">
