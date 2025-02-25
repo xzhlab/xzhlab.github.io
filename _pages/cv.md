@@ -41,8 +41,12 @@ redirect_from:
                         position: relative; left: 35px;">
     <strong><em>Co-PI</em></strong>
   </p>
+
 </div>
-    
+<hr style="border: 0; 
+          height: 1px; 
+          background: #888; 
+          margin: 20px 0;">
   <br /> <br /> 
 
   
