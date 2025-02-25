@@ -64,18 +64,7 @@ redirect_from:
 </div>
      <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
      
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; align-items: center; margin-right: 20px;">
-    <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <em style="font-size: 16px;">
-  Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
-</em>
 
-  </div>
- 
-
-</div>
-     <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
 <div style="margin-left: 70px;">  
 
     
@@ -87,7 +76,7 @@ redirect_from:
   </div>     
 
 <div style="display: flex;">
-  <div style="display: flex; align-items: left; margin-right: 0px;">
+  <div style="display: flex; align-items: center; margin-right: 0px;">
     <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
     <em style="font-size: 16px;">
   Mark is a sophomore in infomation. He is interested in thereotical physics.
