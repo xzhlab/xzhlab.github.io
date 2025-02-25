@@ -67,27 +67,14 @@ redirect_from:
   <span style="line-height: 1; font-size:14px;"> <h1 style="color: #000080;">Undergraduates</h1> </span> 
 </div>     
 
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div>
-    <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-  <em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em>
-  </div>
-  <div>
-     <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-  <em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em>
-  </div>
-<div>
-  <p class="name" style="font-size:17px; margin:0; line-height:1.2">
-    <em>Ssegawa Raymond Mark  </em>
-  </p>
-</div>     
+    
 
 <div style="display: flex; align-items: start; margin-bottom: 20px; gap: 40px;">
   <!-- 第一个成员 -->
   <div style="display: flex; align-items: start; width: 48%;">
     <div style="margin-right: 20px;">
       <div style="display: flex; flex-direction: column;">
-        <img src="../images/zw.png" 
+        <img src="../images/mark.png" 
              alt="Ssegawa Raymond Mark"
              style="width: 150px; 
                     height: 150px;
