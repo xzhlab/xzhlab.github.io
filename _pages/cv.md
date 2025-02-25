@@ -61,13 +61,23 @@ redirect_from:
 
 </div>
      <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
-
-
-
 <div style="margin-left: 70px;">  
   <div style="margin-left: 90px; text-align: center;">  
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Undergraduates</h1> </span> 
+  </div>   
+   <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+    <em style="font-size: 16px;">
+  Mark is a sophomore in infomation. He is interested in thereotical physics.
+</em>
+
   </div>
+ 
+
+</div>
+     <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
+</div>
+
+
   
 
 <div style="display: flex; justify-content: center;">
