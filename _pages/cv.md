@@ -60,7 +60,7 @@ redirect_from:
     <p style="margin:0;"><em style="font-size: 16px;"> Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.</em></p>
   </div>
 </div>
-</div>
+
 
 <div style="margin-left: 70px; text-align: center;">  
   <span style="line-height: 1; font-size:14px;"> <h1 style="color: #000080;">Undergraduates</h1> </span> 
