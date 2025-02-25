@@ -52,7 +52,7 @@ redirect_from:
   
 
 <div style="margin-left: 70px; text-align: center;">    
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Master Students</h1> </span> 
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Graduates</h1> </span> 
  </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
