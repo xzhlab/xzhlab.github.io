@@ -84,7 +84,7 @@ redirect_from:
   </div>
 
   <!-- 第二个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
     <img src="../images/zx.png" 
          alt="Second Person"
          style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
