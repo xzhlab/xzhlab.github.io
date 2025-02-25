@@ -75,10 +75,6 @@ redirect_from:
   <p class="name" style="font-size:17px; margin:0; line-height:1.2">
     <em>Ssegawa Raymond Mark  </em>
   </p>
-
-
-</div><br>
-
 </div>     
 
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -92,6 +88,10 @@ redirect_from:
 
 
 </div><br>
+
+</div><br>
+
+
 </div>
 
 
