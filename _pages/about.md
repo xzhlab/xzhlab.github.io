@@ -105,7 +105,7 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2022</td>
-      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Fluctuating bonding leads to glass-like thermal conductivity in perovskite rare-earth tantalates</em> published on <strong><em>Acta Materialia</em></strong>.</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Fluctuating bonding leads to glass-like thermal conductivity in perovskite rare-earth tantalates</em> published on <strong><em>Acta Materialia</em></strong>. Congratulations!</td>
     </tr>
     
      <tr>
@@ -115,7 +115,7 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2022</td>
-      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Ultralow oxygen ion diffusivity in pyrochlore-type La2 (Zr0. 7Ce0. 3) 2O7</em> published on <emJournal of Materials Science & Technology</em>.</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Ultralow oxygen ion diffusivity in pyrochlore-type La2 (Zr0. 7Ce0. 3) 2O7</em> published on <em>Journal of Materials Science & Technology</em>.</td>
     </tr>
 
     <tr>
