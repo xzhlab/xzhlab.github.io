@@ -81,7 +81,7 @@ redirect_from:
 <div style="display: flex;">
   <div style="display: flex; align-items: center; margin-right: 0px;">
     <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <p><em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em></p>
+    <p><em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em></p><br>
 
      <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
 </div>
