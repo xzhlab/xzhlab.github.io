@@ -73,19 +73,19 @@ redirect_from:
  
   
 
-   <!-- 第三个成员 -->
+   <!-- 第1个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
     <img src="../images/bj.png" 
          alt="bj"
          style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
-       <em>Beijie Hu</em> <!-- 修改第二个名字 -->
+       <em>Beijie Hu</em> <!-- 修改第1个名字 -->
     </p>
     <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      Beijie is a freshman in physics. He is interested in computational physics.<!-- 修改第二个描述 -->
+      Beijie is a freshman in physics. He is interested in computational physics.<!-- 修改第1个描述 -->
     </em>
   </div>
-</div>
+
 
 
  <!-- 第2个成员 -->
@@ -100,13 +100,15 @@ redirect_from:
       Mark is a sophomore in information. He is interested in theoretical physics.
     </em>
   </div>
-   <!-- 第1个成员 -->
+
+  
+   <!-- 第3个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
     <img src="../images/zx.jpg" 
          alt="zx"
          style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
-      <em>Xuan Zeng</em> <!-- 修改第1个名字 -->
+      <em>Xuan Zeng</em> <!-- 修改第3个名字 -->
     </p>
     <em style="font-size: 16px; margin-top: 20px; text-align: left;">
       Xuan is a freshman in physics. He is interested in <!-- 修改第1个描述 -->
@@ -114,5 +116,5 @@ redirect_from:
   </div>
 
 </div>
-
+</div>
 
