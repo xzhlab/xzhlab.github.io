@@ -71,10 +71,10 @@ redirect_from:
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
   <!-- 第一张图片和说明文字 -->
   <div style="display: flex; align-items: center; margin-right: 20px;">
-    <img src="../images/bj.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 10px; border-radius: 50%;">
+    <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 10px; border-radius: 50%;">
     <div>
-      <em style="font-size: 16px;">member1</em>
-      <p class="name" style="font-size: 17px;"><em>m1</em></p>
+      <em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em>
+      <p class="name" style="font-size: 17px;"><em>Ssegawa Raymond Mark</em></p>
     </div>
   </div>
 
