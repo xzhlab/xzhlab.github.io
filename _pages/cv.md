@@ -69,7 +69,7 @@ redirect_from:
 
     
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 90px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <!-- 第一个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/mark.png" 
@@ -93,6 +93,19 @@ redirect_from:
     </p>
     <em style="font-size: 16px; margin-top: 20px; text-align: left;">
       Second person description. <!-- 修改第二个描述 -->
+    </em>
+  </div>
+
+   <!-- 第三个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
+    <img src="../images/zw.png" 
+         alt="zw"
+         style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>zw</em>
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+      Mark is a sophomore in information. He is interested in theoretical physics.
     </em>
   </div>
 </div>
