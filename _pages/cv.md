@@ -70,12 +70,12 @@ redirect_from:
 </div>
 
 
-  <div style="margin-left: 0px; text-align: center;">  
+  <div style="margin-left: 70px; text-align: center;">  
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Undergraduates</h1> </span> 
   </div>     
 
 <div style="display: flex;">
-  <div style="display: flex; align-items: center; margin-right: 0px;">
+  <div style="display: flex; align-items: left; margin-right: 0px;">
     <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
     <em style="font-size: 16px;">
   Mark is a sophomore in infomation. He is interested in thereotical physics.
