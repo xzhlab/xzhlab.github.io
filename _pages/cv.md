@@ -69,7 +69,7 @@ redirect_from:
 
     
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 60px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 90px;">
   <!-- 第一个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/mark.png" 
