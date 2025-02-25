@@ -60,7 +60,13 @@ redirect_from:
 
  
  </div>   
- <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
+<div>
+  <p class="name" style="font-size:17px; margin:0; line-height:1.2">
+    <em>Zhengwang Chen</em>
+  </p>
+
+
+</div>
 </div>
 
 
