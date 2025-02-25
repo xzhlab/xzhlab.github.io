@@ -78,7 +78,7 @@ redirect_from:
     <p class="name" style="font-size:17px; margin:0;">
       <em>Beijie Hu</em>
     </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: center;">
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
       Beijie is a freshman in physics. He is interested in computational physics.
     </em>
   </div>
@@ -91,7 +91,7 @@ redirect_from:
     <p class="name" style="font-size:17px; margin:0;">
       <em>Ssegawa Raymond Mark</em>
     </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: center;">
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
       Mark is a sophomore in information. He is interested in theoretical physics.
     </em>
   </div>
@@ -106,7 +106,7 @@ redirect_from:
     <p class="name" style="font-size:17px; margin:0;">
       <em>Xuan Zeng</em>
     </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: center;">
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
       Xuan is a freshman in physics. He is interested in computational physics.
     </em>
   </div>
