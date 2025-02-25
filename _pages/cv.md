@@ -57,7 +57,10 @@ redirect_from:
     <em style="font-size: 16px;">
   Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
 </em>
-
+</div>
+     <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
+     
+</div>
  <div style="display: flex; align-items: center; margin-right: 20px;">
     <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
     <em style="font-size: 16px;">
@@ -66,10 +69,7 @@ redirect_from:
   </div>
  
 
-</div>
-     <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
-     
-</div>
+
 <div style="margin-left: 70px;">  
 
     
