@@ -105,7 +105,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
  <!-- 第3个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: left; text-align: left;">
     <img src="../images/zx.jpg" 
          alt="zx"
          style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
@@ -113,7 +113,7 @@ redirect_from:
       <em>Xuan Zeng</em> <!-- 修改第3个名字 -->
     </p>
     <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      Xuan is a freshman in physics. He is interested in computational physics.<!-- 修改第1个描述 -->
+      Xuan is a freshman in physics. He is interested in computational physics.<!-- 修改第3个描述 -->
     </em>
   </div>
 </div>
