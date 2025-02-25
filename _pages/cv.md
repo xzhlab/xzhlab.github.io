@@ -98,14 +98,14 @@ redirect_from:
 
    <!-- 第三个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
-    <img src="../images/zw.png" 
-         alt="zw"
+    <img src="../images/bm.png" 
+         alt="Second Person Name"
          style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
-      <em>zw</em>
+       <em>Second Person Name</em> <!-- 修改第二个名字 -->
     </p>
     <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      Mark is a sophomore in information. He is interested in theoretical physics.
+      Second person description. <!-- 修改第二个描述 -->
     </em>
   </div>
 </div>
