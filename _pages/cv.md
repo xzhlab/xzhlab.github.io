@@ -54,7 +54,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; align-items: center; margin-right: 20px;">
     <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <p></p><em style="font-size: 16px;">
+    <p><em style="font-size: 16px;">
   Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
 </em></p>
 
@@ -75,13 +75,7 @@ redirect_from:
 <div style="display: flex;">
   <div style="display: flex; align-items: center; margin-right: 0px;">
     <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <p><em style="font-size: 16px;">
-  Mark is a sophomore in infomation. He is interested in thereotical physics.
-</em></p>
-
-
- 
-
+    <p><em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em></p>
 
      <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
 </div>
