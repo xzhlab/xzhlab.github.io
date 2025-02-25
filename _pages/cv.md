@@ -69,47 +69,34 @@ redirect_from:
 
     
 
-<div style="display: flex; align-items: start; margin-bottom: 20px; gap: 40px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <!-- 第一个成员 -->
-   <div style="display: flex; align-items: start; width: 100%; max-width: 500px;">
-    <div style="margin-right: 20px;">
-      <div style="display: flex; flex-direction: column;">
-        <img src="../images/mark.png" 
-             alt="Ssegawa Raymond Mark"
-             style="width: 150px; 
-                    height: 150px;
-                    margin-bottom: 10px;
-                    border-radius: 50%;">
-        <p class="name" style="font-size:17px; margin:0;">
-          <em>Ssegawa Raymond Mark</em>
-        </p>
-      </div>
-    </div>
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/mark.png" 
+         alt="Ssegawa Raymond Mark"
+         style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Ssegawa Raymond Mark</em>
+    </p>
     <em style="font-size: 16px; margin-top: 20px;">
       Mark is a sophomore in information. He is interested in theoretical physics.
     </em>
   </div>
 
   <!-- 第二个成员 -->
- <div style="display: flex; align-items: start; width: 100%; max-width: 500px;">
-    <div style="margin-right: 20px;">
-      <div style="display: flex; flex-direction: column;">
-        <img src="../images/zx.png" 
-             alt="Second Person"
-             style="width: 150px; 
-                    height: 150px;
-                    margin-bottom: 10px;
-                    border-radius: 50%;">
-        <p class="name" style="font-size:17px; margin:0;">
-          <em>Second Person Name</em> <!-- 修改第二个名字 -->
-        </p>
-      </div>
-    </div>
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/zw.png" 
+         alt="Second Person"
+         style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Second Person Name</em> <!-- 修改第二个名字 -->
+    </p>
     <em style="font-size: 16px; margin-top: 20px;">
       Second person description. <!-- 修改第二个描述 -->
     </em>
   </div>
 </div>
+
 
 </div>
 
