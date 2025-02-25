@@ -70,18 +70,7 @@ redirect_from:
     
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <!-- 第1个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
-    <img src="../images/zx.png" 
-         alt="zx"
-         style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Xuan Zeng</em> <!-- 修改第1个名字 -->
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      Xuan is a freshman in physics. He is interested in <!-- 修改第1个描述 -->
-    </em>
-  </div>
+ 
   
 
    <!-- 第三个成员 -->
@@ -98,6 +87,7 @@ redirect_from:
   </div>
 </div>
 
+
  <!-- 第2个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/mark.png" 
@@ -110,7 +100,18 @@ redirect_from:
       Mark is a sophomore in information. He is interested in theoretical physics.
     </em>
   </div>
-
+   <!-- 第1个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
+    <img src="../images/zx.jpg" 
+         alt="zx"
+         style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Xuan Zeng</em> <!-- 修改第1个名字 -->
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+      Xuan is a freshman in physics. He is interested in <!-- 修改第1个描述 -->
+    </em>
+  </div>
 
 </div>
 
