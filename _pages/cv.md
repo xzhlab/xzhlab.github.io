@@ -47,7 +47,7 @@ redirect_from:
           height: 1px; 
           background: #f8f8ff; 
           margin: 20px 0;">
-  <br /> <br /> 
+  <br /> 
 
   
 
