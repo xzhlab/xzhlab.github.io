@@ -78,10 +78,10 @@ redirect_from:
   Mark is a sophomore in infomation. He is interested in thereotical physics.
 </em>
 
-  </div>
+
  
 
 </div>
      <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
-</div>
+
 </div>
