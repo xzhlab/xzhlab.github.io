@@ -65,7 +65,7 @@ redirect_from:
 
 <div style="margin-left: 70px; text-align: center;">  
   <span style="line-height: 1; font-size:14px;"> <h1 style="color: #000080;">Undergraduates</h1> </span> 
-</div>     
+</div> <br>    
 
     
 
