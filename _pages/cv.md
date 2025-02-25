@@ -70,25 +70,20 @@ redirect_from:
     
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 80px;">
- 
-  
-
-   <!-- 第1个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
+  <!-- 第1个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/bj.png" 
          alt="bj"
          style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
-       <em>Beijie Hu</em> <!-- 修改第1个名字 -->
+      <em>Beijie Hu</em>
     </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left; gap: 60px;">
-      Beijie is a freshman in physics. He is interested in computational physics.<!-- 修改第1个描述 -->
+    <em style="font-size: 16px; margin-top: 20px; text-align: center;">
+      Beijie is a freshman in physics. He is interested in computational physics.
     </em>
   </div>
 
-
-
- <!-- 第2个成员 -->
+  <!-- 第2个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/mark.png" 
          alt="Ssegawa Raymond Mark"
@@ -96,26 +91,26 @@ redirect_from:
     <p class="name" style="font-size:17px; margin:0;">
       <em>Ssegawa Raymond Mark</em>
     </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+    <em style="font-size: 16px; margin-top: 20px; text-align: center;">
       Mark is a sophomore in information. He is interested in theoretical physics.
     </em>
   </div>
-<br>
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
- <!-- 第3个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: left; text-align: left;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 80px;">
+  <!-- 第3个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/zx.jpg" 
          alt="zx"
          style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
-      <em>Xuan Zeng</em> <!-- 修改第3个名字 -->
+      <em>Xuan Zeng</em>
     </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      Xuan is a freshman in physics. He is interested in computational physics.<!-- 修改第3个描述 -->
+    <em style="font-size: 16px; margin-top: 20px; text-align: center;">
+      Xuan is a freshman in physics. He is interested in computational physics.
     </em>
   </div>
 </div>
+
 </div>
 
