@@ -78,7 +78,7 @@ redirect_from:
     <p class="name" style="font-size:17px; margin:0;">
       <em>Ssegawa Raymond Mark</em>
     </p>
-    <em style="font-size: 16px; margin-top: 20px;">
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
       Mark is a sophomore in information. He is interested in theoretical physics.
     </em>
   </div>
@@ -91,7 +91,7 @@ redirect_from:
     <p class="name" style="font-size:17px; margin:0;">
       <em>Second Person Name</em> <!-- 修改第二个名字 -->
     </p>
-    <em style="font-size: 16px; margin-top: 20px;">
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
       Second person description. <!-- 修改第二个描述 -->
     </em>
   </div>
