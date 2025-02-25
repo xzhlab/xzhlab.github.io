@@ -64,7 +64,10 @@ redirect_from:
   Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
 </em>
   </div>
- 
+ </div>
+     <p class="name" style="font-size:17px;"><em>Zhengwang Chen</em></p>  
+     
+</div>
 
 
 <div style="margin-left: 70px;">  
