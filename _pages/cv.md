@@ -68,7 +68,8 @@ redirect_from:
 </div>     
 
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
+  <div>
+    <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
   <em style="font-size: 16px;">Mark is a sophomore in infomation. He is interested in thereotical physics.</em>
   </div>
   <div>
