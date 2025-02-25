@@ -102,10 +102,25 @@ ___
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Nov 2022</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> got a paper <em>Effect of yttria on thermal transport and vibrational modes in yttria-stabilized hafnia</em> published on <em>Ceramics International</em>.</td>
     </tr>
+
+    <tr>
+      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2022</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Fluctuating bonding leads to glass-like thermal conductivity in perovskite rare-earth tantalates</em> published on <strong><em>Acta Materialia</em></strong>.</td>
+    </tr>
     
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. </td>
+    </tr>
+
+    <tr>
+      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2022</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Ultralow oxygen ion diffusivity in pyrochlore-type La2 (Zr0. 7Ce0. 3) 2O7</em> published on <emJournal of Materials Science & Technology</em>.</td>
+    </tr>
+
+    <tr>
+      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2022</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Thermal transport property in pyrochlore-type and fluorite-type A2B2O7 oxides by molecular dynamics simulation</em> published on <em>International Journal of Heat and Mass Transfer</em>.</td>
     </tr>
     
     <tr>
