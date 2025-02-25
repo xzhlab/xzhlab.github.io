@@ -14,14 +14,14 @@ redirect_from:
 </tr>
 <i>Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. And we value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.</i>
 
-
+___
 
 
 <div style="width: 100%; overflow-x: auto;">
   <table style="width: 100%; font-size: 17px; border-collapse: collapse; border: none;">
     <tr>
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
-      
+     
     </tr>
       <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
