@@ -65,24 +65,23 @@ redirect_from:
 </div>
 
 <div style="margin-left: 70px; text-align: center;">    
-  <h1 style="color: #000080;">Undergraduates</h1> 
-</div>
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Undergraduates</h1> </span> 
+ </div>
 
 <div style="display: flex; justify-content: center;">
-  <!-- 图片和说明文字 -->
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+  <div style="display: flex; align-items: center; margin-right: 20px;">
+    <img src="../images/mark.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
     <em style="font-size: 16px;">
-      Mark is a sophomore in information. He is interested in theoretical physics.
-    </em>
+  Mark is a sophomore in infomation. He is interested in thereotical physics.
+</em>
+
   </div>
+ 
+
 </div>
+     <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
 
-<p class="name" style="font-size: 17px;">
-  <em>Ssegawa Raymond Mark</em>
-</p>
-
-
+</div>
   
 
 
