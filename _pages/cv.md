@@ -81,7 +81,7 @@ redirect_from:
 
  
 
-</div>
-     <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
 
+     <p class="name" style="font-size:17px;"><em>Ssegawa Raymond Mark </em></p>  
+</div>
 </div>
