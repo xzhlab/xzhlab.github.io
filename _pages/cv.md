@@ -101,8 +101,10 @@ redirect_from:
     </em>
   </div>
 
-  
-   <!-- 第3个成员 -->
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+ <!-- 第3个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: left;">
     <img src="../images/zx.jpg" 
          alt="zx"
@@ -114,7 +116,6 @@ redirect_from:
       Xuan is a freshman in physics. He is interested in <!-- 修改第1个描述 -->
     </em>
   </div>
-
 </div>
 </div>
 
