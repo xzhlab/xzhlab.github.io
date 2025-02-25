@@ -72,7 +72,7 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 80px;">
   <!-- 第1个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/bj.png" 
+    <img src="../images/bj.jpg" 
          alt="bj"
          style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
