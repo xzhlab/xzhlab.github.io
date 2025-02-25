@@ -19,7 +19,7 @@ author_profile: true
 
 <span style="font-size:16px"> *Huang, W., J. Che, X. Wang  , N. Peng  , Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19. Journal of Alloys and Compounds, 2023: p. 170245.* <span>
 
-<span style="font-size:16px"> *Wang, X., *Tang Yu-Ting, Che Jun-Wei, Linghu Jia-Jun, Hou Zhao-Yang. Mechanism of amorphous-like thermal conductivity in binary oxide Yb3TaO7. Acta Phys. Sin., 2023, 72(5): 056101.* <span>
+<span style="font-size:16px"> *Wang, X., Tang Yu-Ting, Che Jun-Wei, Linghu Jia-Jun, Hou Zhao-Yang. Mechanism of amorphous-like thermal conductivity in binary oxide Yb3TaO7. Acta Phys. Sin., 2023, 72(5): 056101.* <span>
 
 <span style="font-size:16px"> *Wang, X., J. Che, W. Huang, et al., Mechanism of crack propagation in penta-graphene. Vacuum, 2023. 207: p. 111582.* <span>
 
