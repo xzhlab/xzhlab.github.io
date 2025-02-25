@@ -51,26 +51,25 @@ redirect_from:
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Master Students</h1> </span> 
  </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; align-items: center; margin-right: 20px;">
-    <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-    <p><em style="font-size: 16px;">
-  Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
-</em></p>
-
- 
- </div>   
-<div>
-  <p class="name" style="font-size:17px; margin:0; line-height:1.2">
-    <em>Zhengwang Chen</em>
-  </p>
-
-
+<div style="display: flex; ">
+  <div style="display: flex; align-items: center; margin-right: 0px;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
+      <img src="../images/zw.png" alt="Zhengwang Chen" style="width: 150px; height: 150px; border-radius: 50%;">
+      <p class="name" style="font-size:17px; margin:10px 0 0 0;"><em>Zhengwang Chen </em></p>
+    </div>
+    <p style="margin:0;"><em style="font-size: 16px;"> Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.</em></p>
+  </div>
 </div>
 </div>
 
+</div>
 
-<div style="display: flex;">
+
+<div style="margin-left: 70px; text-align: center;">  
+  <span style="line-height: 1; font-size:14px;"> <h1 style="color: #000080;">Undergraduates</h1> </span> 
+</div>     
+
+<div style="display: flex; ">
   <div style="display: flex; align-items: center; margin-right: 0px;">
     <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
       <img src="../images/mark.png" alt="Ssegawa Raymond Mark" style="width: 150px; height: 150px; border-radius: 50%;">
