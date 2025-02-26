@@ -85,7 +85,7 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2023</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> visited <em>11TH INTERNATIONAL CONFERENCE ON MATERIALS FOR ADVANCED TECHNOLOGIES</em>, Singapore.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> visited <em>11th International Conference on Materials for Advanced Technologies</em>, Singapore.</td>
     </tr>
     
     <tr>
