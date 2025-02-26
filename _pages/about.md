@@ -63,7 +63,7 @@ ___
       <td style="border: none;"><strong><i>Zhengwang Chen</i></strong> joined in the lab as a master student. Welcome aboard!</td>
     </tr>
     
-        <tr>
+    <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
       <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference</em>, Guangzhou.</td>
     </tr>
@@ -73,7 +73,7 @@ ___
       <td style="border: none;"> <strong><i>Junwei</i></strong> has his work <em>Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7</em> got published on <em>Ceramics International</em>.</td>
     </tr>
     
-       <tr>
+    <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2023</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>Cornell University</em>, NY, United States.</td>
     </tr>
@@ -81,6 +81,11 @@ ___
      <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
       <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong> has his collaboration work <em>Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19</em> published on <em>Journal of Alloys and Compounds</em>. </td> 
+    </tr>
+
+    <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2023</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> visited <em>11TH INTERNATIONAL CONFERENCE ON MATERIALS FOR ADVANCED TECHNOLOGIES</em>, Singapore.</td>
     </tr>
     
     <tr>
@@ -93,12 +98,12 @@ ___
       <td style="border: none;"><strong><i>Xuezhi</i></strong> has a publication <em>Mechanism of amorphous-like thermal conductivityin binary oxide Yb3TaO7</em> on <em>Acta Phys. Sin.</em>.</td>
     </tr>
     
-       <tr>
+    <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2023</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> got the work <em>Mechanism of crack propagation in penta-graphene</em> published on <em>Vacuum</em>.</td>
     </tr>
     
-      <tr>
+    <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Nov 2022</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> got a paper <em>Effect of yttria on thermal transport and vibrational modes in yttria-stabilized hafnia</em> published on <em>Ceramics International</em>.</td>
     </tr>
