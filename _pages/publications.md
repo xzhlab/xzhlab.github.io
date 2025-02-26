@@ -4,15 +4,15 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-2025
+<strong style="font-size: 16px; color: #7a2b2b;">2025</strong>
 
 <span style="font-size:16px"> *Chen, Z., Linghu, J., Zhang, Q., Che, J., Wang, X. and Wei, S., 2025. A Highly Polarization-sensitive Near-infrared Photodetector Based on Two-dimensional Germanane/α-CdS Heterostructure. 2D Materials*. <span>
 
-2024
+<strong style="font-size: 16px; color: #7a2b2b;">2024</strong>
 
 <span style="font-size:16px"> *J. Che, W. Huang, G. Ren, J. Linghu, X. Wang, Dual-channel phonon transport leads to low thermal conductivity in pyrochlore La2Hf2O7. Ceramics International, 2024, Volume 50, Issue 13, Part A, Pages 22865-22873*. <span>
 
-2023
+<strong style="font-size: 16px; color: #7a2b2b;">2023</strong>
 
 
 <span style="font-size:16px"> *Wang, Y., W. Huang, J. Che, Wang, X., Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation. Computational Materials Science, 2023. 229: p. 112435* <span>
@@ -25,7 +25,7 @@ author_profile: true
 
 <span style="font-size:16px"> *Linghu, J., T. Song, T. Yang, X. Wang, et al., Computational prediction of stable semiconducting Zn-C binary compounds. Materials Science in Semiconductor Processing, 2023. 155: p. 107237.* <span>
 
-Before 2022
+<strong style="font-size: 16px; color: #7a2b2b;">Before 2022</strong>
 
 
 <span style="font-size:16px"> *Wang, X., J. Che, and X. Liu, Effect of yttria on thermal transport and vibrational modes in yttria-stabilized hafnia. Ceramics International, 2022. 48(21): p. 31705-31713.* <span>
