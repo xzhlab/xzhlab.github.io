@@ -159,6 +159,9 @@ ___
 
 ---
 <div style="text-align: center; font-size: 18px; color: #7a2b2b;">
+  
+  <br>
   <i>We do something new.</i>
+  
 </div>
 
