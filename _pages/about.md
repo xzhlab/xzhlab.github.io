@@ -165,6 +165,6 @@ ___
   
   <br>
   <i>We do something new.</i>
-  
+  <br>
 </div>
 
