@@ -162,7 +162,7 @@ ___
 
 ---
 <div style="text-align: center; font-size: 18px; color: #7a2b2b;">
-  <p style="margin: 20px 0;"> <!-- 通过 margin 控制上下间距 -->
+  <p style="margin: 40px 0;"> <!-- 通过 margin 控制上下间距 -->
     <i>We do something new.</i>
   </p>
 </div>
