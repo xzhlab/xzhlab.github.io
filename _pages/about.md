@@ -14,7 +14,6 @@ redirect_from:
 </tr><br>
 <i>Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. We value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.</i>
 
-<br>
 ___
 
 
