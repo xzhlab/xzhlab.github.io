@@ -162,8 +162,8 @@ ___
 
 ---
 <div style="text-align: center; font-size: 18px; color: #7a2b2b;">
-  <p style="margin: 40px 0;"> <!-- 通过 margin 控制上下间距 -->
-    <i>We do something new.</i>
-  </p>
+  <i style="display: block; margin: 50px 0 40px 0;">
+    We do something new.
+  </i>
 </div>
 
