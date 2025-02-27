@@ -120,7 +120,7 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2022</td>
-      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Ultralow oxygen ion diffusivity in pyrochlore-type La2 (Zr0. 7Ce0. 3) 2O7</em> published on <em>Journal of Materials Science & Technology</em>.</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Ultralow oxygen ion diffusivity in pyrochlore-type La2(Zr0.7Ce0.3)2O7</em> published on <em>Journal of Materials Science & Technology</em>.</td>
     </tr>
 
     <tr>
@@ -130,7 +130,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2021</td>
-      <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong> has his paper <em>Outstanding sintering resistance in pyrochlore-type La2 (Zr0. 7Ce0. 3) 2O7 for thermal barrier coatings material</em> got published on <em>Ceramics International.</em></td> 
+      <td style="border: none; word-wrap: break-word;"> <strong><i>Junwei</i></strong> has his paper <em>Outstanding sintering resistance in pyrochlore-type La2(Zr0.7Ce0.3)2O7 for thermal barrier coatings material</em> got published on <em>Ceramics International.</em></td> 
     </tr>
     
      <tr>
