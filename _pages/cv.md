@@ -43,7 +43,7 @@ redirect_from:
   <em style="font-size: 16px;">Dr. Linghu received her Ph.D degree from National University of Singapore (NUS). She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
 </div>
 <div>
-  <p class="name" style="font-size:17px; margin:0; line-height:1.2">
+  <p class="name" style="font-size:17px; margin:0; line-height:1.1">
     <em>Dr. Jiajun Linghu</em>
   </p>
   <p class="name" style="font-size:14px; margin:0; line-height:1.2; 
@@ -59,7 +59,7 @@ redirect_from:
   <em style="font-size: 16px;">Dr. Che received his Ph.D. degree in Physics from Xi'an Jiaotong University. He was a visiting scholar at Technische Universität Hamburg, Germany. His research interests include high-temperature ceramics, phonon thermal transport, first-principles calculations, molecular dynamics simulations, and machine learning. </em>
 </div>
 <div>
-  <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
+  <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.1">
     <em>Dr. Junwei Che</em>
   </p>
   <p class="name" style="font-size:14px; margin:0; line-height:1.0; 
