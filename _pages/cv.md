@@ -90,7 +90,7 @@ redirect_from:
   </p>
 
 
-</div><br>
+</div>
 
 <hr style="border: 0; 
           height: 1px; 
@@ -110,7 +110,7 @@ redirect_from:
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
     <em>Wenjie Huang</em>
  </p>
-<br>
+
 <hr style="border: 0; 
           height: 1px; 
           background: #f8f8ff; 
