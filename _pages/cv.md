@@ -39,7 +39,7 @@ redirect_from:
 -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 30px; border-radius: 50%;">
+  <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
   <em style="font-size: 16px;">Dr. Linghu received her Ph.D degree from National University of Singapore (NUS). She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
 </div>
 <div>
@@ -55,7 +55,7 @@ redirect_from:
 
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/jw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 30px; border-radius: 50%;">
+  <img src="../images/jw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
   <em style="font-size: 16px;">Dr. Che received his Ph.D. degree in Physics from Xi'an Jiaotong University. He was a visiting scholar at Technische Universität Hamburg, Germany. His research interests include high-temperature ceramics, phonon thermal transport, first-principles calculations, molecular dynamics simulations, and machine learning. </em>
 </div>
 <div>
@@ -81,7 +81,7 @@ redirect_from:
  </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 30px; border-radius: 50%;">
+  <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
   <em style="font-size: 16px;">Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics. </em>
 </div>
 <div>
