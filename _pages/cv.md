@@ -94,13 +94,15 @@ redirect_from:
           height: 1px; 
           background: #f8f8ff; 
           margin: 20px 0;">
+
+          
 <div style="margin-left: 70px; text-align: center;">  
   <span style="line-height: 1; font-size:14px;"> <h1 style="color: #000080;">Undergraduates</h1> </span> 
 </div> <br>    
 
     
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 40px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
   <!-- 第1个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/bj.jpg" 
