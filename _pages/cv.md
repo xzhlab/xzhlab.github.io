@@ -100,7 +100,7 @@ redirect_from:
 
     
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 70px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 40px;">
   <!-- 第1个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/bj.jpg" 
