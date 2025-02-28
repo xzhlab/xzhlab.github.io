@@ -15,7 +15,14 @@ redirect_from:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 
   <em style="font-size: 16px;">Dr. Wang received her Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at Clemson University International Center for Automotive Research (CUICAR). His research focuses on computational physics or related from a fundemental perspective of atoms.  </em>
-</div>
+</div><br>
+
+<hr style="border: 0; 
+          height: 1px; 
+          background: #f8f8ff; 
+          margin: 20px 0;">
+  <br /> 
+  
 <!-- 
 <div>
   <p class="name" style="font-size:17px; margin:0; line-height:1.2">
