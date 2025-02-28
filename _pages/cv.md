@@ -109,7 +109,7 @@ redirect_from:
   <p class="name" style="font-size:17px; margin:0; line-height:1.2">
     <em>Wenjie Huang</em>
 
-</div>
+
 <hr style="border: 0; 
           height: 1px; 
           background: #f8f8ff; 
