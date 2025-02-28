@@ -9,9 +9,23 @@ redirect_from:
 
 <div style="margin-left: 70px;">  
   <div style="margin-left: 90px; text-align: center;">  
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Co-PI</h1> </span> 
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">PI</h1> </span> 
   </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+
+  <em style="font-size: 16px;">Dr. Wang received her Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at Clemson University International Center for Automotive Research (CUICAR). His research focuses on computational physics or related from a fundemental perspective of atoms.  </em>
+</div>
+<div>
+  <p class="name" style="font-size:17px; margin:0; line-height:1.2">
+    <em>Dr. Wang</em>
+  </p>
+  <p class="name" style="font-size:14px; margin:0; line-height:1.2; 
+                        position: relative; left: 40px;">
+    <strong><em>PI</em></strong>
+  </p>
+
+</div><br>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
@@ -31,7 +45,7 @@ redirect_from:
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/jw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-  <em style="font-size: 16px;">Dr. Che received his Ph.D. degree in Physics from Xi'an Jiaotong University. He was a visiting scholar at Technische Universität Hamburg (TUH), Germany. His research interests include high-temperature ceramics, phonon thermal transport, first-principles calculations, molecular dynamics simulations, and machine learning. </em>
+  <em style="font-size: 16px;">Dr. Che received his Ph.D. degree in Physics from Xi'an Jiaotong University. He was a visiting scholar at Technische Universität Hamburg, Germany. His research interests include high-temperature ceramics, phonon thermal transport, first-principles calculations, molecular dynamics simulations, and machine learning. </em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin:0; line-height:1.2">
