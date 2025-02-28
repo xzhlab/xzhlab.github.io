@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 
-  <em style="font-size: 16px;">Dr. Wang received his Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at Clemson University International Center for Automotive Research (CUICAR). His research focuses on computational physics or related from a fundemental perspective of atoms.  </em>
+  <em style="font-size: 16px;">Dr. Wang received his Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at BMW Manuacturing Lab of Clemson University International Center for Automotive Research (CUICAR), United States. His research focuses on computational physics or related from a fundemental perspective of atoms.  </em>
 </div><br>
 
 <hr style="border: 0; 
@@ -38,7 +38,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 50%;">
-  <em style="font-size: 16px;">Dr. Linghu received her Ph.D degree from National University of Singapore.  She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
+  <em style="font-size: 16px;">Dr. Linghu received her Ph.D degree from National University of Singapore(NUS), Singapore.  She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin:0; line-height:1.2">
