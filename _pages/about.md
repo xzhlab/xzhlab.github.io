@@ -13,8 +13,12 @@ redirect_from:
       </td>
 </tr>
 
-<i>Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. We value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.  </i><br>
 
+<div style="text-align: center; font-size: 18px; color: #000080;">
+  <i style="display: block; margin: 50px 0 40px 0;">
+    Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. We value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.  
+  </i>
+</div>
  
  
 ___
