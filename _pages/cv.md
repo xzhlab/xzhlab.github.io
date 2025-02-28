@@ -6,13 +6,14 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!-- 
 <div style="margin-left: 20px;">  
   <div style="margin-left: 90px; text-align: center;">  
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">  </h1> </span> 
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">PI</h1> </span> 
   </div>
+-->
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 20px;">
 
   <em style="font-size: 16px;">Dr. Wang received his Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at BMW Manuacturing Lab of Clemson University International Center for Automotive Research (CUICAR), United States. His research focuses on computational physics or related from a fundemental perspective of atoms.  </em>
 </div><br>
