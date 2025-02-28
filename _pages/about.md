@@ -102,7 +102,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> has a publication <em>Mechanism of amorphous-like thermal conductivityin binary oxide Yb3TaO7</em> on <em>Acta Phys. Sin.</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> has a publication <em>Mechanism of amorphous-like thermal conductivityin binary oxide Yb3TaO7</em> on <em>Acta Physica Sinica</em>.</td>
     </tr>
     
     <tr>
