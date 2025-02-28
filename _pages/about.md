@@ -166,7 +166,7 @@ ___
 
 ---
 <div style="text-align: center; font-size: 18px; color: #7a2b2b;">
-  <i style="display: block; margin: 50px 0 40px 0;">
+  <i style="display: block; margin: 50px 0 0px 0;">
     We do something new.
   </i>
 </div>
