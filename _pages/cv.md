@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div style="margin-left: 70px;">  
+<div style="margin-left: 20px;">  
   <div style="margin-left: 90px; text-align: center;">  
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">PI</h1> </span> 
   </div>
