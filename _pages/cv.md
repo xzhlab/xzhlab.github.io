@@ -63,7 +63,7 @@ redirect_from:
     <em>Dr. Junwei Che</em>
   </p>
   <p class="name" style="font-size:14px; margin:0; line-height:1.0; 
-                        position: relative; left: 25px;">
+                        position: relative; left: 35px;">
     <strong><em>Co-PI</em></strong>
   </p>
 
