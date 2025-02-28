@@ -15,7 +15,7 @@ redirect_from:
 
 
 <div style="text-align: left; font-size: 18px;">
-  <i style="display: block; margin: 30px 0 55px 0;">
+  <i style="display: block; margin: 30px 0 50px 0;">
     Our lab aims to uncover the fundamental mechanisms of physics. We conduct state-of-the-art research in computational physics or related. We value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.  
   </i>
 </div>
