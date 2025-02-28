@@ -62,7 +62,7 @@ redirect_from:
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
     <em>Dr. Junwei Che</em>
   </p>
-  <p class="name" style="font-size:14px; margin:0; line-height:1.2; 
+  <p class="name" style="font-size:14px; margin:0; line-height:1.0; 
                         position: relative; left: 25px;">
     <strong><em>Co-PI</em></strong>
   </p>
