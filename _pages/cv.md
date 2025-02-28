@@ -16,7 +16,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-top: 50px; margin-bottom: 20px;">
 
-  <em style="font-size: 16px;">Dr. Wang received his Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at BMW Manuacturing Lab of Clemson University International Center for Automotive Research (CUICAR), United States. His research focuses on computational physics or related from a fundemental perspective of atoms.  </em>
+  <em style="font-size: 16px;">Dr. Wang received his Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at BMW Manuacturing Lab of Clemson University International Center for Automotive Research (CUICAR), United States. His research focuses on computational physics or related from a perspective of fundemental particles.  </em>
 </div><br>
 
 <hr style="border: 0; 
