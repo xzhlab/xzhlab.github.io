@@ -59,7 +59,7 @@ redirect_from:
   <em style="font-size: 16px;">Dr. Che received his Ph.D. degree in Physics from Xi'an Jiaotong University. He was a visiting scholar at Technische Universität Hamburg, Germany. His research interests include high-temperature ceramics, phonon thermal transport, first-principles calculations, molecular dynamics simulations, and machine learning. </em>
 </div>
 <div>
-  <p class="name" style="font-size:17px; margin-left: 0px; line-height:1.5">
+  <p class="name" style="font-size:17px; margin: 0px; line-height:1.5">
     <em>Dr. Junwei Che</em>
   </p>
   <p class="name" style="font-size:14px; margin:0; line-height:1.0; 
