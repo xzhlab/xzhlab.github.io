@@ -125,7 +125,7 @@ redirect_from:
       <em>Ssegawa Raymond Mark</em>
     </p>
     <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      Mark is a sophomore in information. He is interested in theoretical physics.
+      Mark is a sophomore in informatics. He is interested in theoretical physics.
     </em>
   </div>
 </div>
@@ -142,7 +142,7 @@ redirect_from:
       <em>Xuan Zeng</em>
     </p>
     <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      Xuan is a freshman in physics. He is interested in computational physics.
+      Xuan is a freshman in physics, interested in computational physics.
     </em>
   </div>
 </div>
