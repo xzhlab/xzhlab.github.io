@@ -72,8 +72,27 @@ redirect_from:
           height: 1px; 
           background: #f8f8ff; 
           margin: 20px 0;">
-  <br /> 
 
+
+<br>
+<div style="margin-left: 70px; text-align: center;">    
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Research Assistant</h1> </span> 
+ </div>
+
+ <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/hwj.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
+  <em style="font-size: 16px;">Wenjie received his M.A. degree in software engineering from Xi'an Jiaotong University. His research focuses on algorithm design and quantum computation. </em>
+</div>
+<div>
+  <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
+    <em>Wenjie Huang</em>
+ </p>
+
+<hr style="border: 0; 
+          height: 1px; 
+          background: #f8f8ff; 
+          margin: 20px 0;">
+  <br /> 
   
 
 <div style="margin-left: 70px; text-align: center;">    
@@ -97,25 +116,6 @@ redirect_from:
           background: #f8f8ff; 
           margin: 20px 0;">
 
-<br>
-<div style="margin-left: 70px; text-align: center;">    
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Research Assistant</h1> </span> 
- </div>
-
- <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/hwj.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Wenjie received his M.A. degree in software engineering from Xi'an Jiaotong University. His research focuses on algorithm design and quantum computation. </em>
-</div>
-<div>
-  <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
-    <em>Wenjie Huang</em>
- </p>
-
-<hr style="border: 0; 
-          height: 1px; 
-          background: #f8f8ff; 
-          margin: 20px 0;">
-  <br /> 
 
          
 <div style="margin-left: 70px; text-align: center;">  
