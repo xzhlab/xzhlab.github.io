@@ -28,16 +28,22 @@ ___
   <table style="width: 100%; font-size: 17px; border-collapse: collapse; border: none;">
     <tr>
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
-     
+     </tr>
+
+    <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2025</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins in our lab as a Research scientist. Welcome!</td>
     </tr>
-      <tr>
+    
+      
+    <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>The University of Virginia</em>, VA, United States.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>The University of Virginia</em>, VA, United States.</td>
     </tr>
     
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> joined in our lab for internship. Welcome!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> join in our lab for internship. Welcome!</td>
     </tr>
     
     <tr>
@@ -47,17 +53,17 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Dec 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. The <strong>THIRD ONE</strong>! YEAH!</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong>NSFC</strong>. The <strong>THIRD ONE</strong>! YEAH!</td>
     </tr>
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Nov 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> signed an industry-sponsored project with <em>Lin Corp</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> signs an industry-sponsored project with <em>Lin Corp</em>.</td>
     </tr>
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> attended <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> attends <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.</td>
     </tr>
     
     <tr>
@@ -67,7 +73,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2024</td>
-      <td style="border: none;"><strong><i>Zhengwang Chen</i></strong> joined in the lab as a master student. Welcome aboard!</td>
+      <td style="border: none;"><strong><i>Zhengwang Chen</i></strong> joins in the lab as a master student. Welcome aboard!</td>
     </tr>
     
     <tr>
@@ -82,7 +88,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2023</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visited <em>Cornell University</em>, NY, United States.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Cornell University</em>, NY, United States.</td>
     </tr>
     
      <tr>
@@ -92,7 +98,7 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2023</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attended <em>the 11th International Conference on Materials for Advanced Technologies</em>, Singapore.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attends <em>the 11th International Conference on Materials for Advanced Technologies</em>, Singapore.</td>
     </tr>
     
     <tr>
@@ -107,32 +113,32 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2023</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> got the work <em>Mechanism of crack propagation in penta-graphene</em> published on <em>Vacuum</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> gets the work <em>Mechanism of crack propagation in penta-graphene</em> published on <em>Vacuum</em>.</td>
     </tr>
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Nov 2022</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> got a paper <em>Effect of yttria on thermal transport and vibrational modes in yttria-stabilized hafnia</em> published on <em>Ceramics International</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> gets a paper <em>Effect of yttria on thermal transport and vibrational modes in yttria-stabilized hafnia</em> published on <em>Ceramics International</em>.</td>
     </tr>
 
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2022</td>
-      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Fluctuating bonding leads to glass-like thermal conductivity in perovskite rare-earth tantalates</em> published on <strong><em>Acta Materialia</em></strong>. Congratulations!</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> gets his work <em>Fluctuating bonding leads to glass-like thermal conductivity in perovskite rare-earth tantalates</em> published on <strong><em>Acta Materialia</em></strong>. Congratulations!</td>
     </tr>
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. </td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong>NSFC</strong>. </td>
     </tr>
 
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2022</td>
-      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Ultralow oxygen ion diffusivity in pyrochlore-type La2(Zr0.7Ce0.3)2O7</em> published on <em>Journal of Materials Science & Technology</em>.</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> gets his work <em>Ultralow oxygen ion diffusivity in pyrochlore-type La2(Zr0.7Ce0.3)2O7</em> published on <em>Journal of Materials Science & Technology</em>.</td>
     </tr>
 
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2022</td>
-      <td style="border: none;"><strong><i>Junwei</i></strong> got his work <em>Thermal transport property in pyrochlore-type and fluorite-type A2B2O7 oxides by molecular dynamics simulation</em> published on <em>International Journal of Heat and Mass Transfer</em>.</td>
+      <td style="border: none;"><strong><i>Junwei</i></strong> gets his work <em>Thermal transport property in pyrochlore-type and fluorite-type A2B2O7 oxides by molecular dynamics simulation</em> published on <em>International Journal of Heat and Mass Transfer</em>.</td>
     </tr>
     
     <tr>
@@ -147,17 +153,17 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2020</td>
-      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both got supports from Natural Science Basic Research Program of Shaanxi Province. </td>
+      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both get supports from Natural Science Basic Research Program of Shaanxi Province. </td>
     </tr>
     
       <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2020</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> visited <em>The University of Tulsa</em>, OK, United States.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> visits <em>The University of Tulsa</em>, OK, United States.</td>
     </tr>
     
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2019</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> received a grant from <strong>NSFC</strong>. The <strong>FIRST ONE</strong>! </td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong>NSFC</strong>. The <strong>FIRST ONE</strong>! </td>
     </tr>
     
   </table>
