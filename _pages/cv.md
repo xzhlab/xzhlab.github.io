@@ -86,7 +86,7 @@ redirect_from:
 <div>
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
     <em>Dr. Lu Wang</em>
- </p>
+ </p><br>
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/hwj.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
