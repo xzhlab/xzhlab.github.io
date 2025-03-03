@@ -80,6 +80,15 @@ redirect_from:
  </div>
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/wl.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
+  <em style="font-size: 16px;">Dr. Wang received her Ph.D. degree in Zhejiang University. She was a research fellow at the University of Michigan, United States. Her research focuses on biophysics.</em>
+</div>
+<div>
+  <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
+    <em>Dr. Lu Wang</em>
+ </p>
+
+ <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/hwj.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
   <em style="font-size: 16px;">Wenjie received his M.A. degree in software engineering from Xi'an Jiaotong University. His research focuses on algorithm design and quantum computation. </em>
 </div>
@@ -87,6 +96,7 @@ redirect_from:
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
     <em>Wenjie Huang</em>
  </p>
+ 
 
 <hr style="border: 0; 
           height: 1px; 
