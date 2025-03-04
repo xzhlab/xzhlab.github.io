@@ -16,7 +16,7 @@ redirect_from:
 
 <div style="text-align: left; font-size: 18px;">
   <i style="display: block; margin: 30px 0 50px 0;">
-    Our lab aims to uncover the fundamental physics mechanisms of nature. We conduct state-of-the-art research in computational physics or related. We value a wide diversity of views and interdisciplinary backgrounds that brings new thinking into how nature works.  
+    Our lab aims to uncover the fundamental physics mechanisms of nature. We conduct state-of-the-art research in computational physics and related. We value a wide diversity of views and interdisciplinary thoughts that brings fresh thinking into the understanding of nature.  
   </i>
 </div>
  
