@@ -80,6 +80,15 @@ redirect_from:
  </div>
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/yf.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
+  <em style="font-size: 16px;">Dr. Wang received his Ph.D. degree in Human-computer Interaction from The University of Sydney (USYD), Australia. He was a research fellow at Wellbeing Tech Lab of school of electrical engineering at USYD. His research focuses on artificial intelligence, virtual reality and three-dimensional reconstruction.</em>
+</div>
+<div>
+  <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
+    <em>Dr. Yifan Wang</em>
+ </p><br>
+
+ <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/wl.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
   <em style="font-size: 16px;">Dr. Wang received her Ph.D. degree from Zhejiang University. She was a research fellow at the University of Michigan (UMich), Ann Arbor, MI, United States. Her research focuses on biophysics.</em>
 </div>
