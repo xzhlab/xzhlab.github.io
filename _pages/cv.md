@@ -81,7 +81,7 @@ redirect_from:
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/yf.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Dr. Wang received his Ph.D. degree in Human-computer Interaction from The University of Sydney (USYD), Australia. He was a researcher at Wellbeing Tech Lab of School of Electrical and Information Engineering at USYD. His research focuses on artificial intelligence, image processing, and 3D reconstruction.</em>
+  <em style="font-size: 16px;">Dr. Wang received his Ph.D. degree in Human-computer Interaction from The University of Sydney (USYD), Australia. He was a researcher at Wellbeing Tech Lab of School of Electrical and Information Engineering at USYD. He is an expert on artificial intelligence, image processing, and 3D reconstruction.</em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
