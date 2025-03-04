@@ -81,7 +81,7 @@ redirect_from:
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/wl.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Dr. Wang received her Ph.D. degree from Zhejiang University. She was a research fellow at the University of Michigan, United States. Her research focuses on biophysics.</em>
+  <em style="font-size: 16px;">Dr. Wang received her Ph.D. degree from Zhejiang University. She was a research fellow at the University of Michigan (UMich), United States. Her research focuses on biophysics.</em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
