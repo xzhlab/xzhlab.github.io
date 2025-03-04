@@ -32,7 +32,7 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins in our lab as a research scientist. Welcome!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins our lab as a research scientist. Welcome!</td>
     </tr>
     
       
@@ -43,7 +43,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> join in our lab for internship. Welcome!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> join our lab for internship. Welcome!</td>
     </tr>
     
     <tr>
@@ -73,7 +73,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2024</td>
-      <td style="border: none;"><strong><i>Zhengwang Chen</i></strong> joins in the lab as a master student. Welcome aboard!</td>
+      <td style="border: none;"><strong><i>Zhengwang Chen</i></strong> joins our lab as a master student. Welcome aboard!</td>
     </tr>
     
     <tr>
