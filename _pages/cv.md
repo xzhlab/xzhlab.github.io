@@ -16,7 +16,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-top: 50px; margin-bottom: 20px;">
 
-  <em style="font-size: 16px;">Dr. Wang received his Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at BMW Manuacturing Lab of Clemson University International Center for Automotive Research (CUICAR), United States. His research focuses on computational physics or related from a perspective of fundemental particles.  </em>
+  <em style="font-size: 16px;">Dr. Wang received his Ph.D degree from Xi'an Jiaotong University. He was a visiting scholar at BMW Manuacturing Lab of Clemson University International Center for Automotive Research (CUICAR), SC, United States. His research focuses on computational physics or related from a perspective of fundemental particles.  </em>
 </div><br>
 
 <hr style="border: 0; 
@@ -81,7 +81,7 @@ redirect_from:
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/wl.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Dr. Wang received her Ph.D. degree from Zhejiang University. She was a research fellow at the University of Michigan (UMich), United States. Her research focuses on biophysics.</em>
+  <em style="font-size: 16px;">Dr. Wang received her Ph.D. degree from Zhejiang University. She was a research fellow at the University of Michigan (UMich), Ann Arbor, MI, United States. Her research focuses on biophysics.</em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
