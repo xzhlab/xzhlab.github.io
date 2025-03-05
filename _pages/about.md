@@ -32,7 +32,7 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins our lab as a research scientist. Welcome!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins our lab as a research associate from The University of Michigan, MI, United States. Welcome!</td>
     </tr>
     
       
