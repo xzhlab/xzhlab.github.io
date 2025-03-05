@@ -92,7 +92,7 @@ ___
     </tr>
 
   <tr>
-      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2023</td>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Oct 2023</td>
       <td style="border: none; word-wrap: break-word;"> <strong><i>Yifan</i></strong> has his work <em>Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation</em> published on <em>Computational Materials Science</em>. </td> 
     </tr>
     
