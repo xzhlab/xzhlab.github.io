@@ -32,13 +32,13 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins our lab as a research associate from <em>The University of Michigan</em>, MI, United States. Welcome!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins our lab as a research associate from <em>The University of Michigan, MI, United States</em>. Welcome!</td>
     </tr>
     
       
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>The University of Virginia</em>, VA, United States.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>The University of Virginia, VA, United States</em>.</td>
     </tr>
     
     <tr>
@@ -63,12 +63,12 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> attends <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> attends <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong><em>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at Trieste, Italy</em>.</td>
     </tr>
     
     <tr>
      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"> </td>
-     <td style="border: none;"><strong><i>Jiajun</i></strong> is invited to give a talk at <em>CPS Fall Meeting 2024</em>, Haikou.</td>
+     <td style="border: none;"><strong><i>Jiajun</i></strong> is invited to give a talk at <em>CPS Fall Meeting 2024, Haikou.</em></td>
     </tr>
     
     <tr>
@@ -78,7 +78,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
-      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference</em>, Guangzhou.</td>
+      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference, Guangzhou</em>.</td>
     </tr>
     
     <tr>
@@ -88,7 +88,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2023</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Cornell University</em>, NY, United States.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Cornell University, NY, United States</em>.</td>
     </tr>
 
   <tr>
@@ -103,7 +103,7 @@ ___
 
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2023</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attends <em>the 11th International Conference on Materials for Advanced Technologies</em>, Singapore.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attends <em>the 11th International Conference on Materials for Advanced Technologies, Singapore</em>.</td>
     </tr>
     
     <tr>
@@ -163,7 +163,7 @@ ___
     
       <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2020</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> visits <em>The University of Tulsa</em>, OK, United States.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> visits <em>The University of Tulsa, OK, United States</em>.</td>
     </tr>
     
      <tr>
