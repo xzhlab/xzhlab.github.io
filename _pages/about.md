@@ -68,7 +68,7 @@ ___
     
     <tr>
      <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"> </td>
-     <td style="border: none;"><strong><i>Jiajun</i></strong> is invited to give a talk at <em>CPS Fall Meeting 2024, Haikou.</em></td>
+     <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give a talk at <em>CPS Fall Meeting 2024, Haikou.</em></td>
     </tr>
     
     <tr>
