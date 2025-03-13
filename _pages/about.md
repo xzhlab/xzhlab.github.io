@@ -53,7 +53,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Dec 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong>NSFC</strong>. The <strong>THIRD ONE</strong>! YEAH!</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong>NSFC</strong>. The <strong>THIRD ONE</strong>! </td>
     </tr>
     
     <tr>
