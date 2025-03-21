@@ -148,7 +148,7 @@ redirect_from:
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/bj.jpg" 
          alt="bj"
-         style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
       <em>Beijie Hu</em>
     </p>
@@ -161,7 +161,7 @@ redirect_from:
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/mark.png" 
          alt="Ssegawa Raymond Mark"
-         style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
       <em>Ssegawa Raymond Mark</em>
     </p>
@@ -178,7 +178,7 @@ redirect_from:
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/zx.jpg" 
          alt="zx"
-         style="width: 150px; height: 150px; margin-bottom: 10px; border-radius: 50%;">
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
       <em>Xuan Zeng</em>
     </p>
