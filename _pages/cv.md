@@ -169,12 +169,8 @@ redirect_from:
       Mark is interested in theoretical physics.
     </em>
   </div>
-</div>
 
-<br>
-
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 80px;">
-  <!-- 第3个成员 -->
+ <!-- 第3个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="../images/zx.jpg" 
          alt="zx"
@@ -186,7 +182,12 @@ redirect_from:
       Xuan is interested in computational physics.
     </em>
   </div>
+  
 </div>
+
+
+
+
 
 
 
