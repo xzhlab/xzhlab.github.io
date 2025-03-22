@@ -78,6 +78,8 @@ redirect_from:
 <div style="margin-left: 70px; text-align: center;">    
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Research Associates</h1> </span> 
  </div>
+ 
+<br>
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/yf.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
@@ -117,6 +119,8 @@ redirect_from:
 <div style="margin-left: 70px; text-align: center;">    
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Graduates</h1> </span> 
  </div>
+
+<br>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
