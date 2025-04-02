@@ -32,7 +32,12 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> releases <em>Roadway maintenance software</em> v1.0</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> releases <em>Roadway Maintenance software</em> v1.0.</td>
+    </tr>
+
+ <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajie Zhang</i></strong>, <strong><i>Zhihao Zhou</i></strong>, <strong><i>Tianjun Wen</i></strong>, <strong><i>Zhihaozhou</i></strong>, <strong><i>Isha Abdulai Turay</i></strong> and <strong><i>Yousra El Mouloudi</i></strong> join our lab for internship. Welcome!</td>
     </tr>
 
     <tr>
