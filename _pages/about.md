@@ -30,6 +30,11 @@ ___
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
      </tr>
 
+ <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2025</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> releases <em>Roadway maintenance software</em> v1.0</td>
+    </tr>
+
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2025</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins our lab as a research associate from <em>The University of Michigan, MI, United States</em>. Welcome!</td>
