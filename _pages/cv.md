@@ -193,7 +193,7 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
   <!-- 第1个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/lzd.png" 
+    <img src="../images/Lzd.png" 
          alt="lzd"
          style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
@@ -232,6 +232,47 @@ redirect_from:
   
 </div>
 
+ <!-- 3rd row -->
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
+  <!-- 第1个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/Turay.png" 
+         alt="Turay"
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Isha Abdulai Turay</em>
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+       <!--Beijie is interested in computational physics.-->
+    </em>
+  </div>
 
+  <!-- 第2个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/zzh.png" 
+         alt="zz"
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Zhihao Zhou</em>
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+       <!--Mark is interested in theoretical physics.-->
+    </em>
+  </div>
+
+ <!-- 第3个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/wtj.png" 
+         alt="zjj"
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Tianjun Wen</em>
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+      <!--Xuan is interested in computational physics.-->
+    </em>
+  </div>
+  
+</div>
 
 
