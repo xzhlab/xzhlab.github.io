@@ -32,7 +32,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> and <strong><i>Jianlin</i></strong> release <em>RM software</em> v1.0. <strong><i>Xuezhi</i></strong> visits the <em>NVIDIA GPU Education center</em> and <em>NVIDIA CUDA Teaching Center</em> at <em>Southwest Petroleum University, Chengdu</em></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> and <strong><i>Jianlin</i></strong> release <em>RM software</em> v1.0. <strong><i>Xuezhi</i></strong> visits the <em><strong>NVIDIA</strong> GPU Education center</em> and <em><strong>NVIDIA CUDA</strong> Teaching Center</em> at <em>Southwest Petroleum University, Chengdu</em></td>
     </tr>
 
 <tr>
