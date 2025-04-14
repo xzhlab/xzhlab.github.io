@@ -42,6 +42,11 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><i>Xuezhi</i></strong> visits <em>Nanjing University of Information Science & Technology</em>. <strong><i>Dr. Yusheng Wang</i></strong> introduces the State Key laboratory of Climate System Prediction and Risk Management and the Integrated Meteorological Observation Base in the campus.</td>
+    </tr>
+
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> visit <em>Shenzhen University, Shenzhen</em>. <strong><i>Dr. Songrui Wei</i></strong> holds a meeting and takes a tour to his lab.</td>
     </tr>
 
