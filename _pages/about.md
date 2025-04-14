@@ -35,11 +35,6 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> and <strong><i>Jianlin</i></strong> release <em>RM software</em> v1.0.</td>
     </tr>
 
- <tr>
-      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits the <em><strong>NVIDIA GPU</strong> Education Center</em> and <em><strong>NVIDIA CUDA</strong> Teaching Center</em> at <em>Southwest Petroleum University, Chengdu.</em></td>
-    </tr>
-
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> and <strong><i>Xuezhi</i></strong> attend <em>the 9th National Congress of Magnetic Materials and Devices</em> at <em>Nanjing</em>. <strong><i>Xuezhi</i></strong> is invited as a Committee on the Forum of Condensed Matter Physics of the conference.</td>
@@ -65,6 +60,10 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Lu Wang</i></strong> joins our lab as a research associate from <em>The University of Michigan, MI, United States</em>. Welcome!</td>
     </tr>
     
+ <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits the <em><strong>NVIDIA GPU</strong> Education Center</em> and <em><strong>NVIDIA CUDA</strong> Teaching Center</em> with <strong><i>Yifan</i></strong> at <em>Southwest Petroleum University, Chengdu.</em></td>
+    </tr>
       
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
