@@ -36,12 +36,12 @@ ___
     </tr>
 
 <tr>
-      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2025</td>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> and <strong><i>Xuezhi</i></strong> attend <em>9th National Congress of Magnetic Materials and Devices</em> at Nanjing. <strong><i>Xuezhi</i></strong> is invited as a Committee on Forum of Condensed Matter Physics.</td>
     </tr>
 
 <tr>
-      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2025</td>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> visit <em>Shenzhen University</em>, Shenzhen. <strong><i>Dr. Songrui Wei</i></strong> takes a tour to his lab.</td>
     </tr>
 
