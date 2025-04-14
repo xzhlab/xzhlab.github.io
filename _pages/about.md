@@ -32,7 +32,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> and <strong><i>Jianlin</i></strong> release <em>RM software</em> v1.0.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> and <strong><i>Jianlin</i></strong> release <em>RM software</em> v1.0. <strong><i>Xuezhi</i></strong> visits the <em>NVIDIA GPU Education center</em> and <em>NVIDIA CUDA Teaching Center</em> at <em>Southwest Petroleum University, Chengdu</em></td>
     </tr>
 
 <tr>
@@ -42,7 +42,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><i>Xuezhi</i></strong> visits <em>Nanjing University of Information Science & Technology</em>. <strong><i>Dr. Yusheng Wang</i></strong> introduces the State Key laboratory of Climate System Prediction and Risk Management and the Integrated Meteorological Observation Base in the campus.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Nanjing University of Information Science & Technology</em>. <strong><i>Dr. Yusheng Wang</i></strong> introduces the State Key laboratory of Climate System Prediction and Risk Management and the Integrated Meteorological Observation Base in the campus.</td>
     </tr>
 
 <tr>
