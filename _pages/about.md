@@ -109,6 +109,11 @@ ___
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
       <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference, Guangzhou</em>.</td>
     </tr>
+
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Tsinghua University, Beijing</em>. <strong><i>Prof. Xiangyang Liu</i></strong> introduces the State Key Laboratory of New Ceramics and Fine Processing and takes a tour to his lab.</td>
+    </tr>
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jul 2024</td>
