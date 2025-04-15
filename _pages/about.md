@@ -42,12 +42,12 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Nanjing University of Information Science & Technology, Nanjing</em>. <strong><i>Prof. Yusheng Wang</i></strong> introduces the State Key laboratory of Climate System Prediction and Risk Management and the Integrated Meteorological Observation Base in the campus.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Nanjing University of Information Science & Technology, Nanjing</em>.</td>
     </tr>
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> visit <em>Shenzhen University, Shenzhen</em>. <strong><i>Prof. Songrui Wei</i></strong> holds a meeting and takes a tour to his lab.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> visit <em>Shenzhen University, Shenzhen</em>.</td>
     </tr>
 
  <tr>
@@ -112,7 +112,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Tsinghua University, Beijing</em>. <strong><i>Prof. Xiangyang Liu</i></strong> introduces the State Key Laboratory of New Ceramics and Fine Processing and takes a tour to his lab.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Tsinghua University, Beijing</em>.</td>
     </tr>
     
     <tr>
