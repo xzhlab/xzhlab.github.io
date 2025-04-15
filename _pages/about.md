@@ -37,7 +37,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> and <strong><i>Xuezhi</i></strong> attend <em>the 9th National Congress of Magnetic Materials and Devices</em> at <em>Nanjing</em>. <strong><i>Xuezhi</i></strong> is invited as a committee member on the Forum of Condensed Matter Physics.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> and <strong><i>Xuezhi</i></strong> attend <em>the 9th National Congress of Magnetic Materials and Devices</em> at <em>Nanjing</em>. <strong><i>Xuezhi</i></strong> is invited as a committee member on <em>the Forum of Condensed Matter Physics.</em></td>
     </tr>
 
 <tr>
