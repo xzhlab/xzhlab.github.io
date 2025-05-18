@@ -101,11 +101,11 @@ redirect_from:
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/hwj.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Wenjie received his M.A. degree in software engineering from Xi'an Jiaotong University. His research focuses on algorithm design and quantum computation. </em>
+  <em style="font-size: 16px;">Dr. Huang received his M.A. degree in Mechanical engineering from Xi'an Jiaotong University. His research focuses on algorithm design and quantum computation. </em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
-    <em>Wenjie Huang</em>
+    <em>Dr. Wenjie Huang</em>
  </p>
  
 
