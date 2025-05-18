@@ -31,6 +31,12 @@ ___
      </tr>
 
  <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">May 2025</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> recieves funding from Natural Science Basic Research Program of Shaanxi Province. Way to Go!</td>
+    </tr>
+
+
+ <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2025</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> and <strong><i>Jianlin</i></strong> release <em>Real Materials software</em> v1.0.</td>
     </tr>
