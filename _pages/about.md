@@ -35,6 +35,12 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> recieves funding from <i>Natural Science Basic Research Program of Shaanxi Province</i>. Way to go!</td>
     </tr>
 
+ <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> gives a lecture at <i>Yanshan University, Qinhuangdao</i>. </td>
+    </tr>
+
+
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2025</td>
