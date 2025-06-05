@@ -40,7 +40,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lh2.jpg" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Dr. Linghu received her Ph.D degree from National University of Singapore (NUS). She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
+  <em style="font-size: 16px;">Dr. Linghu received her Ph.D degree in Physics from National University of Singapore (NUS). She is an expert in first-principles calculations of advanced functional materials. Her research spans the design and adjustment of material structures to achieve desired properties, with applications in solid oxide fuel cells, two-dimensional materials, and optoelectronic materials. </em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin:0; line-height:1.2">
@@ -92,7 +92,7 @@ redirect_from:
 
  <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/wl.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Dr. Wang received her Ph.D. degree from Zhejiang University. She was a research fellow at the University of Michigan (UMich), Ann Arbor, MI, United States. Her research focuses on biophysics.</em>
+  <em style="font-size: 16px;">Dr. Wang received her Ph.D. degree in Pharmaceutical analysis from Zhejiang University. She was a research fellow at the University of Michigan (UMich), Ann Arbor, MI, United States. Her research focuses on biophysics.</em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin-left: 10px; line-height:1.2">
@@ -124,7 +124,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Zhengwang received his B.S. in mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics. </em>
+  <em style="font-size: 16px;">Zhengwang received his B.S. in Mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics. </em>
 </div>
 <div>
   <p class="name" style="font-size:17px; margin:0; line-height:1.2">
