@@ -32,7 +32,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Yousra</i></strong> gives a talk <i>Dimension</Dimension></i>, and <strong><i>Isha</i></strong> gives a talk <i>Quantum Entanglement</i> to the undergraduates from Physics department. Excellent Job!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yousra</i></strong> gives a talk <i>Dimension</i>, and <strong><i>Isha</i></strong> gives a talk <i>Quantum Entanglement</i> to the undergraduates from Physics department. Excellent Job!</td>
     </tr>
 
 
