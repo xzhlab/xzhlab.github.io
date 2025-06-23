@@ -101,7 +101,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> join our lab for internship. Welcome!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Beijie Hu</i></strong>, <strong><i>Xuan Zeng</i></strong> and <strong><i>Ssegawa Raymond Mark</i></strong> join our lab for undergraduate internship. Welcome!</td>
     </tr>
     
     <tr>
