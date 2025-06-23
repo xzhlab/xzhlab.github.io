@@ -32,7 +32,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xinying Quan</i></strong>, <strong><i>Haoran Zhang</i></strong> and <strong><i>Xiaona Sun</i></strong> join our lab for Undergraduate internship. Welcome!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xinying Quan</i></strong>, <strong><i>Haoran Zhang</i></strong> and <strong><i>Xiaona Sun</i></strong> join our lab for undergraduate internship. Welcome!</td>
     </tr>
 
 
