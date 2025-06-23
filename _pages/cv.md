@@ -278,7 +278,7 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
   <!-- 第1个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/xns.png" 
+    <img src="../images/Xns.png" 
          alt="Turay"
          style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
@@ -304,7 +304,7 @@ redirect_from:
 
  <!-- 第3个成员 -->
   <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/xyq.png" 
+    <img src="../images/Xyq.png" 
          alt="zjj"
          style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
     <p class="name" style="font-size:17px; margin:0;">
