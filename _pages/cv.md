@@ -272,6 +272,47 @@ redirect_from:
       <!--Xuan is interested in computational physics.-->
     </em>
   </div>
+
+ <!-- 4th row -->
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
+  <!-- 第1个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/xns.png" 
+         alt="Turay"
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Xiaona Sun</em>
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+       <!--Beijie is interested in computational physics.-->
+    </em>
+  </div>
+
+  <!-- 第2个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/hrz.png" 
+         alt="zz"
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Haoran Zhang</em>
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+       <!--Mark is interested in theoretical physics.-->
+    </em>
+  </div>
+
+ <!-- 第3个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/xyq.png" 
+         alt="zjj"
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Xinying Quan</em>
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+      <!--Xuan is interested in computational physics.-->
+    </em>
+  </div>
   
 </div>
 
