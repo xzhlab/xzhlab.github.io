@@ -272,6 +272,7 @@ redirect_from:
       <!--Xuan is interested in computational physics.-->
     </em>
   </div>
+</div>
 
  <!-- 4th row -->
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
