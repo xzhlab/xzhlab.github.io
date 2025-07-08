@@ -32,7 +32,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jul 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>CMC 2025, Xiamen.</em></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> give invited talks at <em>CMC 2025, Xiamen.</em></td>
     </tr>
 
  <tr>
@@ -146,7 +146,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
-      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> are invited to give talks at <em>the 2nd World Materials Conference, Guangzhou</em>.</td>
+      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> give invited talks at <em>the 2nd World Materials Conference, Guangzhou</em>.</td>
     </tr>
 
 <tr>
