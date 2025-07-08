@@ -37,7 +37,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> got the Outstanding award at <em>The Academic Forum on Frontiers of Basic Disciplines and Innovation in Interdisciplinary Studies.</em></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> got The Outstanding Award from <em>The Academic Forum on Frontiers of Basic Disciplines and Innovation in Interdisciplinary Studies.</em></td>
     </tr>
 
  <tr>
