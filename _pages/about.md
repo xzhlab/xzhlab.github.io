@@ -37,7 +37,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> gets the <strong><i>Outstanding Award</i></strong> from <em>The Academic Forum on Frontiers of Basic Disciplines and Innovation in Interdisciplinary Studies</em> host by School of Science, CHU!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> gets the <strong><i>Outstanding Award</i></strong> from <em>The Academic Forum on Frontiers of Basic Disciplines and Innovation in Interdisciplinary Studies</em>!</td>
     </tr>
 
  <tr>
