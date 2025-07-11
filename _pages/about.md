@@ -135,12 +135,12 @@ ___
     </tr>
 
     
-
+   <tr>
 <div style="flex: 1 0 30%; margin: 10px; text-align: center;">
-    <img src="../images/re2.png" alt="5" style="width: 190px; height: 190px; margin-bottom: 10px;">
+    <img src="../images/Ita.png" alt="5" style="width: 190px; height: 190px; margin-bottom: 10px;">
   
   </div>
-
+   </tr>
 
 
 
