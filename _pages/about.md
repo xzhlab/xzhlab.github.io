@@ -138,7 +138,8 @@ ___
 <tr>
   <td style="border: none;"></td>
   <td style="border: none; text-align: center;">
-    <img src="../images/Ita.png" alt="5" style="width: 190px; height: 120px; margin: 10px 0;">
+    <img src="../images/Ita.png" alt="5" style="width: 290px; height: 210px; margin: 10px 0;">
+    <img src="../images/Ita1.png" alt="5" style="width: 290px; height: 210px; margin: 10px 0;">
   </td>
 </tr>
 
