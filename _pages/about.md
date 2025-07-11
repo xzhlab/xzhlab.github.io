@@ -32,13 +32,27 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jul 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> give invited talks at <em>CMC 2025, Xiamen.</em></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> gets the <strong><i>Outstanding Award</i></strong> from <em>The Academic Forum on Frontiers of Basic Disciplines and Innovation in Interdisciplinary Studies</em>!</td>
     </tr>
+
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> gets the <strong><i>Outstanding Award</i></strong> from <em>The Academic Forum on Frontiers of Basic Disciplines and Innovation in Interdisciplinary Studies</em>!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> give invited talks at <em>CMC 2025, Xiamen.</em></td>
     </tr>
+
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: center;">
+    <img src="../images/cmc251.png" alt="5" style="width: 250px; height: 178px; margin: 10px 0;">
+    <img src="../images/cmc25.png" alt="5" style="width: 250px; height: 178px; margin: 10px 0;">
+  </td>
+</tr>
+
+
+
+
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2025</td>
