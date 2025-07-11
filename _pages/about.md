@@ -45,8 +45,8 @@ ___
 <tr>
   <td style="border: none;"></td>
   <td style="border: none; text-align: left;">
-    <img src="../images/cmc251.png" alt="5" style="width: 220px; height: 155px; margin: 10px 15px 10px 0;">
-    <img src="../images/cmc25.png" alt="5" style="width: 220px; height: 155px; margin: 10px 0;">
+    <img src="../images/cmc251.png" alt="5" style="width: 220px; height: 155px; margin: 10px 15px 10px 0; display: inline-block; vertical-align: top; border-radius: 5px;">
+    <img src="../images/cmc25.png" alt="5" style="width: 220px; height: 155px; margin: 10px 0; display: inline-block; vertical-align: top; border-radius: 5px;">
   </td>
 </tr>
 
