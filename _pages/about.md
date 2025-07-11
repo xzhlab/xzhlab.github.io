@@ -136,10 +136,12 @@ ___
 
     
    <tr>
+     <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"></td>
 <div style="flex: 1 0 30%; margin: 10px; text-align: center;">
     <img src="../images/Ita.png" alt="5" style="width: 190px; height: 190px; margin-bottom: 10px;">
   
   </div>
+  </td>
    </tr>
 
 
