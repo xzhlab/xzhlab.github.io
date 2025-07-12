@@ -79,7 +79,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">May 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> recieves a funding from <i>Natural Science Basic Research Program of Shaanxi Province</i>. Way to go!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> recieves a funding from <i>Natural Science Basic Research Program of Shaanxi Province</i>.</td>
     </tr>
 
  <tr>
