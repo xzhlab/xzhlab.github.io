@@ -89,7 +89,7 @@ ___
 
    <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> recieves a funding from <i><span style="color: #99d7d1;">Fundamental Research Funds for the Central Universities</span></i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> recieves a funding from <i>Fundamental Research Funds for the Central Universities<span style="color: #99d7d1;"></span></i>. </td>
     </tr>
 
 
@@ -285,7 +285,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> recieve fundings from Fundamental Research Funds for the Central Universitiesi><span style="color: #99d7d1;"></span></i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> recieve fundings from <i>Fundamental Research Funds for the Central Universities<span style="color: #99d7d1;"></span></i>. </td>
     </tr>
     
      <tr>
