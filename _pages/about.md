@@ -69,9 +69,9 @@ ___
 <tr>
   <td style="border: none;"></td>
   <td style="border: none; text-align: left;">
-    <img src="../images/yo1.png" alt="5" style="width: 180px; height: 135px; margin: 10px 15px 4px 0;; display: inline-block; vertical-align: top; border-radius: 8px;">
-    <img src="../images/tu2.png" alt="5" style="width: 180px; height: 135px; margin: 10px 15px 4px 0;; display: inline-block; vertical-align: top; border-radius: 8px;">
-    <img src="../images/tu1.png" alt="5" style="width: 180px; height: 135px; margin: 10px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <img src="../images/yo1.png" alt="5" style="width: 180px; height: 135px; margin: 10px 15px 4px 0;; display: inline-block; vertical-align: top; border-radius: 6px;">
+    <img src="../images/tu2.png" alt="5" style="width: 180px; height: 135px; margin: 10px 15px 4px 0;; display: inline-block; vertical-align: top; border-radius: 6px;">
+    <img src="../images/tu1.png" alt="5" style="width: 180px; height: 135px; margin: 10px 0; display: inline-block; vertical-align: top; border-radius: 6px;">
   </td>
 </tr>
 
