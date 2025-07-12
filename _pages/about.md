@@ -126,7 +126,7 @@ ___
     
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits the <em><strong><span style="color: #3b974b;">NVIDIA GPU</span></strong> Education Center</em> and <em><strong><span style="color: #3b974b;">NVIDIA CUDA</span></strong> Teaching Center</em> with <strong><i>Yifan</i></strong> at <em>Southwest Petroleum University, Chengdu.</em></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits the <em><strong><span style="color: #3b974b;">NVIDIA GPU Education Center</span></strong></em> and <em><strong><span style="color: #3b974b;">NVIDIA CUDA Teaching Center</span></strong></em> with <strong><i>Yifan</i></strong> at <em>Southwest Petroleum University, Chengdu.</em></td>
     </tr>
       
     <tr>
