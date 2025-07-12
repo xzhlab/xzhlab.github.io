@@ -89,7 +89,7 @@ ___
 
    <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> recieves a funding from <i>Fundamental Research Funds for the Central Universities</i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> recieves a funding from <i><span style="color: #99d7d1;">Fundamental Research Funds for the Central Universities</span></i>. </td>
     </tr>
 
 
@@ -248,6 +248,11 @@ ___
       <td style="border: none;"><strong><i>Xuezhi</i></strong> receives the second grant from <strong><span style="color: #1488b8;">NSFC</span></strong>. </td>
     </tr>
 
+ <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2022</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> recieves the second funding from <i><span style="color: #99d7d1;">Fundamental Research Funds for the Central Universities</span></i>. </td>
+    </tr>
+
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2022</td>
       <td style="border: none;"><strong><i>Junwei</i></strong> gets his work <em>Ultralow oxygen ion diffusivity in pyrochlore-type La2(Zr0.7Ce0.3)2O7</em> published on <em>Journal of Materials Science & Technology</em>.</td>
@@ -276,6 +281,11 @@ ___
       <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2020</td>
       <td style="border: none;"><strong><i>Xuezhi</i></strong> visits <em>The University of Tulsa, OK, United States</em>.</td>
+    </tr>
+
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> recieve fundings from <i><span style="color: #99d7d1;">Fundamental Research Funds for the Central Universities</span></i>. </td>
     </tr>
     
      <tr>
