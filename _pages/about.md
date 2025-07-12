@@ -38,7 +38,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> give <span style="color: #eac04b;">invited talks</span> at <em>CMC 2025, Xiamen.</em></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> give invited talks<span style="color: #eac04b;"></span> at <em>CMC 2025, Xiamen.</em></td>
     </tr>
 
 
@@ -163,7 +163,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> attends <em><span style="color: #20b2aa;">School and Workshop on Frontiers of Nanomechanics</span></em> hosted by <strong><span style="color: #0091cc;">the Abdus Salam International Centre for Theoretical Physics (ICTP)</span></strong> at <em>Trieste, Italy</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> attends <em><span style="color: #20b2aa;">School and Workshop on Frontiers of Nanomechanics</span></em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics <span style="color: #0091cc;">(ICTP)</span></strong> at <em>Trieste, Italy</em>.</td>
     </tr>
 
     
@@ -185,7 +185,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2024</td>
-      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> give <span style="color: #eac04b;">invited talks</span> at <em>the 2nd World Materials Conference, Guangzhou</em>.</td>
+      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> give invited talks<span style="color: #eac04b;"></span> at <em>the 2nd World Materials Conference, Guangzhou</em>.</td>
     </tr>
 
 <tr>
