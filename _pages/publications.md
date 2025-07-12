@@ -6,7 +6,7 @@ author_profile: true
 ---
 <strong style="font-size: 16px; color: #7a2b2b;">2025</strong>
 
-<span style="font-size:16px"> *Wang, X., 2025. An Atomic Perspective of Crack Propagation Under Thermal Stress Field at High Temperature in Biphase High-Entropy Coupled Ceramics Composites* Under review. <span>
+<span style="font-size:16px"> *X. Wang, Z. Chen, J. Che, et al. An Atomic Perspective of Crack Propagation Under Thermal Stress Field at High Temperature in Biphase High-Entropy Coupled Ceramics Composites* Under review. <span>
 
 <span style="font-size:16px"> *Chen, Z., Linghu, J., Zhang, Q., Che, J., Wang, X. and Wei, S., 2025. A Highly Polarization-sensitive Near-infrared Photodetector Based on Two-dimensional Germanane/α-CdS Heterostructure. 2025 2D Mater. 12 025012*. <span>
 
@@ -20,9 +20,9 @@ author_profile: true
 
 <span style="font-size:16px"> *Wang, Y., W. Huang, J. Che, Wang, X., Four-phonon scattering significantly reduces the predicted lattice thermal conductivity in penta-graphene: A machine learning-assisted investigation. Computational Materials Science, 2023. 229: p. 112435* <span>
 
-<span style="font-size:16px"> *Huang, W., J. Che, X. Wang  , N. Peng  , Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19. Journal of Alloys and Compounds, 2023: p. 170245.* <span>
+<span style="font-size:16px"> *Huang, W., J. Che, X. Wang, N. Peng, Thermal transport properties and lattice vibration modes in crystalline and amorphous LaMgAl11O19. Journal of Alloys and Compounds, 2023: p. 170245.* <span>
 
-<span style="font-size:16px"> *Wang, X., Tang Yu-Ting, Che Jun-Wei, Linghu Jia-Jun, Hou Zhao-Yang. Mechanism of amorphous-like thermal conductivity in binary oxide Yb3TaO7. Acta Phys. Sin., 2023, 72(5): 056101.* <span>
+<span style="font-size:16px"> *Wang, X., Tang Y., Che J., Linghu J., Hou Z. Mechanism of amorphous-like thermal conductivity in binary oxide Yb3TaO7. Acta Phys. Sin., 2023, 72(5): 056101.* <span>
 
 <span style="font-size:16px"> *Wang, X., J. Che, W. Huang, et al., Mechanism of crack propagation in penta-graphene. Vacuum, 2023. 207: p. 111582.* <span>
 
