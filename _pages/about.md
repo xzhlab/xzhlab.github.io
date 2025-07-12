@@ -245,7 +245,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong><span style="color: #1488b8;">NSFC</span></strong>. </td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives the second grant from <strong><span style="color: #1488b8;">NSFC</span></strong>. </td>
     </tr>
 
     <tr>
