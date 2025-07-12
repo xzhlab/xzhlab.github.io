@@ -79,7 +79,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">May 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> recieves a funding from <i><span style="color: #6eb9c7;">Natural Science Basic Research Program of Shaanxi Province</span></i>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> recieves a funding from <i>Natural Science Basic Research Program of Shaanxi Province<span style="color: #6eb9c7;"></span></i>.</td>
     </tr>
 
  <tr>
@@ -131,7 +131,7 @@ ___
       
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em><span style="color: #e28718;">The University of Virginia</span>, VA, United States</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>The University of Virginia<span style="color: #e28718;"></span>, VA, United States</em>.</td>
     </tr>
     
     <tr>
@@ -190,7 +190,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em><span style="color: #b525e8;">Tsinghua University</span>, Beijing</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Tsinghua University<span style="color: #b525e8;"></span>, Beijing</em>.</td>
     </tr>
     
     <tr>
@@ -200,7 +200,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2023</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em><span style="color: #c83215;">Cornell University</span>, NY, United States</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Cornell University<span style="color: #c83215;"></span>, NY, United States</em>.</td>
     </tr>
 
   <tr>
@@ -250,7 +250,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2022</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> recieves the second funding from <i><span style="color: #99d7d1;">Fundamental Research Funds for the Central Universities</span></i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> recieves the second funding from <i>Fundamental Research Funds for the Central Universities<span style="color: #99d7d1;"></span></i>. </td>
     </tr>
 
     <tr>
