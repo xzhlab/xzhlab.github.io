@@ -79,7 +79,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">May 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> recieves a funding from <i>Natural Science Basic Research Program of Shaanxi Province</i>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> recieves a funding from <i><span style="color: #6eb9c7;">Natural Science Basic Research Program of Shaanxi Province</span></i>.</td>
     </tr>
 
  <tr>
@@ -275,7 +275,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2020</td>
-      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both get supports from <i>Natural Science Basic Research Program of Shaanxi Province</i>. </td>
+      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both get supports from <i><span style="color: #6eb9c7;">Natural Science Basic Research Program of Shaanxi Province</span></i>. </td>
     </tr>
     
       <tr>
