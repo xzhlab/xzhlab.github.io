@@ -146,7 +146,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Dec 2024</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong>NSFC</strong>. The <strong>THIRD ONE</strong>! </td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong><span style="color: #20b2aa;">NSFC</span></strong>. The <strong>THIRD ONE</strong>! </td>
     </tr>
     
     <tr>
@@ -245,7 +245,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong>NSFC</strong>. </td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong><span style="color: #20b2aa;">NSFC</span></strong>. </td>
     </tr>
 
     <tr>
@@ -280,7 +280,7 @@ ___
     
      <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Oct 2019</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong>NSFC</strong>. The <strong>FIRST ONE</strong>! </td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> receives a grant from <strong><span style="color: #20b2aa;">NSFC</span></strong>. The <strong>FIRST ONE</strong>! </td>
     </tr>
     
   </table>
