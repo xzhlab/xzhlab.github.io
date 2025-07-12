@@ -131,7 +131,7 @@ ___
       
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>The University of Virginia, VA, United States</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em><span style="color: #e28718;">The University of Virginia</span>, VA, United States</em>.</td>
     </tr>
     
     <tr>
@@ -190,7 +190,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Tsinghua University, Beijing</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em><span style="color: #b525e8;">Tsinghua University</span>, Beijing</em>.</td>
     </tr>
     
     <tr>
@@ -200,7 +200,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2023</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em>Cornell University, NY, United States</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <em><span style="color: #c83215;">Cornell University</span>, NY, United States</em>.</td>
     </tr>
 
   <tr>
@@ -280,7 +280,7 @@ ___
     
       <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2020</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> visits <em>The University of Tulsa, OK, United States</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> visits <em><span style="color: #1488b8;">The University of Tulsa</span>, OK, United States</em>.</td>
     </tr>
 
 <tr>
