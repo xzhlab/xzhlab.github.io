@@ -275,17 +275,17 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2020</td>
-      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both get supports from <i><span style="color: #6eb9c7;">Natural Science Basic Research Program of Shaanxi Province</span></i>. </td>
+      <td style="border: none;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> both get supports from <i>Natural Science Basic Research Program of Shaanxi Province<span style="color: #6eb9c7;"></span></i>. </td>
     </tr>
     
       <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Jan 2020</td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> visits <em><span style="color: #1488b8;">The University of Tulsa</span>, OK, United States</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> visits <em>The University of Tulsa<span style="color: #1488b8;"></span>, OK, United States</em>.</td>
     </tr>
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> recieve fundings from <i><span style="color: #99d7d1;">Fundamental Research Funds for the Central Universities</span></i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Xuezhi</i></strong> recieve fundings from Fundamental Research Funds for the Central Universitiesi><span style="color: #99d7d1;"></span></i>. </td>
     </tr>
     
      <tr>
