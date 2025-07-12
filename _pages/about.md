@@ -163,7 +163,7 @@ ___
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none;"><strong><i>Xuezhi</i></strong> attends <em>School and Workshop on Frontiers of Nanomechanics</em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at <em>Trieste, Italy</em>.</td>
+      <td style="border: none;"><strong><i>Xuezhi</i></strong> attends <em><span style="color: #20b2aa;">School and Workshop on Frontiers of Nanomechanics</span></em> hosted by <strong>the Abdus Salam International Centre for Theoretical Physics (ICTP)</strong> at <em>Trieste, Italy</em>.</td>
     </tr>
 
     
