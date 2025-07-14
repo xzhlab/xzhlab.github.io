@@ -62,7 +62,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Yousra</i></strong> gives a talk <i>Dimension</i>, and <strong><i>Isha</i></strong> gives a talk <i>Quantum Entanglement</i> to the undergraduates from Physics Department. Excellent Job!</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yousra</i></strong> gives a talk on <i>Dimension</i>, and <strong><i>Isha</i></strong> gives a talk on <i>Quantum Entanglement</i> to the undergraduates from Physics Department. Excellent Job!</td>
     </tr>
 
 
