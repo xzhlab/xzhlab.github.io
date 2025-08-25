@@ -38,7 +38,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visit <strong><i>Dr. Lu Wang</i></strong> at <em>the University of Michigan, Ann Arbor, MI, United States</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visit <em>the University of Michigan, Ann Arbor, MI, United States</em> with <strong><i>Dr. Lu Wang</i></strong>.</td>
     </tr>
 
 <tr>
