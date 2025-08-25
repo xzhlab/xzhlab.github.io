@@ -30,6 +30,29 @@ ___
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
      </tr>
 
+
+ <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Aug 2025</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> and <strong><i>Zhengwang</i></strong> get the paper <em>An atomic perspective of crack propagation under thermal stress field at high temperature in biphase high-entropy coupled ceramics composites</em> published on <em>Materials Today Communications</em>.</td>
+    </tr>
+
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visit Dr. Lu Wang at <em>the University of Michigan, Ann Arbor, MI, United States</em>.</td>
+    </tr>
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/xzwlw.png" alt="5" style="width: 220px; height: 155px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <img src="../images/xzwlw.png" alt="5" style="width: 220px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+  </td>
+</tr>
+
+
+
+
+
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jul 2025</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> wins the <strong><i>Outstanding Award</i></strong> from <em>The Academic Forum on Frontiers of Basic Disciplines and Innovation in Interdisciplinary Studies</em>!</td>
