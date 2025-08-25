@@ -6,7 +6,7 @@ author_profile: true
 ---
 <strong style="font-size: 16px; color: #7a2b2b;">2025</strong>
 
-<span style="font-size:16px"> *X. Wang, Z. Chen, J. Che, et al. An Atomic Perspective of Crack Propagation Under Thermal Stress Field at High Temperature in Biphase High-Entropy Coupled Ceramics Composites.* Materials Today Communications, Volume 48, 2025, 113573, ISSN 2352-4928.<span>
+<span style="font-size:16px"> *X. Wang, Z. Chen, J. Che, et al. An Atomic Perspective of Crack Propagation Under Thermal Stress Field at High Temperature in Biphase High-Entropy Coupled Ceramics Composites. Materials Today Communications, Volume 48, 2025, 113573, ISSN 2352-4928*.<span>
 
 <span style="font-size:16px"> *Chen, Z., Linghu, J., Zhang, Q., Che, J., Wang, X. and Wei, S., 2025. A Highly Polarization-sensitive Near-infrared Photodetector Based on Two-dimensional Germanane/α-CdS Heterostructure. 2025 2D Mater. 12 025012*. <span>
 
