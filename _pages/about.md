@@ -144,7 +144,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> visit <em>Shenzhen University, Shenzhen</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> visit <strong><i>Prof. Songrui Wei</i></strong> at <em>Shenzhen University, Shenzhen</em>.</td>
     </tr>
 
 
