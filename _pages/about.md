@@ -183,6 +183,21 @@ ___
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits the <em><strong><span style="color: #3b974b;">NVIDIA GPU Education Center</span></strong></em> and <em><strong><span style="color: #3b974b;">NVIDIA CUDA Teaching Center</span></strong></em> with <strong><i>Yifan</i></strong> at <em>Southwest Petroleum University, Chengdu.</em></td>
     </tr>
+
+
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/nv1.png" alt="5" style="width: 220px; height: 155px; margin: 7px 8px 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <img src="../images/nv2.png" alt="5" style="width: 225px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+  </td>
+</tr>
+
+
+
+
+
       
     <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2025</td>
