@@ -35,6 +35,10 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> and <strong><i>Jiajun</i></strong> attend <em>CPS Fall meeting 2025</em> at <em>Harbin</em>.</td>
     </tr>
 
+ <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> gets the work <em>Synergistically Enhanced Thermophysical and Mechanical Properties of La2(Hf1‒xCex)2O7 for Thermal Barrier Coatings</em> published on <em>Ceramics International</em>.</td>
+    </tr>
 
 
  <tr>
