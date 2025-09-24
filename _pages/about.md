@@ -147,6 +147,17 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> and <strong><i>Xuezhi</i></strong> visit <em>Shenzhen University, Shenzhen</em>.</td>
     </tr>
 
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/xzwlw.png" alt="5" style="width: 220px; height: 155px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <!--<img src="../images/wsr.png" alt="5" style="width: 220px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">-->
+  </td>
+</tr>
+
+
+
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Jiajie Zhang</i></strong>, <strong><i>Zhihao Zhou</i></strong>, <strong><i>Tianjun Wen</i></strong>, <strong><i>Zidong Liang</i></strong>, <strong><i>Isha Abdulai Turay</i></strong> and <strong><i>Yousra El Mouloudi</i></strong> join our lab for undergraduate internship. Welcome!</td>
