@@ -287,6 +287,18 @@ ___
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2023</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attends <em>the 11th International Conference on Materials for Advanced Technologies, Singapore</em>.</td>
     </tr>
+
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/lh3.png" alt="5" style="width: 220px; height: 155px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <img src="../images/lh3.png" alt="5" style="width: 220px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+  </td>
+</tr>
+
+
+
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Mar 2023</td>
