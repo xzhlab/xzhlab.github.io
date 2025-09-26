@@ -190,7 +190,7 @@ ___
   <td style="border: none;"></td>
   <td style="border: none; text-align: left;">
     <img src="../images/nv1.png" alt="5" style="width: 220px; height: 155px; margin: 7px 8px 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
-    <img src="../images/nv2.png" alt="5" style="width: 225px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+   
   </td>
 </tr>
 
