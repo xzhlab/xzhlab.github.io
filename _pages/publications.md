@@ -29,7 +29,7 @@ author_profile: true
 
 <span style="font-size:16px"> *Linghu, J., T. Song, T. Yang, X. Wang, et al., Computational prediction of stable semiconducting Zn-C binary compounds. Materials Science in Semiconductor Processing, 2023. 155: p. 107237.* <span>
 
-<strong style="font-size: 16px; color: #7a2b2b;">Before 2022</strong>
+<strong style="font-size: 16px; color: #7a2b2b;">2022</strong>
 
 
 <span style="font-size:16px"> *Wang, X., J. Che, and X. Liu, Effect of yttria on thermal transport and vibrational modes in yttria-stabilized hafnia. Ceramics International, 2022. 48(21): p. 31705-31713.* <span>
@@ -41,6 +41,8 @@ author_profile: true
 <span style="font-size:16px"> *Che, J., X. Liu, X. Wang, et al., Ultralow oxygen ion diffusivity in pyrochlore-type La2(Zr0.7Ce0.3)2O7. Journal of Materials Science & Technology, 2022. 102: p. 174-185.* <span>
 
 <span style="font-size:16px"> *Che, J., X. Wang, X. Liu, et al., Thermal transport property in pyrochlore-type and fluorite-type A2B2O7 oxides by molecular dynamics simulation. International Journal of Heat and Mass Transfer, 2022. 182: p. 122038.* <span>
+
+<strong style="font-size: 16px; color: #7a2b2b;">Before 2021</strong>
 
 <span style="font-size:16px"> *Ai, T., J. Liu, H. Qiu, X. Wang, et al., Removal behavior and performance analysis of defective silicon carbide in nano-grinding. Precision Engineering, 2021. 72: p. 858-869.* <span>
 
