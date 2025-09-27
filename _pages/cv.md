@@ -76,7 +76,7 @@ redirect_from:
 
 <br>
 <div style="margin-left: 70px; text-align: center;">    
-<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Research Partner</h1> </span> 
+<span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Research Partners</h1> </span> 
  </div>
  
 <br>
