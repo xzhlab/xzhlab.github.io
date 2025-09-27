@@ -32,7 +32,7 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> and <strong><i>Jiajun</i></strong> attend <em>CPS Fall meeting 2025</em> at <em>Harbin</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> and <strong><i>Jiajun</i></strong> attend <em>CPS Fall meeting 2025</em>, <em>Harbin</em>.</td>
     </tr>
 
  <tr>
