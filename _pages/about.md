@@ -32,7 +32,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Oct 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> is invited as session chair at <em>IEEE SMC 2025, Vienna, Austria</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> is invited as the session chair of <em>Asymmetric U-Net with Gaussian Splatting for Single-View 3D Reconstruction (I)</em> at <em>IEEE SMC 2025, Vienna, Austria</em>.</td>
     </tr>
 
 <tr>
