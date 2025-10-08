@@ -30,6 +30,22 @@ ___
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
      </tr>
 
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Oct 2025</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> is invited as session chair at <em>IEEE SMC 2025, Vienna, Austria</em>.</td>
+    </tr>
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/yfeu.png" alt="5" style="width: 220px; height: 155px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <!--<img src="../images/xzwlw.png" alt="5" style="width: 220px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">-->
+  </td>
+</tr>
+
+
+
+
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2025</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> and <strong><i>Jiajun</i></strong> attend <em>CPS Fall meeting 2025</em>, <em>Harbin</em>.</td>
