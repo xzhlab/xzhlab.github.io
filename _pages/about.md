@@ -48,6 +48,17 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> visits <strong><i>Dr. Kefu Yi</i></strong> at <em>Changsha University of Science & Technology, Changsha</em>.</td>
     </tr>
 
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/kfy.png" alt="5" style="width: 220px; height: 145px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <!--<img src="../images/xzwlw.png" alt="5" style="width: 220px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">-->
+  </td>
+</tr>
+
+
+
+
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2025</td>
