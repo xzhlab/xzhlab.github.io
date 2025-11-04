@@ -31,6 +31,24 @@ ___
      </tr>
 
 <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Nov 2025</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited to give a tal at <em>IWMM 2025</em> at <em>Shaanxi University of Science & Technology, Xi'an</em>.</td>
+    </tr>
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/iwmm.png" alt="5" style="width: 220px; height: 145px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <!--<img src="../images/xzwlw.png" alt="5" style="width: 220px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">-->
+  </td>
+</tr>
+
+
+
+
+
+
+<tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Oct 2025</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> is invited as the session chair of <em>Asymmetric U-Net with Gaussian Splatting for Single-View 3D Reconstruction (I)</em> at <em>IEEE SMC 2025, Vienna, Austria</em>.</td>
     </tr>
