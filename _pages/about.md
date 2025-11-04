@@ -32,7 +32,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Nov 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited to give a tal at <em>IWMM 2025</em> at <em>Shaanxi University of Science & Technology, Xi'an</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited to give a talk at <em>IWMM 2025</em> at <em>Shaanxi University of Science & Technology, Xi'an</em>.</td>
     </tr>
 
 <tr>
