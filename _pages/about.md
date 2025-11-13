@@ -52,7 +52,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Lei</i></strong> and <strong><i>Yifan</i></strong> launch the TS software.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Lei</i></strong> and <strong><i>Yifan</i></strong> launch the <i>TS</i> software v1.0.</td>
     </tr>
 
 
