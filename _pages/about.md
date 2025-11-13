@@ -50,7 +50,10 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Simiao Yan</i></strong> joins our lab for undergraduate internship. Welcome!</td>
     </tr>
 
-
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Lei</i></strong> and <strong><i>Yifan</i></strong> launch the TS software.</td>
+    </tr>
 
 
 <tr>
