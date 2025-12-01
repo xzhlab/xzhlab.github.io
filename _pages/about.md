@@ -44,6 +44,23 @@ ___
 </tr>
 
 
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang, Zhihao, Isha, Beijie and Simiao</i></strong> give their research reports at group meeting.</td>
+    </tr>
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/mt1.png" alt="5" style="width: 220px; height: 155px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <img src="../images/mt2.png" alt="5" style="width: 220px; height: 155px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+  </td>
+</tr>
+
+
+
+
+
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
