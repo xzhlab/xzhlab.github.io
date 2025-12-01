@@ -206,12 +206,12 @@ ___
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> gives a lecture at <i>Yanshan University, Qinhuangdao</i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> gives a lecture at <i>Yanshan University, Qinhuangdao</i>. </td>
     </tr>
 
    <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Linghu</i></strong> recieves a funding from <i>Fundamental Research Funds for the Central Universities<span style="color: #99d7d1;"></span></i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> recieves a funding from <i>Fundamental Research Funds for the Central Universities<span style="color: #99d7d1;"></span></i>. </td>
     </tr>
 
 
