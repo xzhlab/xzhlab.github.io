@@ -33,7 +33,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2025</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Linghu</i></strong> is appointed as an <strong><i>associate professor</i></strong> in physics. Congratulations！</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Linghu</i></strong> is appointed as an <strong><i>associate professor</i></strong> in physics. Congrats！</td>
     </tr>
 
 
