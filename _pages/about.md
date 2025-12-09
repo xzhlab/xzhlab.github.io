@@ -36,6 +36,10 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Linghu</i></strong> is appointed as an <strong><i>associate professor</i></strong> in physics. Congrats！</td>
     </tr>
 
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is enrolled as an <strong><i>Visiting scholar</i></strong> at <i>Xi'an Jiaotong University</i>.</td>
+    </tr>
 
 
 <tr>
