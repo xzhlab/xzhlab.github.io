@@ -40,6 +40,11 @@ ___
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is enrolled as a <strong><i>Visiting scholar</i></strong> of <i>I-Habor, Xi'an Jiaotong University</i>.</td>
     </tr>
+    
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> launches a startup.</td>
+    </tr>
 
 
 <tr>
