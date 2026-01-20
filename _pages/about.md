@@ -30,6 +30,14 @@ ___
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
      </tr>
 
+    
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2026</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> an industry-sponsored project with <i>D Co</i>. </td>
+    </tr>
+
+
+
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Dec 2025</td>
