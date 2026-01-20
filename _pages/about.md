@@ -33,7 +33,7 @@ ___
     
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2026</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> signs an industry-sponsored project with <i>D Co</i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> signs an industry-sponsored project with <i>D. Co</i>. </td>
     </tr>
 
 
