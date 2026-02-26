@@ -4,9 +4,14 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+<strong style="font-size: 16px; color: #7a2b2b;">2026</strong>
+
+<span style="font-size:16px"> *J. Che, X. Wang. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, Online*.<span>
+
+
 <strong style="font-size: 16px; color: #7a2b2b;">2025</strong>
 
-<span style="font-size:16px"> *J. Che, G. Ren, X. Wang. Synergistically enhanced thermophysical and mechanical properties of La2(Hf1‒xCex)2O7 for thermal barrier coatings. Ceramics International, Online*.<span>
+<span style="font-size:16px"> *J. Che, G. Ren, X. Wang. Synergistically enhanced thermophysical and mechanical properties of La2(Hf1‒xCex)2O7 for thermal barrier coatings. Ceramics International, 2025. 51(28): p. 56123-56132*.<span>
 
 <span style="font-size:16px"> *X. Wang, Z. Chen, J. Che, et al. An Atomic Perspective of Crack Propagation Under Thermal Stress Field at High Temperature in Biphase High-Entropy Coupled Ceramics Composites. Materials Today Communications, Volume 48, 2025, 113573, ISSN 2352-4928*.<span>
 
