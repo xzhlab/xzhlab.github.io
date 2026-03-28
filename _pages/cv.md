@@ -67,6 +67,22 @@ redirect_from:
     <strong><em>Co-PI</em></strong>
   </p>
 
+</div><br><br>
+
+
+ <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/yz.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
+  <em style="font-size: 16px;">Dr. Xu received her Ph.D. degree in Theoretical Solid State Physics from RWTH Aachen University, Germany. She is currently an assistant professor in Physics at Chang'an University. Her research focuses on phase-change memory materials and quasi-two-dimensional (quasi-2D) systems, with particular emphasis on their structural evolution and electronic properties. Her work combines large-scale electronic structure analysis with advanced computational methods, including first-principles calculations, large-scale ab initio molecular dynamics simulations, and machine learning techniques for the development and optimization of interatomic potentials. </em>
+</div>
+<div>
+  <p class="name" style="font-size:17px; margin: 0px; line-height:1.2">
+    <em>Dr. Yazhi Xu</em>
+  </p>
+  <p class="name" style="font-size:14px; margin:0; line-height:1.5; 
+                        position: relative; left: 35px;">
+    <strong><em>Co-PI</em></strong>
+  </p>
+
 </div>
 <hr style="border: 0; 
           height: 1px; 
