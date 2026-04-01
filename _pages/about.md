@@ -56,13 +56,6 @@ ___
     </tr>
 
 
-
-<tr>
-      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2026</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> gets the work <em>Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation</em> published on <em>Computational Materials Science</em>.</td>
-    </tr>
-
-
     
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2026</td>
