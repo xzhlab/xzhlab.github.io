@@ -31,6 +31,24 @@ ___
      </tr>
 
 <tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2026</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yazhi</i></strong> and <strong><i>Jiajun</i></strong> attend <em>AI+ Materials</em> at <em>Guangzhou</em>.</td>
+    </tr>
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/lhyz.png" alt="5" style="width: 220px; height: 145px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+      </td>
+</tr>
+
+
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Yazhi</i></strong> recieves a funding from <i>SAFS</i>. Congrats!</td>
+    </tr>
+
+
+<tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2026</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attends <em>IEEE ICAIM 2026</em> at <em>Changsha</em>.</td>
     </tr>
