@@ -33,7 +33,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">May 2026</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Kefu</i></strong> leads the team to release <i>Tfv v1.0</i>. </td>
+      <td style="border: none; word-wrap: break-word;"><i>Fv v1.0</i> is released. </td>
     </tr>
 
 
