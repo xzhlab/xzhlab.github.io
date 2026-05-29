@@ -35,8 +35,17 @@ ___
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">May 2026</td>
       <td style="border: none; word-wrap: break-word;"><i>Fv v1.0</i> is released. </td>
     </tr>
-
-
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><i>Yifan</i> visits the lab. </td>
+    </tr>
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/yf1.png" alt="5" style="width: 208px; height: 145px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+ 
+  </td>
+</tr>
 
 
 <tr>
