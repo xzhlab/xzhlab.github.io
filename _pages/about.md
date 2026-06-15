@@ -34,7 +34,6 @@ ___
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2026</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attends <em>The 8th National Young Scholars Academic Exchange Conference on Solid State Ionics</em> at <em>Qingdao</em>. </td>
     </tr>
-<tr>
 
 
 
