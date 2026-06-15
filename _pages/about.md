@@ -37,7 +37,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> gets the work <em>Revisiting phonon thermal transport in perovskite CsPbBr3 crystals: critical role of temperature-dependent quartic anharmonicity</em> published on <em>CApplied Physics Letters</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> gets the work <em>Revisiting phonon thermal transport in perovskite CsPbBr3 crystals: critical role of temperature-dependent quartic anharmonicity</em> published on <em>Applied Physics Letters</em>.</td>
     </tr>
 
 <tr>
