@@ -6,7 +6,9 @@ author_profile: true
 ---
 <strong style="font-size: 16px; color: #7a2b2b;">2026</strong>
 
-<span style="font-size:16px"> *J. Che, X. Wang. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, Online*.<span>
+<span style="font-size:16px"> *J. Che, X. Wang. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, 267, 114606*.<span>
+
+<span style="font-size:16px"> *J. Che, G. Ren, X. Wang, S. Zhang. Revisiting phonon thermal transport in perovskite CsPbBr3 crystals: critical role of temperature-dependent quartic anharmonicity. Applied Physics Letters, Vol.128, Issue 24*.<span>
 
 
 <strong style="font-size: 16px; color: #7a2b2b;">2025</strong>
