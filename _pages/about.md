@@ -35,7 +35,10 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attends <em>The 8th National Young Scholars Academic Exchange Conference on Solid State Ionics</em> at <em>Qingdao</em>. </td>
     </tr>
 
-
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> gets the work <em>Revisiting phonon thermal transport in perovskite CsPbBr3 crystals: critical role of temperature-dependent quartic anharmonicity</em> published on <em>CApplied Physics Letters</em>.</td>
+    </tr>
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">May 2026</td>
