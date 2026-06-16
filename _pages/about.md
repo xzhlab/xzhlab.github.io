@@ -532,6 +532,16 @@ ___
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Sep 2022</td>
       <td style="border: none;"><strong><i>Junwei</i></strong> gets his work <em>Fluctuating bonding leads to glass-like thermal conductivity in perovskite rare-earth tantalates</em> published on <strong><em><span style="color: #4682b4;">Acta Materialia</span></em></strong>. Congratulations!</td>
     </tr>
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/acta.png" alt="5" style="width: 115px; height: 153px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    
+  </td>
+</tr>
+
+
     
     <tr>
       <td style="color: #7a2b2b; border: none; vertical-align: top; text-align: right;">Aug 2022</td>
