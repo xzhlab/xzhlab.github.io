@@ -37,6 +37,13 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><iJiajun</i></strong> publishes the <em>RSelf-driven near-Infrared photodetector based on WTe2/PdS2 two-dimensional heterostructure with ultra-high polarization sensitivity</em> on <strong><span style="color: #1488b8;"><em>Surfaces and Interfaces</em></span></strong>.</td>
+    </tr>
+
+
+
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> gets the work <em>Revisiting phonon thermal transport in perovskite CsPbBr3 crystals: critical role of temperature-dependent quartic anharmonicity</em> published on <strong><span style="color: #1488b8;"><em>Applied Physics Letters</em></span></strong>.</td>
     </tr>
 
