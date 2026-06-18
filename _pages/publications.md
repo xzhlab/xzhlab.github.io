@@ -6,6 +6,8 @@ author_profile: true
 ---
 <strong style="font-size: 16px; color: #7a2b2b;">2026</strong>
 
+<span style="font-size:16px"> *J. Linghu, J. Wen, Z. Liang, X. Sun, J. Zhang, X. Wang, J. Che, S. Wei. Self-driven near-Infrared photodetector based on WTe2/PdS2 two-dimensional heterostructure with ultra-high polarization sensitivity, Surfaces and Interfaces, online*.<span>
+
 <span style="font-size:16px"> *J. Che, X. Wang. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, 267, 114606*.<span>
 
 <span style="font-size:16px"> *J. Che, G. Ren, X. Wang, S. Zhang. Revisiting phonon thermal transport in perovskite CsPbBr3 crystals: critical role of temperature-dependent quartic anharmonicity. Applied Physics Letters, Vol.128, Issue 24*.<span>
