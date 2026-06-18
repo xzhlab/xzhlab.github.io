@@ -37,7 +37,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Tianjun</i></strong> publishes the <em>RSelf-driven near-Infrared photodetector based on WTe2/PdS2 two-dimensional heterostructure with ultra-high polarization sensitivity</em> on <em>Surfaces and Interfaces</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Tianjun</i></strong> publish the <em>Self-driven near-Infrared photodetector based on WTe2/PdS2 two-dimensional heterostructure with ultra-high polarization sensitivity</em> on <em>Surfaces and Interfaces</em>.</td>
     </tr>
 
 
