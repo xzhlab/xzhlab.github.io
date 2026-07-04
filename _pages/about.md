@@ -35,7 +35,6 @@ ___
       <td style="border: none; word-wrap: break-word;"><<strong><i>Mingxuan Li</i></strong> joins our lab for undergraduate internship. Welcome! </td>
     </tr>
 
-<tr>
 
 
 
