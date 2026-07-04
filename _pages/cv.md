@@ -358,6 +358,18 @@ redirect_from:
     </em>
   </div>
 
+ <!-- 第2个成员 -->
+  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="../images/lmx.png" 
+         alt="zz"
+         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Mingxuan Li</em>
+    </p>
+    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
+       <!--Mark is interested in semiconductor physics.-->
+    </em>
+  </div>
   
 </div>
 
