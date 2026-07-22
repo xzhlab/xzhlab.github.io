@@ -149,15 +149,49 @@ redirect_from:
 
 <br>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/zw.png" alt="Person's Name" style="width: 150px; height: 150px; margin-right: 40px; border-radius: 50%;">
-  <em style="font-size: 16px;">Zhengwang received his B.S. in Mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics. </em>
-</div>
-<div>
-  <p class="name" style="font-size:17px; margin:0; line-height:1.2">
-    <em>Zhengwang Chen </em>
-  </p>
+<div style="display:flex; gap:50px; align-items:flex-start;">
 
+  <!-- Person 1 -->
+  <div style="display:flex; flex:1;">
+
+    <div style="width:150px; text-align:center; margin-right:20px;">
+      <img src="../images/zw.png"
+           alt="Zhengwang Chen"
+           style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+
+      <p style="margin-top:10px; font-size:17px;">
+        <em>Zhengwang Chen</em>
+      </p>
+    </div>
+
+    <div style="flex:1;">
+      <p style="font-size:16px; line-height:1.8;">
+        Zhengwang received his B.S. in Mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
+      </p>
+    </div>
+
+  </div>
+
+  <!-- Person 2 -->
+  <div style="display:flex; flex:1;">
+
+    <div style="width:150px; text-align:center; margin-right:20px;">
+      <img src="../images/yw.png"
+           alt="Yuyang Kuang"
+           style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+
+      <p style="margin-top:10px; font-size:17px;">
+        <em>Yuyang Kuang</em>
+      </p>
+    </div>
+
+    <div style="flex:1;">
+      <p style="font-size:16px; line-height:1.8;">
+        Yuyang received his B.S. in Mechanics from Harbin University of Science and Technology. His research focuses on AI-assisted atomic mechanics.
+      </p>
+    </div>
+
+  </div>
 
 </div>
 
