@@ -166,7 +166,7 @@ redirect_from:
 
     <div style="flex:1;">
       <p style="font-size:16px; line-height:1.8;">
-        Zhengwang received his B.S. in Mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.
+        <em>Zhengwang received his B.S. in Mechanics from Xi'an University of Science and Technology. His research focuses on crack growth mechanics.</em>
       </p>
     </div>
 
@@ -187,7 +187,7 @@ redirect_from:
 
     <div style="flex:1;">
       <p style="font-size:16px; line-height:1.8;">
-        Yuyang received his B.S. in Mechanics from Harbin University of Science and Technology. His research focuses on AI-assisted atomic mechanics.
+        <em>Yuyang received his B.S. in Mechanics from Harbin University of Science and Technology. His research focuses on AI-assisted atomic mechanics.</em>
       </p>
     </div>
 
