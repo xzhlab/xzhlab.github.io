@@ -35,7 +35,6 @@ ___
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Aug 2026</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited as the leading Guest Editor with strong><i>Junwei</i></strong> of the Special Issue "Computational Design and Thermal Performance of Ceramic Materials" for <i>Ceramics</i>. </td>
     </tr>
-<tr>
 
 
 
