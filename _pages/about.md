@@ -36,6 +36,13 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited as the <strong>Leading Guest Editor</strong> with <strong><i>Junwei</i></strong> of the Special Issue &lt;<i>Computational Design and Thermal Performance of Ceramic Materials</i>&gt; for <i>Ceramics</i>. </td>
     </tr>
 
+
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> receives a funding from <i>Natural Science Basic Research Program of Shaanxi Province</i>. </td>
+    </tr>
+
+
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited by <i>Digest Journal of Nanomaterials and Biostructures</i> as its <strong>Young Editorial Board Member</strong>. </td>
