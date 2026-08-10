@@ -40,7 +40,7 @@ ___
 <tr>
   <td style="border: none;"></td>
   <td style="border: none; text-align: left;">
-    <img src="../images/mdpice.png" alt="5" style="width: 115px; height: 153px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <img src="../images/mdpice.png" alt="5" style="width: 168px; height: 180px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
     
   </td>
 </tr>
