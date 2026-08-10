@@ -33,8 +33,19 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Aug 2026</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited as the <strong>Leading Guest Editor</strong> with <strong><i>Junwei</i></strong> of the Special Issue &lt;<i>Computational Design and Thermal Performance of Ceramic Materials</i>&gt; for <i>Ceramics</i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited as the <strong>Leading Guest Editor</strong> with <strong><i>Junwei</i></strong> of the Special Issue &lt;<i>Computational Design and Thermal Performance of Ceramic Materials</i>&gt; for <i>Ceramics</i>. <a href="https://www.mdpi.com/journal/ceramics/special_issues/UX8DBM5581" target="_blank">More</a>. </td>
     </tr>
+
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/mdpice.png" alt="5" style="width: 115px; height: 153px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    
+  </td>
+</tr>
+
+
 
 <!--
 <tr>
