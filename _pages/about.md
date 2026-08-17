@@ -45,14 +45,10 @@ ___
   </td>
 </tr>
 
-
-
-<!--
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> receives a funding from <i>Natural Science Basic Research Program of Shaanxi Province</i>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> receives a funding from <i><span style="color: #1488b8;">Natural Science Basic Research Program of Shaanxi Province</span></i>. </td>
     </tr>
--->
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
