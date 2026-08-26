@@ -33,7 +33,7 @@ ___
 
 
  <tr>
-      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2026</td>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Aug 2026</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> receives the grant from <strong><span style="color: #1488b8;">NSFC</span></strong>. Way to go!</td>
     </tr>
 
