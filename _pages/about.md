@@ -61,7 +61,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> is invited by <i>Digest Journal of Nanomaterials and Biostructures</i> as its <strong>Young Editorial Board Member</strong>. </td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> joins as <strong>Early-Career Editorial Board Member</strong> of <i>Digest Journal of Nanomaterials and Biostructures</i>. </td>
     </tr>
 
 <tr>
