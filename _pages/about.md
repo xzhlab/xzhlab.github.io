@@ -67,7 +67,7 @@ ___
 <tr>
   <td style="border: none;"></td>
   <td style="border: none; text-align: left;">
-    <img src="../images/djnb1.png" alt="5" style="width: 200px; height: 165px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <img src="../images/djnb1.png" alt="5" style="width: 200px; height: 180px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
     
   </td>
 </tr>
