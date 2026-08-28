@@ -94,7 +94,10 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> and <strong><i>Tianjun</i></strong>, et al. publish the <em>Self-driven near-Infrared photodetector based on WTe2/PdS2 two-dimensional heterostructure with ultra-high polarization sensitivity</em> on <em>Surfaces and Interfaces</em>.</td>
     </tr>
 
-
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
+      <td style="border: none; word-wrap: break-word;">Research from <strong><i>Junwei</i></strong> and <strong><i>Xuezhi</i></strong> on <em>Revisiting phonon thermal transport in penta-graphene</em> is reported by GPUMD&NEP official account. <a href="https://mp.weixin.qq.com/s/Kj-Ul1wVFRMfPZv3Mw9Jzg" target="_blank">Fine more</a>.</td>
+    </tr>
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
