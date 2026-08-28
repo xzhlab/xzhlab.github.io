@@ -96,7 +96,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> and <strong><i>Xuezhi</i></strong> research work on <em>Revisiting phonon thermal transport in penta-graphene</em> is reported by GPUMD&NEP official account. <a href="https://mp.weixin.qq.com/s/Kj-Ul1wVFRMfPZv3Mw9Jzg" target="_blank">Fine more</a>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> and <strong><i>Xuezhi</i></strong> research work on <em>Revisiting phonon thermal transport in penta-graphene</em> is reported by <strong>GPUMD&NEP official account</strong>. <a href="https://mp.weixin.qq.com/s/Kj-Ul1wVFRMfPZv3Mw9Jzg" target="_blank">Fine more</a>.</td>
     </tr>
 
 <tr>
