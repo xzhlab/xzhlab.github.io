@@ -6,7 +6,9 @@ author_profile: true
 ---
 <strong style="font-size: 16px; color: #7a2b2b;">2026</strong>
 
-<span style="font-size:16px"> *J. Linghu, J. Wen, Z. Liang, X. Sun, J. Zhang, X. Wang, J. Che, S. Wei. Self-driven near-Infrared photodetector based on WTe2/PdS2 two-dimensional heterostructure with ultra-high polarization sensitivity, Surfaces and Interfaces, online*.<span>
+<span style="font-size:16px"> *Z. Chen, J. Che, Y. Xu, J. Linghu, L. Wang, X. Wang. Dynamic capture of cracks propagation behavior and thermal transport within high entropy ceramics under elevated thermal stress field, Ceramics International, online.*.<span>
+
+<span style="font-size:16px"> *J. Linghu, J. Wen, Z. Liang, X. Sun, J. Zhang, X. Wang, J. Che, S. Wei. Self-driven near-Infrared photodetector based on WTe2/PdS2 two-dimensional heterostructure with ultra-high polarization sensitivity, Surfaces and Interfaces, Vol 96, 2026, 109881*.<span>
 
 <span style="font-size:16px"> *J. Che, X. Wang. Revisiting phonon thermal transport in penta-graphene via a machine-learning potential-driven large-scale molecular dynamics simulation. Computational Materials Science, 267, 114606*.<span>
 
