@@ -31,6 +31,13 @@ ___
      </tr>
 
 
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2026</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong>, et al. publishes the work <em>Dynamic capture of cracks propagation behavior and thermal transport within high entropy ceramics under elevated thermal stress field</em> on <em>Ceramics International</em>.</td>
+    </tr>
+
+
+
 
  <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Aug 2026</td>
