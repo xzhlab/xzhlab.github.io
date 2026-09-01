@@ -33,8 +33,19 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2026</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong>, et al. publishes the work <em>Dynamic capture of cracks propagation behavior and thermal transport within high entropy ceramics under elevated thermal stress field</em> on <em>Ceramics International</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> and <strong><i>Xuezhi</i></strong>, et al. publish our work <em>Dynamic capture of cracks propagation behavior and thermal transport within high entropy ceramics under elevated thermal stress field</em> on <strong><span style="color: #1488b8;">Ceramics International</span></strong>.</td>
     </tr>
+
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/CI.png" alt="5" style="width: 115px; height: 153px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    
+  </td>
+</tr>
+
+
+
 
 
 
