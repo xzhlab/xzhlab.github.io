@@ -21,7 +21,7 @@ redirect_from:
 
 <hr style="border: 0; 
           height: 1px; 
-          background: #f8f8ff; 
+          background: #333333; 
           margin: 20px 0;">
   <br /> 
   
@@ -86,7 +86,7 @@ redirect_from:
 </div>
 <hr style="border: 0; 
           height: 1px; 
-          background: #f8f8ff; 
+          background: #333333; 
           margin: 20px 0;">
 
 
@@ -138,7 +138,7 @@ redirect_from:
 
 <hr style="border: 0; 
           height: 1px; 
-          background: #f8f8ff; 
+          background: #333333; 
           margin: 20px 0;">
   <br> 
   
@@ -197,7 +197,7 @@ redirect_from:
 
 <hr style="border: 0; 
           height: 1px; 
-          background: #f8f8ff; 
+          background: #333333; 
           margin: 20px 0;">
 
 
@@ -382,7 +382,10 @@ redirect_from:
 
 <br><br>
 
-
+<hr style="border: 0; 
+          height: 1px; 
+          background: #333333; 
+          margin: 20px 0;">
 <!-- ==================== Lab Alumni ==================== -->
 
 <div style="margin-left:70px; text-align:center;">
@@ -392,7 +395,7 @@ redirect_from:
 </div>
 <br>
 
-<div style="margin-left:70px; ">
+<div style="margin-left:70px; text-align:left">
   <h1 style="color:#000080; font-size:15px; margin-bottom:30px;">
     Undergradutes
   </h1>
