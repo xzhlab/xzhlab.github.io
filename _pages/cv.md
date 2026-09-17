@@ -214,16 +214,6 @@ redirect_from:
 
 <!-- ===== 1st row ===== -->
 
-<!-- Mingxuan Li -->
-  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
-    <img src="../images/lmx.png"
-         alt="Mingxuan Li"
-         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Mingxuan Li</em>
-    </p>
-  </div>
-
 
 <div style="display:flex; justify-content:space-between; margin-bottom:40px; gap:40px;">
 
@@ -238,18 +228,15 @@ redirect_from:
   </div>
 
 
-
-  <!-- 
-  Ssegawa Raymond Mark
+ <!-- Mingxuan Li -->
   <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
-    <img src="../images/mark.png"
-         alt="Ssegawa Raymond Mark"
+    <img src="../images/lmx.png"
+         alt="Mingxuan Li"
          style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
     <p class="name" style="font-size:17px; margin:0;">
-      <em>Ssegawa Raymond Mark</em>
+      <em>Mingxuan Li</em>
     </p>
   </div>
-   -->
 
   <!-- Xuan Zeng -->
   <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
