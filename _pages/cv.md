@@ -206,9 +206,7 @@ redirect_from:
   <span style="line-height: 1; font-size:14px;"> <h1 style="color: #000080;">Undergraduates</h1> </span> 
 </div> <br>    
 
-    
-
-<h2 style="color:#06336b; margin-bottom:25px;">Undergraduate Students</h2>
+  
 
 <div style="overflow-x:auto;">
 <table style="
@@ -223,10 +221,10 @@ redirect_from:
       <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:15%;">
         Name
       </th>
-      <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:35%;">
+      <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:15%;">
         Major
       </th>
-      <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:12%;">
+      <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:32%;">
         Time at Lab
       </th>
       <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:38%;">
@@ -257,7 +255,7 @@ redirect_from:
         <strong>Ssegawa Raymond Mark</strong>
       </td>
       <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
+        Infomation
       </td>
       <td style="padding:14px; border:1px solid #d0d0d0;">
         2023–
@@ -302,7 +300,7 @@ redirect_from:
         <strong>Yousra El Mouloudi</strong>
       </td>
       <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
+        Computer Science
       </td>
       <td style="padding:14px; border:1px solid #d0d0d0;">
         2023–
@@ -332,7 +330,7 @@ redirect_from:
         <strong>Isha Abdulai Turay</strong>
       </td>
       <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
+        Computer Science
       </td>
       <td style="padding:14px; border:1px solid #d0d0d0;">
         2023–
