@@ -140,7 +140,7 @@ redirect_from:
           height: 1px; 
           background: #f8f8ff; 
           margin: 20px 0;">
-  <br /> 
+  <br/> 
   
 
 <div style="margin-left: 70px; text-align: center;">    
@@ -205,10 +205,11 @@ redirect_from:
 <!-- ==================== Undergraduates ==================== -->
 
 <div style="margin-left: 70px; text-align: center;">
-  <h1 style="color:#000080; font-size:28px; margin-bottom:30px;">
+  <h1 style="color:#000080; font-size:14px; margin-bottom:30px;">
     Undergraduates
   </h1>
 </div>
+</br>
 
 
 <!-- ===== 1st row ===== -->
@@ -390,7 +391,7 @@ redirect_from:
 <!-- ==================== Lab Alumni ==================== -->
 
 <div style="margin-left:70px; text-align:center;">
-  <h1 style="color:#000080; font-size:28px; margin-bottom:30px;">
+  <h1 style="color:#000080; font-size:14px; margin-bottom:30px;">
     Lab Alumni
   </h1>
 </div>
@@ -472,26 +473,7 @@ redirect_from:
     </tr>
 
 
-    <!-- Yousra El Mouloudi -->
-    <tr>
 
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Yousra El Mouloudi</strong>
-      </td>
-
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Computer Science
-      </td>
-
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-
-    </tr>
 
   </tbody>
 
