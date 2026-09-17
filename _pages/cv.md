@@ -380,7 +380,7 @@ redirect_from:
 
 </div>
 
-<br><br>
+<br>
 
 <hr style="border: 0; 
           height: 1px; 
