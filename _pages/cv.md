@@ -446,7 +446,7 @@ redirect_from:
         border:1px solid #d0d0d0;
         width:38%;
       ">
-        Position after Graduation/Leaving Lab
+        Position after Graduation
       </th>
 
     </tr>
