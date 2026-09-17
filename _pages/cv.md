@@ -147,7 +147,7 @@ redirect_from:
 <span style="line-height: 1; font-size:14px;"> <h1 style="color:	#000080;">Graduates</h1> </span> 
  </div>
 
-<br>
+<br><br>
 
 <div style="display:flex; gap:50px; align-items:flex-start;">
 
