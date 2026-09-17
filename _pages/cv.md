@@ -463,7 +463,7 @@ redirect_from:
       </td>
 
       <td style="padding:14px; border:1px solid #d0d0d0;">
-        Information
+        Information Engineering
       </td>
 
       <td style="padding:14px; border:1px solid #d0d0d0;">
