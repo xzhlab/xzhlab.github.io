@@ -435,21 +435,7 @@ redirect_from:
 
   <tbody>
 
-    <tr>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Beijie Hu</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
+    
     <tr style="background-color:#f2f2f2;">
       <td style="padding:14px; border:1px solid #d0d0d0;">
         <strong>Ssegawa Raymond Mark</strong>
@@ -465,37 +451,9 @@ redirect_from:
       </td>
     </tr>
 
-    <tr>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Xuan Zeng</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
+   
 
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Zidong Liang</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr>
+      <tr>
       <td style="padding:14px; border:1px solid #d0d0d0;">
         <strong>Yousra El Mouloudi</strong>
       </td>
@@ -510,140 +468,7 @@ redirect_from:
       </td>
     </tr>
 
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Jiajie Zhang</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Isha Abdulai Turay</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Computer Science
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Zhihao Zhou</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Tianjun Wen</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Xiaona Sun</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Haoran Zhang</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Xinying Quan</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Simiao Yan</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
-
-    <tr style="background-color:#f2f2f2;">
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        <strong>Mingxuan Li</strong>
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        Physics
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
-      </td>
-      <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
-      </td>
-    </tr>
+    
 
   </tbody>
 
