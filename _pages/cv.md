@@ -208,202 +208,249 @@ redirect_from:
 
     
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
-  <!-- 第1个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/bj.jpg" 
-         alt="bj"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Beijie Hu</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Beijie is interested in computational physics.-->
-    </em>
-  </div>
+<h2 style="color:#06336b; margin-bottom:25px;">Undergraduate Students</h2>
 
-  <!-- 第2个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/mark.png" 
-         alt="Ssegawa Raymond Mark"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Ssegawa Raymond Mark</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Mark is interested in theoretical physics.-->
-    </em>
-  </div>
+<div style="overflow-x:auto;">
+<table style="
+  width:100%;
+  border-collapse:collapse;
+  font-size:16px;
+  line-height:1.25;
+">
 
- <!-- 第3个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/zx.jpg" 
-         alt="zx"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Xuan Zeng</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      <!--Xuan is interested in computational physics.-->
-    </em>
-  </div>
-  
+  <thead>
+    <tr style="background-color:#dedcdc; color:#06336b;">
+      <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:15%;">
+        Name
+      </th>
+      <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:35%;">
+        Major
+      </th>
+      <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:12%;">
+        Time at Lab
+      </th>
+      <th style="padding:14px; text-align:left; border:1px solid #d0d0d0; width:38%;">
+        Position after Graduation/Leaving Lab
+      </th>
+    </tr>
+  </thead>
+
+  <tbody>
+
+    <tr>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Beijie Hu</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Ssegawa Raymond Mark</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Xuan Zeng</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Zidong Liang</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Yousra El Mouloudi</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Jiajie Zhang</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Isha Abdulai Turay</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Zhihao Zhou</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Tianjun Wen</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Xiaona Sun</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Haoran Zhang</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Xinying Quan</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Simiao Yan</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+    <tr style="background-color:#f2f2f2;">
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <strong>Mingxuan Li</strong>
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Physics
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        2023–
+      </td>
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        —
+      </td>
+    </tr>
+
+  </tbody>
+
+</table>
 </div>
-
- <!-- 2nd row -->
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
-  <!-- 第1个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/Lzd.png" 
-         alt="lzd"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Zidong Liang</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Beijie is interested in computational physics.-->
-    </em>
-  </div>
-
-  <!-- 第2个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/Yousra.png" 
-         alt="Yousra El Mouloudi"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Yousra El Mouloudi</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Mark is interested in theoretical physics.-->
-    </em>
-  </div>
-
- <!-- 第3个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/zjj.jpg" 
-         alt="zjj"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Jiajie Zhang</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      <!--Xuan is interested in computational physics.-->
-    </em>
-  </div>
-  
-</div>
-
- <!-- 3rd row -->
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
-  <!-- 第1个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/Turay.png" 
-         alt="Turay"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Isha Abdulai Turay</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Beijie is interested in computational physics.-->
-    </em>
-  </div>
-
-  <!-- 第2个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/zzh.png" 
-         alt="zz"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Zhihao Zhou</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Mark is interested in theoretical physics.-->
-    </em>
-  </div>
-
- <!-- 第3个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/wtj.png" 
-         alt="zjj"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Tianjun Wen</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      <!--Xuan is interested in computational physics.-->
-    </em>
-  </div>
-</div>
-
- <!-- 4th row -->
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
-  <!-- 第1个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/Xns.png" 
-         alt="Turay"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Xiaona Sun</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Beijie is interested in computational physics.-->
-    </em>
-  </div>
-
-  <!-- 第2个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/hrz.png" 
-         alt="zz"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Haoran Zhang</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Mark is interested in theoretical physics.-->
-    </em>
-  </div>
-
- <!-- 第3个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/Xyq.png" 
-         alt="zjj"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Xinying Quan</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-      <!--Xuan is interested in computational physics.-->
-    </em>
-  </div>
-</div>
-  
-   <!-- 5th row -->
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px; gap: 120px;">
-  <!-- 第1个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/ysm.png" 
-         alt="Turay"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Simiao Yan</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Beijie is interested in computational physics.-->
-    </em>
-  </div>
-
- <!-- 第2个成员 -->
-  <div style="flex: 1 1 45%; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="../images/lmx.png" 
-         alt="zz"
-         style="width: 135px; height: 135px; margin-bottom: 10px; border-radius: 50%;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Mingxuan Li</em>
-    </p>
-    <em style="font-size: 16px; margin-top: 20px; text-align: left;">
-       <!--Mark is interested in semiconductor physics.-->
-    </em>
-  </div>
   
 </div>
 
