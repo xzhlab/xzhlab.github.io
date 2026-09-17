@@ -225,7 +225,8 @@ redirect_from:
     </p>
   </div>
 
-  <!-- Ssegawa Raymond Mark -->
+  <!-- 
+  Ssegawa Raymond Mark
   <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
     <img src="../images/mark.png"
          alt="Ssegawa Raymond Mark"
@@ -234,6 +235,7 @@ redirect_from:
       <em>Ssegawa Raymond Mark</em>
     </p>
   </div>
+   -->
 
   <!-- Xuan Zeng -->
   <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
