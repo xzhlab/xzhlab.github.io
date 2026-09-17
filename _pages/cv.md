@@ -194,12 +194,13 @@ redirect_from:
   </div>
 
 </div>
+<br>
 
 <hr style="border: 0; 
           height: 1px; 
           background: #555555; 
           margin: 20px 0;">
-
+<br>
 
          
 <!-- ==================== Undergraduates ==================== -->
