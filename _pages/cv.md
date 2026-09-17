@@ -395,7 +395,7 @@ redirect_from:
 </div>
 <br>
 
-<div style="margin-left:70px; text-align:left">
+<div style="margin-left:0px; text-align:left">
   <h1 style="color:#000080; font-size:15px; margin-bottom:30px;">
     Undergradutes
   </h1>
