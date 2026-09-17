@@ -360,7 +360,7 @@ redirect_from:
 
 
 <!-- ===== 5th row ===== -->
-<div style="display:flex; justify-content:space-between; margin-bottom:50px; gap:40px;">
+<div style="display:flex; margin-bottom:50px; gap:40px;">
 
   <!-- Simiao Yan -->
   <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
@@ -372,13 +372,13 @@ redirect_from:
     </p>
   </div>
 
-  
+  <!-- Empty space -->
+  <div style="flex:1;"></div>
 
-  <!-- Empty space to keep the 3-column layout -->
+  <!-- Empty space -->
   <div style="flex:1;"></div>
 
 </div>
-
 
 <br><br>
 
