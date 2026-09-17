@@ -463,7 +463,7 @@ redirect_from:
       </td>
 
       <td style="padding:14px; border:1px solid #d0d0d0;">
-        2023–
+        02/2025–08/2026
       </td>
 
       <td style="padding:14px; border:1px solid #d0d0d0;">
