@@ -456,7 +456,7 @@ redirect_from:
   <tbody>
 
     <!-- Ssegawa Raymond Mark -->
-    <tr style="background-color:#111111;">
+    <tr style="background-color:#ffffff;">
 
       <td style="padding:14px; border:1px solid #d0d0d0;">
         <em>Ssegawa Raymond Mark</em>
