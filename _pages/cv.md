@@ -21,7 +21,7 @@ redirect_from:
 
 <hr style="border: 0; 
           height: 1px; 
-          background: #333333; 
+          background: #444444; 
           margin: 20px 0;">
   <br /> 
   
@@ -86,7 +86,7 @@ redirect_from:
 </div>
 <hr style="border: 0; 
           height: 1px; 
-          background: #333333; 
+          background: #444444; 
           margin: 20px 0;">
 
 
@@ -138,7 +138,7 @@ redirect_from:
 
 <hr style="border: 0; 
           height: 1px; 
-          background: #333333; 
+          background: #444444; 
           margin: 20px 0;">
   <br> 
   
@@ -197,7 +197,7 @@ redirect_from:
 
 <hr style="border: 0; 
           height: 1px; 
-          background: #333333; 
+          background: #444444; 
           margin: 20px 0;">
 
 
@@ -384,7 +384,7 @@ redirect_from:
 
 <hr style="border: 0; 
           height: 1px; 
-          background: #333333; 
+          background: #444444; 
           margin: 20px 0;">
 <!-- ==================== Lab Alumni ==================== -->
 
