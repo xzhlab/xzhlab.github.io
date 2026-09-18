@@ -447,7 +447,7 @@ redirect_from:
         border:1px solid #d0d0d0;
         width:38%;
       ">
-        Position after Graduation
+        After leaving the lab
       </th>
 
     </tr>
@@ -472,7 +472,7 @@ redirect_from:
       </td>
 
       <td style="padding:14px; border:1px solid #d0d0d0;">
-        —
+        Junior
       </td>
 
     </tr>
