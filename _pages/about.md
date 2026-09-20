@@ -14,11 +14,11 @@ redirect_from:
 
   <!-- Slides -->
   <div class="home-slide active">
-    <img src="/images/slide1.jpg" alt="Research and Lab">
+    <img src="/images/s1.png" alt="Research and Lab">
   </div>
 
   <div class="home-slide">
-    <img src="/images/slide2.jpg" alt="Research and Lab">
+    <img src="/images/s2.png" alt="Research and Lab">
   </div>
 
   <div class="home-slide">
