@@ -62,7 +62,7 @@ redirect_from:
 
 .home-slideshow {
   width: 100%;
-  height: 380px;
+  height: 255px;
   position: relative;
   overflow: hidden;
   margin-bottom: 35px;
