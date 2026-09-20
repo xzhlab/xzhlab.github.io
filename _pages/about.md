@@ -8,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <!-- ==================== Photo Slideshow ==================== -->
 <div class="home-slideshow">
 
@@ -56,6 +55,13 @@ redirect_from:
 </div>
 
 
+<!-- ==================== Welcome Bar ==================== -->
+
+<div class="welcome-navigation">
+  <span>Welcome</span>
+</div>
+
+
 <style>
 
 /* ==================== Slideshow ==================== */
@@ -65,22 +71,28 @@ redirect_from:
   height: 240px;
   position: relative;
   overflow: hidden;
-  margin-bottom: 35px;
-  border-radius: 4px;
+
+  margin-bottom: 0;
+
+  border-radius: 4px 4px 0 0;
+
   background: #f5f5f5;
 }
 
 
-/* Slides */
+/* ==================== Slides ==================== */
 
 .home-slide {
   position: absolute;
+
   width: 100%;
   height: 100%;
+
   top: 0;
   left: 0;
 
   opacity: 0;
+
   transition: opacity 1.2s ease-in-out;
 }
 
@@ -91,7 +103,9 @@ redirect_from:
 .home-slide img {
   width: 100%;
   height: 100%;
+
   object-fit: cover;
+
   display: block;
 }
 
@@ -101,25 +115,32 @@ redirect_from:
 .slide-prev,
 .slide-next {
   position: absolute;
+
   top: 50%;
+
   transform: translateY(-50%);
 
   width: 42px;
   height: 42px;
 
   border: none;
+
   border-radius: 50%;
 
   background: rgba(0, 0, 0, 0.35);
+
   color: white;
 
   font-size: 22px;
+
   line-height: 42px;
+
   text-align: center;
 
   cursor: pointer;
 
   opacity: 0;
+
   transition: opacity 0.3s ease;
 }
 
@@ -146,9 +167,12 @@ redirect_from:
 
 .slide-dots {
   position: absolute;
+
   bottom: 15px;
   left: 0;
+
   width: 100%;
+
   text-align: center;
 }
 
@@ -171,8 +195,42 @@ redirect_from:
 
 .slide-dot.active {
   width: 22px;
+
   border-radius: 5px;
+
   background: white;
+}
+
+
+/* ==================== Welcome Bar ==================== */
+
+.welcome-navigation {
+  width: 100%;
+  height: 52px;
+
+  background: #333333;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: flex-end;
+
+  margin-top: 0;
+
+  margin-bottom: 30px;
+
+  border-radius: 0 0 4px 4px;
+}
+
+.welcome-navigation span {
+  color: #ffffff;
+
+  font-size: 18px;
+
+  font-weight: 500;
+
+  padding-right: 25px;
 }
 
 
@@ -188,8 +246,20 @@ redirect_from:
   .slide-next {
     width: 34px;
     height: 34px;
+
     font-size: 18px;
+
     line-height: 34px;
+  }
+
+  .welcome-navigation {
+    height: 46px;
+  }
+
+  .welcome-navigation span {
+    font-size: 16px;
+
+    padding-right: 18px;
   }
 
 }
@@ -203,7 +273,7 @@ let currentHomeSlide = 0;
 let homeSlideTimer;
 
 
-/* Show slide */
+/* ==================== Show Slide ==================== */
 
 function showHomeSlide(index) {
 
@@ -223,11 +293,12 @@ function showHomeSlide(index) {
   currentHomeSlide = index;
 
   slides[currentHomeSlide].classList.add("active");
+
   dots[currentHomeSlide].classList.add("active");
 }
 
 
-/* Previous / Next */
+/* ==================== Previous / Next ==================== */
 
 function changeHomeSlide(direction) {
 
@@ -249,7 +320,7 @@ function changeHomeSlide(direction) {
 }
 
 
-/* Automatic slideshow */
+/* ==================== Automatic Slideshow ==================== */
 
 function restartHomeSlideTimer() {
 
@@ -272,11 +343,12 @@ function restartHomeSlideTimer() {
 }
 
 
-/* Start */
+/* ==================== Start ==================== */
 
 document.addEventListener("DOMContentLoaded", function() {
 
   showHomeSlide(0);
+
   restartHomeSlideTimer();
 
 });
