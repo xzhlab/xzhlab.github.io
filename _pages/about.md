@@ -22,19 +22,19 @@ redirect_from:
   </div>
 
   <div class="home-slide">
-    <img src="/images/slide3.jpg" alt="Research and Lab">
+    <img src="/images/s3.png" alt="Research and Lab">
   </div>
 
   <div class="home-slide">
-    <img src="/images/slide4.jpg" alt="Research and Lab">
+    <img src="/images/s4.png" alt="Research and Lab">
   </div>
 
   <div class="home-slide">
-    <img src="/images/slide5.jpg" alt="Research and Lab">
+    <img src="/images/s5.png" alt="Research and Lab">
   </div>
 
   <div class="home-slide">
-    <img src="/images/slide6.jpg" alt="Research and Lab">
+    <img src="/images/s6.png" alt="Research and Lab">
   </div>
 
 
