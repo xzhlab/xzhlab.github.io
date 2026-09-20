@@ -206,7 +206,7 @@ redirect_from:
 
 .welcome-navigation {
   width: 100%;
-  height: 52px;
+  height: 45px;
 
   background: #333333;
 
@@ -226,7 +226,7 @@ redirect_from:
 .welcome-navigation span {
   color: #ffffff;
 
-  font-size: 18px;
+  font-size: 20px;
 
   font-weight: 500;
 
@@ -239,7 +239,7 @@ redirect_from:
 @media screen and (max-width: 768px) {
 
   .home-slideshow {
-    height: 250px;
+    height: 180px;
   }
 
   .slide-prev,
@@ -356,7 +356,8 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 
-<!-- ==================== Welcome ==================== -->
+<!-- 
+==================== Welcome ==================== 
 
 <tr>
   <td style="width: 100%; border: none; vertical-align: top; text-align: right;">
@@ -366,7 +367,7 @@ document.addEventListener("DOMContentLoaded", function() {
   </td>
 </tr>
 
-
+-->
 
 
 <!--
