@@ -297,10 +297,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
+<!--
 <tr>
       <td style="width: 100%; border: none; vertical-align: top; text-align: right;"><strong style="font-size: 22px; color: #000080;">Welcome</strong><br>
       </td>
 </tr>
+-->
 
 
 <div style="text-align: left; font-size: 18px;">
