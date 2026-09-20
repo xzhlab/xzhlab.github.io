@@ -8,6 +8,295 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<!-- ==================== Photo Slideshow ==================== -->
+<div class="home-slideshow">
+
+  <!-- Slides -->
+  <div class="home-slide active">
+    <img src="/images/slide1.jpg" alt="Research and Lab">
+  </div>
+
+  <div class="home-slide">
+    <img src="/images/slide2.jpg" alt="Research and Lab">
+  </div>
+
+  <div class="home-slide">
+    <img src="/images/slide3.jpg" alt="Research and Lab">
+  </div>
+
+  <div class="home-slide">
+    <img src="/images/slide4.jpg" alt="Research and Lab">
+  </div>
+
+  <div class="home-slide">
+    <img src="/images/slide5.jpg" alt="Research and Lab">
+  </div>
+
+  <div class="home-slide">
+    <img src="/images/slide6.jpg" alt="Research and Lab">
+  </div>
+
+
+  <!-- Previous / Next buttons -->
+  <button class="slide-prev" onclick="changeHomeSlide(-1)">&#10094;</button>
+  <button class="slide-next" onclick="changeHomeSlide(1)">&#10095;</button>
+
+
+  <!-- Six dots -->
+  <div class="slide-dots">
+    <span class="slide-dot active" onclick="showHomeSlide(0)"></span>
+    <span class="slide-dot" onclick="showHomeSlide(1)"></span>
+    <span class="slide-dot" onclick="showHomeSlide(2)"></span>
+    <span class="slide-dot" onclick="showHomeSlide(3)"></span>
+    <span class="slide-dot" onclick="showHomeSlide(4)"></span>
+    <span class="slide-dot" onclick="showHomeSlide(5)"></span>
+  </div>
+
+</div>
+
+
+<style>
+
+/* ==================== Slideshow ==================== */
+
+.home-slideshow {
+  width: 100%;
+  height: 380px;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 35px;
+  border-radius: 4px;
+  background: #f5f5f5;
+}
+
+
+/* Slides */
+
+.home-slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+
+  opacity: 0;
+  transition: opacity 1.2s ease-in-out;
+}
+
+.home-slide.active {
+  opacity: 1;
+}
+
+.home-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+
+/* ==================== Navigation Buttons ==================== */
+
+.slide-prev,
+.slide-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  width: 42px;
+  height: 42px;
+
+  border: none;
+  border-radius: 50%;
+
+  background: rgba(0, 0, 0, 0.35);
+  color: white;
+
+  font-size: 22px;
+  line-height: 42px;
+  text-align: center;
+
+  cursor: pointer;
+
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.home-slideshow:hover .slide-prev,
+.home-slideshow:hover .slide-next {
+  opacity: 1;
+}
+
+.slide-prev {
+  left: 18px;
+}
+
+.slide-next {
+  right: 18px;
+}
+
+.slide-prev:hover,
+.slide-next:hover {
+  background: rgba(0, 0, 0, 0.65);
+}
+
+
+/* ==================== Dots ==================== */
+
+.slide-dots {
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.slide-dot {
+  display: inline-block;
+
+  width: 8px;
+  height: 8px;
+
+  margin: 0 5px;
+
+  border-radius: 50%;
+
+  background: rgba(255, 255, 255, 0.65);
+
+  cursor: pointer;
+
+  transition: all 0.3s ease;
+}
+
+.slide-dot.active {
+  width: 22px;
+  border-radius: 5px;
+  background: white;
+}
+
+
+/* ==================== Mobile ==================== */
+
+@media screen and (max-width: 768px) {
+
+  .home-slideshow {
+    height: 250px;
+  }
+
+  .slide-prev,
+  .slide-next {
+    width: 34px;
+    height: 34px;
+    font-size: 18px;
+    line-height: 34px;
+  }
+
+}
+
+</style>
+
+
+<script>
+
+let currentHomeSlide = 0;
+let homeSlideTimer;
+
+
+/* Show slide */
+
+function showHomeSlide(index) {
+
+  const slides = document.querySelectorAll(".home-slide");
+  const dots = document.querySelectorAll(".slide-dot");
+
+  if (!slides.length) return;
+
+  slides.forEach(function(slide) {
+    slide.classList.remove("active");
+  });
+
+  dots.forEach(function(dot) {
+    dot.classList.remove("active");
+  });
+
+  currentHomeSlide = index;
+
+  slides[currentHomeSlide].classList.add("active");
+  dots[currentHomeSlide].classList.add("active");
+}
+
+
+/* Previous / Next */
+
+function changeHomeSlide(direction) {
+
+  const slides = document.querySelectorAll(".home-slide");
+
+  currentHomeSlide += direction;
+
+  if (currentHomeSlide >= slides.length) {
+    currentHomeSlide = 0;
+  }
+
+  if (currentHomeSlide < 0) {
+    currentHomeSlide = slides.length - 1;
+  }
+
+  showHomeSlide(currentHomeSlide);
+
+  restartHomeSlideTimer();
+}
+
+
+/* Automatic slideshow */
+
+function restartHomeSlideTimer() {
+
+  clearInterval(homeSlideTimer);
+
+  homeSlideTimer = setInterval(function() {
+
+    currentHomeSlide++;
+
+    const slides = document.querySelectorAll(".home-slide");
+
+    if (currentHomeSlide >= slides.length) {
+      currentHomeSlide = 0;
+    }
+
+    showHomeSlide(currentHomeSlide);
+
+  }, 5000);
+
+}
+
+
+/* Start */
+
+document.addEventListener("DOMContentLoaded", function() {
+
+  showHomeSlide(0);
+  restartHomeSlideTimer();
+
+});
+
+</script>
+
+
+<!-- ==================== Welcome ==================== -->
+
+<tr>
+  <td style="width: 100%; border: none; vertical-align: top; text-align: right;">
+    <strong style="font-size: 22px; color: #000080;">
+      Welcome
+    </strong>
+  </td>
+</tr>
+
+
+
+
 <tr>
       <td style="width: 100%; border: none; vertical-align: top; text-align: right;"><strong style="font-size: 22px; color: #000080;">Welcome</strong><br>
       </td>
