@@ -206,7 +206,7 @@ redirect_from:
 
 .welcome-navigation {
   width: 100%;
-  height: 45px;
+  height: 36px;
 
   background: #444444;
 
