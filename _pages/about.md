@@ -208,7 +208,7 @@ redirect_from:
   width: 100%;
   height: 45px;
 
-  background: #333333;
+  background: #444444;
 
   display: flex;
 
