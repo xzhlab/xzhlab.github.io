@@ -58,7 +58,7 @@ redirect_from:
 <!-- ==================== Welcome Bar ==================== -->
 
 <div class="welcome-navigation">
-  <span>Welcome</span>
+  <span><strong>Welcome</strong></span>
 </div>
 
 
