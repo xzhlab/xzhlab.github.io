@@ -25,7 +25,7 @@ redirect_from:
   </div>
 
   <div class="home-slide">
-    <img src="/images/s4.png" alt="Research and Lab">
+    <img src="/images/s8.png" alt="Research and Lab">
   </div>
 
   <div class="home-slide">
