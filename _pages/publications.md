@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 <strong style="font-size: 16px; color: #7a2b2b;">2026</strong>
 
