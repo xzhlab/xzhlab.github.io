@@ -386,7 +386,7 @@ document.addEventListener("DOMContentLoaded", function() {
  
  
 ___
-/* ==================== Lab News ==================== */
+<!--/* ==================== Lab News ==================== */ -->
 
 <div style="width: 100%; overflow-x: auto;">
   <table style="width: 100%; font-size: 17px; border-collapse: collapse; border: none;">
@@ -395,7 +395,7 @@ ___
      </tr>
 
 
-/* ==================== Sep 2026 ==================== */
+<!--/* ==================== Sep 2026 ==================== */-->
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Sep 2026</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> and <strong><i>Xuezhi</i></strong>, et al. publish our work <em>Dynamic capture of cracks propagation behavior and thermal transport within high entropy ceramics under elevated thermal stress field</em> on <strong><span style="color: #1488b8;"><em>Ceramics International</em></span></strong>.</td>
@@ -415,7 +415,7 @@ ___
 </tr>
 
 
-/* ==================== Aug 2026 ==================== */
+<!--/* ==================== Aug 2026 ==================== */-->
 
 
  <tr>
