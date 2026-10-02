@@ -403,7 +403,7 @@ ___
     
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> wins the 2nd-class scholarship for his second year of master.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> wins <em>the 2nd-class scholarship</em> for his second year of master.</td>
     </tr>
     
 <tr>
@@ -422,9 +422,6 @@ ___
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Aug 2026</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Junwei</i></strong> receives the grant from <strong><span style="color: #1488b8;">NSFC</span></strong>. Way to go!</td>
     </tr>
-
-
-
 
 
 <tr>
@@ -458,6 +455,7 @@ ___
   </td>
 </tr>
 
+<!--/* ==================== Jul 2026 ==================== */-->
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jul 2026</td>
@@ -468,7 +466,7 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Mingxuan Li</i></strong> joins our lab for undergraduate internship. Welcome! </td>
     </tr>
 
-
+<!--/* ==================== Jun 2026 ==================== */-->
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jun 2026</td>
@@ -498,7 +496,7 @@ ___
   </td>
 </tr>
 
-
+<!--/* ==================== May 2026 ==================== */-->
 
 
 <tr>
@@ -517,6 +515,7 @@ ___
   </td>
 </tr>
 
+<!--/* ==================== Apr 2026 ==================== */-->
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Apr 2026</td>
@@ -536,6 +535,7 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Yazhi</i></strong> recieves a funding from <i>SAFS</i>. Congrats!</td>
     </tr>
 
+<!--/* ==================== Mar 2026 ==================== */-->
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Mar 2026</td>
@@ -555,7 +555,7 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Dr. Yazhi Xu</i></strong> joins the lab as our Co-PI. Welcome!</td>
     </tr>
 
-
+<!--/* ==================== Feb 2026 ==================== */-->
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Feb 2026</td>
@@ -563,13 +563,14 @@ ___
     </tr>
 
 
+<!--/* ==================== Jan 2026 ==================== */-->
     
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Jan 2026</td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Xuezhi</i></strong> signs an industry-sponsored project with <i>D. Co</i>. </td>
     </tr>
 
-
+<!--/* ==================== Dec 2025 ==================== */-->
 
 
 <tr>
@@ -587,6 +588,7 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Yifan</i></strong> launches the <i>All Good Project</i>.</td>
     </tr>
 
+<!--/* ==================== Nov 2025 ==================== */-->
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Nov 2025</td>
@@ -616,10 +618,6 @@ ___
 </tr>
 
 
-
-
-
-
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
       <td style="border: none; word-wrap: break-word;"><strong><i>Simiao Yan</i></strong> joins our lab for undergraduate internship. Welcome!</td>
@@ -630,6 +628,7 @@ ___
       <td style="border: none; word-wrap: break-word;"><strong><i>Lei</i></strong> and <strong><i>Yifan</i></strong> launch the <i>TS</i> software v1.0.</td>
     </tr>
 
+<!--/* ==================== Oct 2025 ==================== */-->
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Oct 2025</td>
