@@ -412,7 +412,7 @@ ___
 
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;"></td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> and <strong><i>Yuyang</i></strong> win <em>the 2nd-class Graduate scholarship</em>.</td>
+      <td style="border: none; word-wrap: break-word;">Both of <strong><i>Zhengwang</i></strong> and <strong><i>Yuyang</i></strong> win the <em>Graduate scholarship</em> for their graduates study.</td>
     </tr>
 
 
