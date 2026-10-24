@@ -394,6 +394,13 @@ ___
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
      </tr>
 
+<!--/* ==================== Oct 2026 ==================== */-->
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Oct 2026</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Jiajun</i></strong> attends the <em>CPS Fall meeting 2026</em>, <em>Changsha</em>.</td>
+    </tr>
+
+
 
 <!--/* ==================== Sep 2026 ==================== */-->
 <tr>
