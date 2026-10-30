@@ -13,7 +13,7 @@ redirect_from:
 
   <!-- Slides -->
   <div class="home-slide active">
-    <img src="/images/s7.png" alt="Research and Lab">
+    <img src="/images/s11.png" alt="Research and Lab">
   </div>
 
   <div class="home-slide">
@@ -25,7 +25,7 @@ redirect_from:
   </div>
 
   <div class="home-slide">
-    <img src="/images/s11.png" alt="Research and Lab">
+    <img src="/images/s7.png" alt="Research and Lab">
   </div>
 
   <div class="home-slide">
