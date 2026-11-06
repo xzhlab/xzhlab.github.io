@@ -394,6 +394,22 @@ ___
       <td style="color: #000080; font-size: 20px; width: 20%; border: none; vertical-align: top; text-align: right;"><strong>Lab News</strong></td>
      </tr>
 
+
+<!--/* ==================== Nov 2026 ==================== */-->
+<tr>
+      <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Nov 2026</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> attends <em>Advanced Ceramics Branch of The Chinese Ceramic Society</em> at <em>Tai'an, Shandong</em>.</td>
+    </tr>
+<tr>
+  <td style="border: none;"></td>
+  <td style="border: none; text-align: left;">
+    <img src="../images/z11.png" alt="5" style="width: 208px; height: 145px; margin: 7px 8px 4px 0; display: inline-block; vertical-align: top; border-radius: 8px;">
+    <img src="../images/z112.png" alt="5" style="width: 208px; height: 145px; margin: 7px 0; display: inline-block; vertical-align: top; border-radius: 8px;">    
+  </td>
+</tr>
+
+
+
 <!--/* ==================== Oct 2026 ==================== */-->
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Oct 2026</td>
