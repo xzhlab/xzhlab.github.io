@@ -398,7 +398,7 @@ ___
 <!--/* ==================== Nov 2026 ==================== */-->
 <tr>
       <td style="color: #7a2b2b; width: 20%; border: none; vertical-align: top; text-align: right;">Nov 2026</td>
-      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> attends <em>Advanced Ceramics Branch of The Chinese Ceramic Society</em> at <em>Tai'an, Shandong</em>.</td>
+      <td style="border: none; word-wrap: break-word;"><strong><i>Zhengwang</i></strong> attends the <em>24th Advanced Ceramics Branch of The Chinese Ceramic Society</em> at <em>Tai'an, Shandong</em>.</td>
     </tr>
 <tr>
   <td style="border: none;"></td>
