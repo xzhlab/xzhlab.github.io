@@ -265,16 +265,7 @@ redirect_from:
     </p>
   </div>
 
-  <!-- Yousra El Mouloudi -->
-  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
-    <img src="../images/Yousra.png"
-         alt="Yousra El Mouloudi"
-         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Yousra El Mouloudi</em>
-    </p>
-  </div>
-
+  
   <!-- Jiajie Zhang -->
   <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
     <img src="../images/zjj.jpg"
@@ -487,6 +478,26 @@ redirect_from:
 
     </tr>
 
+     <!-- Yousra El Mouloudi -->
+    <tr style="background-color:#ffffff;">
+
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <em>Yousra El Mouloudi</em>
+      </td>
+
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Computer Science
+      </td>
+
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        04/2025–1/2026
+      </td>
+
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Junior
+      </td>
+
+    </tr>
 
 
   </tbody>
