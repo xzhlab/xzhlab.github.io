@@ -278,6 +278,23 @@ redirect_from:
 
 </div>
 
+ <!-- Simiao Yan -->
+  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
+    <img src="../images/ysm.png"
+         alt="Simiao Yan"
+         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Simiao Yan</em>
+    </p>
+  </div>
+
+  <!-- Empty space -->
+  <div style="flex:1;"></div>
+
+  <!-- Empty space -->
+  <div style="flex:1;"></div>
+
+</div>
 
 <!-- ===== 3rd row ===== -->
 <div style="display:flex; justify-content:space-between; margin-bottom:40px; gap:40px;">
@@ -289,6 +306,16 @@ redirect_from:
          style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
     <p class="name" style="font-size:17px; margin:0;">
       <em>Zhihao Zhou</em>
+    </p>
+  </div>
+
+<!-- Xinying Quan -->
+  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
+    <img src="../images/Xyq.png"
+         alt="Xinying Quan"
+         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Xinying Quan</em>
     </p>
   </div>
 
@@ -328,39 +355,12 @@ redirect_from:
     </p>
   </div>
 
-  <!-- Xinying Quan -->
-  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
-    <img src="../images/Xyq.png"
-         alt="Xinying Quan"
-         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Xinying Quan</em>
-    </p>
-  </div>
-
 </div>
 
 
-<!-- ===== 5th row ===== -->
-<div style="display:flex; margin-bottom:50px; gap:40px;">
 
-  <!-- Simiao Yan -->
-  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
-    <img src="../images/ysm.png"
-         alt="Simiao Yan"
-         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Simiao Yan</em>
-    </p>
-  </div>
 
-  <!-- Empty space -->
-  <div style="flex:1;"></div>
-
-  <!-- Empty space -->
-  <div style="flex:1;"></div>
-
-</div>
+ 
 
 <br>
 
