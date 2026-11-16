@@ -265,6 +265,15 @@ redirect_from:
     </p>
   </div>
 
+ <!-- Simiao Yan -->
+  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
+    <img src="../images/ysm.png"
+         alt="Simiao Yan"
+         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
+    <p class="name" style="font-size:17px; margin:0;">
+      <em>Simiao Yan</em>
+    </p>
+  </div>
   
   <!-- Jiajie Zhang -->
   <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
@@ -278,15 +287,7 @@ redirect_from:
 
 </div>
 
- <!-- Simiao Yan -->
-  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
-    <img src="../images/ysm.png"
-         alt="Simiao Yan"
-         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Simiao Yan</em>
-    </p>
-  </div>
+
 
   <!-- Empty space -->
   <div style="flex:1;"></div>
