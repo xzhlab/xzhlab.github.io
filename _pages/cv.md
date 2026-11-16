@@ -291,16 +291,6 @@ redirect_from:
 <!-- ===== 3rd row ===== -->
 <div style="display:flex; justify-content:space-between; margin-bottom:40px; gap:40px;">
 
-  <!-- Isha Abdulai Turay -->
-  <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
-    <img src="../images/Turay.png"
-         alt="Isha Abdulai Turay"
-         style="width:135px; height:135px; margin-bottom:10px; border-radius:50%; object-fit:cover;">
-    <p class="name" style="font-size:17px; margin:0;">
-      <em>Isha Abdulai Turay</em>
-    </p>
-  </div>
-
   <!-- Zhihao Zhou -->
   <div style="flex:1; display:flex; flex-direction:column; align-items:center; text-align:center;">
     <img src="../images/zzh.png"
@@ -476,7 +466,26 @@ redirect_from:
       </td>
 
     </tr>
+  <!-- Isha Abdulai Turay -->
+    <tr style="background-color:#ffffff;">
 
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        <em>Isha Abdulai Turay</em>
+      </td>
+
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Computer Science
+      </td>
+
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        04/2025–10/2026
+      </td>
+
+      <td style="padding:14px; border:1px solid #d0d0d0;">
+        Senior
+      </td>
+
+    </tr>
 
 
 
