@@ -400,7 +400,7 @@ redirect_from:
         padding:14px;
         text-align:left;
         border:1px solid #d0d0d0;
-        width:15%;
+        width:25%;
       ">
         Name
       </th>
@@ -409,7 +409,7 @@ redirect_from:
         padding:14px;
         text-align:left;
         border:1px solid #d0d0d0;
-        width:15%;
+        width:30%;
       ">
         Major
       </th>
@@ -418,7 +418,7 @@ redirect_from:
         padding:14px;
         text-align:left;
         border:1px solid #d0d0d0;
-        width:32%;
+        width:25%;
       ">
         Time at Lab
       </th>
@@ -427,7 +427,7 @@ redirect_from:
         padding:14px;
         text-align:left;
         border:1px solid #d0d0d0;
-        width:38%;
+        width:20%;
       ">
         After leaving the lab
       </th>
